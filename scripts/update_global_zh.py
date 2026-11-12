@@ -3,6 +3,7 @@
 import datetime as dt
 import email.utils
 import json
+import os
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -70,6 +71,39 @@ for name,func in [("quakes",quake),("events",eonet),("space_weather",space),("to
 queries={"politics":"國際 政治 重大新聞 when:1d","technology":"人工智慧 科技 資安 IT when:1d","finance":"全球 金融 股市 經濟 when:1d","stormnews":"颱風 颶風 龍捲風 天氣 警報 when:1d","space":"NASA ISS 太空人 返回 地球 太空天氣 when:1d"}
 for name,query in queries.items():
     data["news"][name]=attempt("news_"+name,lambda q=query:rss(q)) or []
+def youtube_videos():
+    """Optional official YouTube Data API; no guessed video IDs or scraped embeds."""
+    key=os.environ.get("YOUTUBE_API_KEY","").strip()
+    if not key:
+        raise RuntimeError("YOUTUBE_API_KEY not configured; video discovery disabled")
+    categories=[
+        ("world","world breaking news today"),
+        ("weather","severe weather hurricane tornado latest news"),
+        ("earth","earthquake wildfire natural disaster latest news"),
+        ("space","NASA space news latest"),
+        ("business","global economy technology news today"),
+    ]
+    found=[]
+    for category,query in categories:
+        params=urllib.parse.urlencode({"part":"snippet","type":"video","videoEmbeddable":"true",
+            "videoSyndicated":"true","order":"date","maxResults":3,"q":query,
+            "publishedAfter":(NOW-dt.timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ"),"key":key})
+        try:
+            result=get("https://www.googleapis.com/youtube/v3/search?"+params)
+        except Exception as e:
+            print("youtube",category,str(e)[:100]);continue
+        for item in result.get("items",[]):
+            vid=item.get("id",{}).get("videoId","")
+            snippet=item.get("snippet",{})
+            if len(vid)!=11 or not all(c.isalnum() or c in "_-" for c in vid):continue
+            if any(v["id"]==vid for v in found):continue
+            found.append({"id":vid,"category":category,"title":snippet.get("title","")[:180],
+                "channel":snippet.get("channelTitle","")[:90],"published_at":snippet.get("publishedAt"),
+                "url":"https://www.youtube.com/watch?v="+vid})
+            break
+    if not found:raise RuntimeError("No eligible recent embeddable videos returned")
+    return found[:5]
+data["videos"]=attempt("youtube_videos",youtube_videos) or []
 if not any(data["news"].values()) and not any(data.get(k) for k in ("quakes","events","space_weather","weather","tornado")):
     raise SystemExit("All sources failed; refusing to publish")
 Path("global-zh-data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
