@@ -1,0 +1,9 @@
+{
+  "fire": {
+    "history": [],
+    "source": "https://www.toronto.ca/data/fire/livecad.xml"
+  },
+  "police": {
+    "status": "UNAVAILABLE"
+  }
+}
