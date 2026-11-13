@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-12T23:48:24.772709+00:00",
+  "updated_at": "2026-11-13T04:34:52.495509+00:00",
   "source": "Google News RSS",
   "articles": [
+    {
+      "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef - Alaska Public Media",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUVIdmlmWG9jSlNxb2FLUmZpcEhReTJEeUlXemVYMUY0aUFsQVBucGNiLTVDMV84UFF1T2RnbWhoZ0VlRVhoWjBoS2lDdGJ0dlhiNlJfbmEwZzRWazFKeHB4X1pqNndSc1FmRzYtcmNtRGxacC1ZSHBxWmItTFVURXBoVXU4eVpISzhfam5yandqdVo1MFM5Z2Vzc2l0OG9SbW1DY0ZxU0JORGpKeTJ1U2tNYkJqcnRDZ0NLS2ROX0xWQWtoMzV6d25kNV8?oc=5",
+      "source": "Alaska Public Media",
+      "published_at": "2026-11-12T19:09:00+00:00"
+    },
+    {
+      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 12, 2026 - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPR09RTExObnlMU0FhcHJzeU1Za2Rha3daWVFMbnpZMWxwZXlSRzUzbHFpZklFczNRR3E0Q0RJQmdXeERIMWp5ZWxTQXk2WVcycDBwT2VuMVk1WXhIVTFuQjBkd2xFaUFyem1jX2hnby1iTmZ0MjMyVXNqZmtndnZIcVNGRFppNTZYZl83ZDlxQy15cncxWE9LUzhwVmpWeExWT05lR09jWHRSdUNvYWoybzAwbERBNXI4UkZkRThWdDhnZ01wWllwQWx5N1NYZkdzWFpzS3d1MjZlRkdJVHQ4enplNFlPbGpXcHJ5ZUFFMTFQV0lJdWttVU1mbm8?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-13T00:15:47+00:00"
+    },
     {
       "title": "What the world’s top experts say about true happiness - CORDIS",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEpqMWswaHhTNmhzS1l4V19VVy1zY0JaMm5KNF83UGxrRlBZUmJhUTNPVDMweF9kdV9wa25GT19ja2xHb3B0NnhKQkVLcnhJXzFjUzFKOFMzek9namhXbmlkV1hpemFOMmk5a0Rwd1BuWVF1cDhpVWp0ZmEtd1VmZ1B0TDA3OHJNcjVOdFVET29zVVBlOXBHc0Y5V1Y?oc=5",
@@ -9,28 +21,22 @@
       "published_at": "2026-11-12T09:23:53+00:00"
     },
     {
-      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-12T20:38:03+00:00"
-    },
-    {
-      "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGEzdmFyWGVPSTdKOTczZFBVOV9oV2ZiVGNsbUZWaHU4VEVXaWRrSjRTLUp0aTMxWDdhd0RSRldjM0d6NWZrdVpvbkxwaDV2eXE1VWhKOF9IbkhCUGpydkE4X21icFpob0RnRnJFUkhIX1dyTVkyVWxyejBuWGI4UnU0TWhiWVBsSFFkT0pR?oc=5",
-      "source": "NPR",
-      "published_at": "2026-11-12T03:10:32+00:00"
-    },
-    {
-      "title": "Atlanta volunteers break world record packing military care kits - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHNhSkE1WGc0V0p0WjZCUXFHU1E5bHhRazZoOXNFeHVGTWY5d2ljZ3FNdE9rZ0JVVHE2Vlk4N3k3RXJKUDFRVVl2OEdxaGZUcnFkQ3poTVAzSTY1cGJPZ1RWSGFLV2haU1lBcG9pZUpiRi0xeDlvM0tkeENiMUx3dGFQWGlERkdkN2RCN2JoQlROa0Zjb1lPcHRQMUNmaGxCdU1DV0t3?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-12T11:55:00+00:00"
-    },
-    {
       "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
       "source": "EnergyNow.com",
-      "published_at": "2026-11-12T21:58:32+00:00"
+      "published_at": "2026-11-12T22:50:04+00:00"
+    },
+    {
+      "title": "Prince Harry, Meghan Markle face security unknowns as world marks anniversary of Princess Diana's death - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3U0Ykt4WG5GVVBXd3Q4bllYbVlHbzk4OXZLSXVRR3dNMlE5UnJvQTM0VGFFRmRZQ21BMTRSN3BiMzN4VXF5bXlhYVRCWVViaFJ3Ry1DMkt0MW1VcGNaVERQdkJJTUFPQUJsSVJYbk9NanNmR080V1VEcjNWZHMxVDFHb1RSM21NbjJsUDgtRmpmOWswd0pGeDg1UDZMU1pqLW5WWXYxWl9Ld9IBrwFBVV95cUxNMjJxRG5kNTdLZ2RpS0NndS1qazFxWS1raVNiQWQxWFRiRUdaOEZhWEZYUmExZzJwUUJtWjRwbFRIN0xMVWtBMGlNbFhLaVNfamppb2ZTd1poZ25qNEpVMnB6SXU0MHUxSXJ5cFliakJXMzhlakhZc05UcWFoYTliRkRlMFlzOGMtVDd6WjZQUjViUk5JQlFwR0N4SkVpYXhRV0o1RjFvNldHc25TLW1n?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-12T20:41:12+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-12T13:57:00+00:00"
     },
     {
       "title": "How US-Iran Tensions Could Shape World Markets - EnergyNow",
@@ -39,22 +45,22 @@
       "published_at": "2026-11-12T09:25:53+00:00"
     },
     {
+      "title": "Co-stars of 90s hit show 'Boy Meets World' on their latest project - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNnU5OWZLc0gwSWd6QXFJN2JQMnlDbDF2RDQ0Qzl1ZW9sbG9UUXctUGd4VmFnVlFDZUlOLUh4eEppVTlRX0FUNmRqZTVkX1hwMFhmQ1ZlQUd6NEMwSjI0QkppRGtOQzRuMWFtN1pTZTR2cU0zMVpzdFFDMVB6RzVsNXR6Vm1SOTdtakJVYlNRdWhQcDlybnRlNnpMczN1X3V6V3djelVoVXBDa3Q1OW83R3lIbk83UGpCWVRnUWNfSVBad3YzYjh2TDk1dkNlZndKUjduX0YxRjJFbVNibGJWZjZUQXN0cWc1cnJpc1NOLVBjVUpuNDc3Rw?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-13T00:05:00+00:00"
+    },
+    {
+      "title": "Atlanta volunteers break world record packing military care kits - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHNhSkE1WGc0V0p0WjZCUXFHU1E5bHhRazZoOXNFeHVGTWY5d2ljZ3FNdE9rZ0JVVHE2Vlk4N3k3RXJKUDFRVVl2OEdxaGZUcnFkQ3poTVAzSTY1cGJPZ1RWSGFLV2haU1lBcG9pZUpiRi0xeDlvM0tkeENiMUx3dGFQWGlERkdkN2RCN2JoQlROa0Zjb1lPcHRQMUNmaGxCdU1DV0t3?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-12T11:55:00+00:00"
+    },
+    {
       "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says - KSAT",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGlZdEo3Q0tyeEhWR0Zoc0hiVHFTY1pZVW1USmNOTHN2RjlWOEtHUmRHcVZiLXJyZ3EtcWtmQ0pOYTdaUzh2WVpYVjhaT1QzVUNoX2lSMFJ5MUVzTkhvWVZtdW1VT0FoUGtWbUQ4empmS2R3WFhwWkRGSjNPam1FSUdkRU8tWnN4UnhURGd2RDhraGlfUk0wWUZmb0lJZ01QZ3ZVUzdsb3l1MDRNUUtUWGswdENfdw?oc=5",
       "source": "KSAT",
       "published_at": "2026-11-12T06:25:11+00:00"
-    },
-    {
-      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 11, 2026 - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY3BxaEVuMDlEZzhNa1NOSEZOSzVOMHc2V3M2XzJkVTRQUkVKT05DMEtReE50LWRUalMtbTVFNVRvaXlvb3ktT0xBNXBVaFNoWDFPSkRJczZQUUxMbExsV09DMl9MVnhndWhuQ01zUmtQZm15LUtRMDN3TWlnY1ZBZzBCODhfTkNHX2o3RU8zRnMyNnV1THVuTjB0SkpyZmpTLUk4U19sVThzOF9kdmxXNkRPX3hCMGhvWnNBSUVkdlFHUW52ZTJqMFRZSG9EbDdVekl1NzM1MVVrM0o4RXFrMDk0ejRuczdSSklGaE1XSmNvVmd6aG1TZ19TNEk?oc=5",
-      "source": "Central Oregon Daily",
-      "published_at": "2026-11-12T03:46:42+00:00"
-    },
-    {
-      "title": "Brewers ace Jacob Misiorowski unanimously wins NL Cy Young Award after record-setting, World Series-winning season - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVHkzck5VUnlGOS1iX1gteUFhb0pQRXVESW9aZm5YTFN3MVdaN25UX3FjeHVQOEpMMkxZU3Z5QTRIdUhOQjFTUld0Qi1TQzR3LXFyV093NEFrUkpaTW54OEdIMkNHWGs3YXNmVmRpYURwSnBTQktaVzlOcDdFQVhfZTZnOWYtQ2JTTVBoek8wVGdFVGdBNjZnVk84RUF1OVd0TUw0WnRzX0d6YW9NSkFQS1I1YXA5OTEtR1dIc09oNUN0U3ppMWVwWi1PTk5lS1VwQld2MUVtSjZDakNoY1ExN3lXSS0ySGhNemotRW5PSlVzd3NyYjE4eQ?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-12T00:54:49+00:00"
     },
     {
       "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
@@ -63,22 +69,16 @@
       "published_at": "2026-11-12T19:58:37+00:00"
     },
     {
-      "title": "EU proposes new rules to protect consumers online | NHK WORLD-JAPAN News - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSHk3M1VPRXQ4NGc3Ynk5c2NNX0F5WE81QmlnQW84S216T1VSSnZOcngzOTI3QjU4c084MUxqNHdEQjdKZUFqMmNWaTBLaS0yZ0NTNmdnRTRuYUIwQm5fSVc1Zw?oc=5",
-      "source": "NHKニュース",
-      "published_at": "2026-11-12T13:22:00+00:00"
-    },
-    {
-      "title": "SS United States sinks off Florida's Gulf Coast, will become world's largest artificial reef - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVJXMUFhNG1YTlQxLTQ2aXpoVUhGUTMxV21GSEhJTVRxd0xORFBPV0IzbzhRdlBlcVhmcXVmRDhiSzRCcFRrTC1GSU54allOVkJneU83YmJpajhreXY4dU9HeTQwZTV1eTJJZ1V6b3ZyT0xpMVVndmtDeXUtaEQwLWh4Y2s4ODNQMEV0R2VYZENxYW1HcGtTM3hqOUxINzI1SE9QZ2hkQU5UbjlERk0zWFh3WmJ2Zw?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-12T00:04:00+00:00"
-    },
-    {
       "title": "England latest news & gossip | Football News - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWJ1OVVMSDlUcWNORFB3bkJtaVBYOXRmZ3RVQl90Ni1LamFuUFMxSGhaWHBaRGlIekRsczFHRUhzY2lOTWx4MndUQ3pqclNtME41TC1xTU4zZ3FDN2gxRGxnZlBhalhQaE9WMVI3amJsQWtPWGI4S0pRT3FnMF9FQUZUeUljOGdtTV9GenhlXzlTWGV2cS0zcTJ5SlRPX2QzUGVtYkhsZlRzNWhwVUtwOERxei1iQlQ0Ynd0TnhQelVEaHBXUEQtUkNYSFI4QXdPOWlna19hZw?oc=5",
       "source": "Sky Sports",
       "published_at": "2026-11-12T08:21:22+00:00"
+    },
+    {
+      "title": "Kansas City Breaking News & Sports | Kansas City Star - Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAzSEFsUVRGVUFFTlhZREU4SXlvQUc0RE5PNlY0N2VhV2lWZ1kwT3FIM1pWeGZrYjZKWVJMRHl3QkI?oc=5",
+      "source": "Kansas City Star",
+      "published_at": "2026-11-13T01:08:04+00:00"
     },
     {
       "title": "LIVE| Madlanga Commission of Inquiry - SABC News",
@@ -90,19 +90,37 @@
       "title": "World record-holder Kerr set for Wanamaker Mile - worldathletics.org",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2pkbVRYYVFZX0tZdHQ1X29faWVza3F3UVBlN2ZtLW5JTWh5TEZkOEZOUFdXTUZWUzZzWjJvdHlEWXBKT1l4aUZCRmZ6anNzZVJvQTlQQTlnbmNtMy1wanN4N01pdHRPVEhLVUVZLVczUEplTXVldFQtb1N6RU9PcUJJSHNNUE45VzRkSTlJbF9Fb2IyVXBwcnl1SUpYclk0cjlHcg?oc=5",
       "source": "worldathletics.org",
-      "published_at": "2026-11-12T23:47:08+00:00"
+      "published_at": "2026-11-12T23:41:58+00:00"
     },
     {
-      "title": "Latest news bulletin | November 12th, 2026 – Evening - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU0tMDVqTkJZek5ueFRxeTMzcU01Q09sbzc2cDAzNjNickJNZXZULVlQeExRNHFmd1BkMlVaU2JzWEtjX2FvVTB3dFRHWFY4TG1aTnQ1NVRrSlFjekM2VzZ3MzVYd3NWU2lTWUIwUWctbnpPU2Z6NFNLOXJiQ1BkYVRNZ1QzdHZfQ01VWXAxTm81RWRaM0E?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-12T17:00:26+00:00"
+      "title": "Watch Live | News4JAX | WJXT - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12M2x2cG5nV3Y5UzFiTkF0NFRVSmFQOG5yVm11OEVDcUtoOGN1aEw1M283anVDdE5EaVRSdnNQcW9qbEZNdkYtR1MwWQ?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-13T00:30:47+00:00"
     },
     {
-      "title": "Microsoft reports 'issues' with Teams and email - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaUJaSDFyRTFYUjRDTW5Sb1hQekNkd0M5c1FJdjFsWmcxeFhSTVhDdEV0TElIRUdYZ1lIU1cxMmtvT2pURWdSZzhjUHR3UUp5U3hUbmxOQUxLSGtyX0hrSlgzblFVZlJFT2VCcUdZNXM0dFd0a0g5OURBUUtKSHNIdTJHZDJtcmxnNWRBTjUwcGtLTDVuTnBwZHc1TURsVjN0VWtEYmtWdHNIZHRGeG84TUlkVERNUDZsNUZRX081RXdYWFA5bFgwS3J5TnI2MklwUGlWaDlEUDhFeGRqTzQw?oc=5",
-      "source": "Central Oregon Daily",
-      "published_at": "2026-11-12T21:10:55+00:00"
+      "title": "New UnaniMIZ & Pat Murphy Threepeat shirts from Breaking T - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHZxWmRJUmszbTNYb3RDaUNTOUtZZXNqdzFwYU16RHpXZnJQQXBwLURiSmo3QmZfd0RZenUyM2lFRXhxcnJSYVRyWnJQUjJ5TENORE4tVG4xWTBmUl9Ib3FDSmlGX2FjbEN6eXpNRHFoZFEya0tJOGdsSWxWVElLRjVYYXk3UVRGU1RCdndR?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-12T21:04:45+00:00"
+    },
+    {
+      "title": "Sweden's Rival Blocs Seek Centre Party Support to Break Deadlock - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam1lTmRvelk2aW1yUV95bzdJbDdPaU84dWFfWVVibjk0aVJ3SEgwWTk5WUdDRFJiZjBOc1Q0OFFCNHVOTGMtb3RxNjZjcG1Db0J4b1A5SUdRYi1QclV2Q1dRVHVMcEJ0UXpLN3M3cFlDbzQ2bDZOZ1NmbXdHUy0tNXowZnRRMENqRXRLTnBYNlVydWZzcmdYNlZBZDF2cW43XzRtUFoxVjhkMGZwWG9GTFRSWnJkVFFC?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-11-13T01:04:00+00:00"
+    },
+    {
+      "title": "Middle East latest: Trump says US no longer needs Iran deal - The National",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5",
+      "source": "The National",
+      "published_at": "2026-11-12T17:32:01+00:00"
+    },
+    {
+      "title": "Noah Kahan Expands ‘The Last Of The Bugs World Tour’ With 4 More Stadium Shows - Pollstar News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVG1DY3FnSXlJUHg0Z3prX2QxOUZkZ3RnZERTQnJSd2xlc2ZtTDNDNGhrM2pkUkVkY3E2ZGtIckt6ZXdfQXQ0aWYxNGFhSmZqLU9NRTBfRlBTczVCbk9PdURfTGR3aEhhcndFa2FENS10S2ZlNEY5bld6MURSdnBDWFI4dVh3X3ppS3hETm93ZW5iRGlpSHI2YTJmXzRaQWloQjRRUzV2WDV4bFEzcU1HZi0wcHM?oc=5",
+      "source": "Pollstar News",
+      "published_at": "2026-11-12T19:59:21+00:00"
     },
     {
       "title": "ABC News Live Prime Full Episode: Wed, Nov 11, 2026 - Central Oregon Daily",
@@ -111,10 +129,10 @@
       "published_at": "2026-11-12T06:30:05+00:00"
     },
     {
-      "title": "Mainer representing U.S. in Bobsled World Cup - newscentermaine.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWpjZlhyQ25Za1RfTjYtOVpzNlhHaURpMWZnYV9EYWlPUEg5YmdkWlJzdkg2Y3MtMk5pc3F6dDZNaE0tWVZ4UUFLNXc3X0QtN1g2cm11aVF6T3B3S0dUUGt0ZFJsODM0X3NnNjJmR0huU2M5Y1A3VXNwZXB2em8yZjN0RkVNMmV5UVY2anVXQ1Via1VjeENfU0otMmNkWUdFcUVlRVNiMEZDSC1nUE51eHBXNjRLbEJsWEF3bktqY0tfOFVEYTZ1QWlxTkxGMWVUX2Z4Z0ptbGd1VkxtUEE?oc=5",
-      "source": "newscentermaine.com",
-      "published_at": "2026-11-12T15:53:00+00:00"
+      "title": "How the world number one has performed at the last five ATP Finals as Alexander Zverev learns 2026 group - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUxmWE55OFczaWdrWDhJMnZIMFAxcVJNMVR2YkVhcHhrSXBPdXJvaDdHVG4yTVQ5U1Rub2x0TUFkeHlpV3RDdXh0Unp4YzN1eVJhcGpYMWExM05jWk9PNGRqVkZPSW1jSUhwak1FeU9Zd3VSSkN3ZkZtS2RZMjlkaW41RVVxVFE?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-12T18:30:00+00:00"
     },
     {
       "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025 - KSAT",
@@ -129,16 +147,16 @@
       "published_at": "2026-11-12T11:01:11+00:00"
     },
     {
-      "title": "MIPA Acquires Aschaffenburg Paint & Varnish Manufacturer - Coatings World",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkF3ZGJrRlRWZlBUN18xQmZubkUyV29fVWo5TGR3QTBSRW15ZWhKYWs1dkFCV1hGWkwybWFsQXVxRnFCWUVmdHhaQ2tzRFo1d2FUUW9pN3d1ekJLNFI5M0JRZE9MZTJmZm44Qmh0aGo1TVdFdDItdm52ZkVOOFdUNkdnU0d0VHc2aV81anU0RGRzVWd3RFVybDNKNmZDUXJM?oc=5",
-      "source": "Coatings World",
-      "published_at": "2026-11-12T13:59:00+00:00"
+      "title": "McIlroy opens World Tour Championship with 69 to boost bid for record-tying Race to Dubai title - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRXkxNUJkVkRPeDBYdGEzcWJQV1kxMVdJOFI4U1A4elV3REpZSHgzeXpnSzZzbnE5QXMwdFJCbG45dUZFbXB2V29vZXhwS3FKNmZBWlZFZmFDNXhQblNhaDRfUkp4M2Y3N2RkbWl1dzVURVZSZTdhVlBCV3ctZ054enNkZXVYeG11LU8tSjVyUXozeDctZTRaeE5sZjdHU0N0aFB2QnYzU1NaSmc0YjE2bWdCd2gzdExZaW1ZX0t3Wklub2dhVTdTVzlHUEdiLTJiZTdRbjFR?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-12T13:01:20+00:00"
     },
     {
-      "title": "Police chief says illegal wiretapping of Indonesia's president extended to many others - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRElRLWNUOWdmWnU2SXFGWktkdFZidmRDako4ZHZyb3FpaGNRbzAxZ0h0bE53aEVhbTlRN18wN1p5dWJJOS1jY3hNdTN4MTlOcGxtZTZ5NHJ2M3BySXpoYmRnQmxvMktEdW12RS1TaXdURnc2ek1qWEo2M0o4N2s1Y0oxemRnN3E3YW9CNFRDbmtocDZqYkswWHc5d29wTXhmbllLYllNZmE0c2JaN3Nta1JFc0hIVXpYZTBwa1VmTXMxeTBMSHlILQ?oc=5",
+      "title": "An Israeli strike on a hospital highlights the devastation to Gaza's healthcare system - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLWpCWUJTZ2lqU2FuX1JBV2VBNWxKR1luTEZlOVlNM0tudzRCV19zSGdGQlRRSFFuYUFpeEVVcGtDX0pHck5lVzA3eUxneEcwWkRiRWVvdVpRNk1SZGkyQzVZTlBFTmpCQ0xmU2VPb0pJX2tFOF9udmdJM2J4a09XSGkzQVRCU3E4MXBVRFJhSzAzOTdxenhsVnpBZTI1Yk4tRGMySE1xWTVucEhPcFBWSDhvQ19KS21uUjMybmlwaWRVd1NRVUVIbA?oc=5",
       "source": "KSAT",
-      "published_at": "2026-11-12T04:33:03+00:00"
+      "published_at": "2026-11-12T18:24:18+00:00"
     },
     {
       "title": "Leaders of countries already hit hard by climate change tell UN summit that urgent action is needed - KSAT",
@@ -147,28 +165,16 @@
       "published_at": "2026-11-12T09:49:54+00:00"
     },
     {
-      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlE2ZG5KX3U2TmRPUHd2bk14X3k5dnp0TEptRUlCcWozRmRJb1JXNTdBRUstSU9VZU1QYXZYSVltd2M3TDNlaWdoOXgxdDRuLVR3a0xaUk9kNmFrMzdwNVU5a0tPWUJ4NWdPR28zaW9LdENLbjhkMUl3cGcxVnhQQ1RtRWhSaEc5aG9lV2lIcXhDV3N4ZHVRdjNMekI0bFByeVA0Z0hMbEdiU1Z5RVE?oc=5",
-      "source": "KSAT",
-      "published_at": "2026-11-12T11:18:45+00:00"
+      "title": "Video. Latest news bulletin | November 12th, 2026 – Midday - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0JZaURtM2xrS3F6SFdzaHFwdnZGNTFGV2FKRFV3dWVoaEllU1JvUC0xaUxqVzlEWkhmX3BLQmdSUjN4UFducFJGcHdCeVRyVzZibzBRM2lJVmp1bWdvQm95SGNwMUZXNXZvRWhhUE5mN3dVZTRZU1JodU11ZDM5WGktRnFIdGhIaFVDMHhrOEVqZw?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-11-12T11:00:15+00:00"
     },
     {
-      "title": "Burden of Proof: November 11, 2026 - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWpKblBjckhQYUdoc3VtZC1hMUhuR0VUR3RxU3ZndHpmcjUwcFpxY3dQek4takdKMHV3aGRJSVRHbXFuZlNiaDBCMUpmWUd4VC1KMXFQZkdOVnF5Nlk0MHJRS292M292VFQzUmc1aVBYMEF0THRKSEpHMkhfa2dYaXBfeTd5enFieHA3aGdmbmtjaF9fVlRiV2tSR29pbEhmOGFjbkM1MjBCc0l3NDV1ZnRIc2dZa2Q3TDRBbEwxYkVBWWJKeFBMTTVlZzRuUQ?oc=5",
-      "source": "Central Oregon Daily",
-      "published_at": "2026-11-11T23:55:40+00:00"
-    },
-    {
-      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDhWSmxTdzdBMHRQWExRNG9pQV9tVm5zVWg2NGlTMlpna2hVZWk1c2NZazdIZUVRVV9heG9FWWM5OWhlUDhqb2dQbW5iclprYU9nbWY3aE9USVUyWHZ1RlVXTmtzWk5OWG5QVE1maUtCNjRQbmpOMF9CNnhlVDloclBMejlqbDZiLXRWdFZaZ2l2Y0dzc3BES1VjV2N3YVM0OHFYRXo4SGo5WVBGMW9pRy1KVG9MVVZKX3R3X0FRNTZQR1dqMFdiN2Rhdw?oc=5",
+      "title": "After his emotional return, Pope denounces 'machismo' in Peru and demands women be protected - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVN3TEJwRHFDYy1MOTd1Z1BSY1pETzFRV0RfdFBTUHNkX1NiR05YRzRxX1c4dU5rZ3kwUFJNa0VMUlpuakhwbFZWMXBTdlRoMVpUTTZ1UktZcWpmdlZNVkw3QnVEWnpCWlVPM3BtUHItMktqZ3hsRVRDY2lBZ1Q2NG94QzF1ZzdVb21KLXNMS1JRNVdsN2IxRUxZNXo0WGhKR1RrV0pOZld5eW12RHFWTkFlUGpBb3FjeDRSTXpHNmlfeTFzRHV4ZWRGTFhQQQ?oc=5",
       "source": "KSAT",
-      "published_at": "2026-11-12T06:01:15+00:00"
-    },
-    {
-      "title": "A missing teen is found alive after 6 days in the Australian woodlands - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0ZCeFlwZF9BVGM1Q3Z3VlhYMGk1aFgxSFRFeS1vMy1iVEZhVG9PQk5HV0FlXzZfcGwyYkx3aGVHVGc0b3ZreFBrWEFiLVZqa1J2Tkxnb2g3di04bjV4dEktNzNEeEN5bFR0WWJFQ1NicXRHSnhwcGF3aXY3SnpmZzAtWDNlZ3kxOWJuSGRMOVpWQXJVcjRodmFoX0tXb1BiOHY4U0N1UUYtSlk?oc=5",
-      "source": "KSAT",
-      "published_at": "2026-11-12T07:09:39+00:00"
+      "published_at": "2026-11-12T15:01:36+00:00"
     },
     {
       "title": "It's confirmed, one of the best young players in the world is coming to Liverpool - Anfield Watch",
