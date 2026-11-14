@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-14T00:57:09.807797+00:00",
+  "updated_at": "2026-11-14T07:22:43.245955+00:00",
   "source": "Google News RSS",
   "articles": [
+    {
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published_at": "2026-11-14T02:54:52+00:00"
+    },
     {
       "title": "Celebrate World Kindness Day with One Last Order - Netflix",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNThvMWNEdF82M2FhS3YyY0JiOU5GMFhMWXFRRGdZUkRPM0tqQ1hkZlZqS2xBMHBvbVJGSktFc2ctd0NfMy1ucjg4TDdwalgxTld5bkRqQi0xeEdLZVNGUUtxRnBKa25jenBkTUJ1aFY1YWxmYlU4?oc=5",
@@ -9,46 +15,10 @@
       "published_at": "2026-11-13T20:02:33+00:00"
     },
     {
-      "title": "Tanker collides with riverboat in Port of New Orleans - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUFCU2RHUUJFZk1TQmFwUF90OXBEVUxpd2JyMUdIR0RFeVVERzJpb21zU0JCTk5ENi1QZmd3ejNMQWVPeVFuNWhqQVRtNEZveDBnR0NsZmYwY1JRZlRCOFdDdmE5UjZfdHZqdTBDbzEwVVV1Tm5zZXVwSWpfRTlIMDNVSnMtRndOX3p6NXJPREs2ckFUUGZLVUJaTndTWk1RZG14cEZWQXQzOXJvZUlaSEhNMnhKYV9WS01weDVvWTNrbnp0OWhKSlk0OUMwWVJ1UFlrZDlxX1lJS1dzNjFvMUxJVWZ5emdfZEE?oc=5",
-      "source": "Central Oregon Daily",
-      "published_at": "2026-11-13T22:01:20+00:00"
-    },
-    {
-      "title": "BREAKING NEWS: FAA grounds all flights - Westfair Communications",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEZGLWY4ai1BZHh3SUtDb0hvVWlWclByLUNJV0JOdTI2azFqNm43cWdUWHJHZ1R0UkpqQXhhT3dpbTJVZlp4TWhtSWtsbTFwT1ctMUZPdUxTSEFMX3FGR3hFSTMxSkg0VWVGUlRlVFhsa2ZVMXdIWk1IZUh6N2lubw?oc=5",
-      "source": "Westfair Communications",
-      "published_at": "2026-11-13T21:23:38+00:00"
-    },
-    {
-      "title": "FAA nationwide ground stop: Some international flights begin to depart at LAX, other SoCal airports - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHhwdEhqS3F6NW9EdWpSZVhEbEhPTlRzaDk2eGtGbUNRQzV6YXJPaUpLYVF1WnBybUp1RmxsMmFhZXVhSXNwRWZlN0JGNFpKaTBnS0tCTHljRTA5TmxZb0FzdzQxVzBRQTZxaUFQUE83STlOdFBWbzIyNzZ4SXUwZ2hjQlR3WW52VFVEdFNNWEpKdU1tTmhEaDMta0Q4d0Jf0gGmAUFVX3lxTE5GOGI5Q3hyeGFveHNtbzBpZGtFWEZNUzgzWmY5akxuc2hjdWJpaDJvT2Z1V1otbzdPeEhXTGNHaElaTlMyaGtfZnFOQTNTVUZzYmhQNUZtcVVHX2tYYTFZMkJnM216RUlQd3JwbWpIUzExM1ZIOVlEeVhKMUFCeHJweHJkNjY4SG14ang4VEtIdUFaMk05MEZSY0tqVGEtb0pkanNMYnc?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published_at": "2026-11-14T00:40:42+00:00"
-    },
-    {
-      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHNRejVVeEZSaGhYNWJ3c1BxdldPejlTdTFmNlRSTGZFWjdxQ183S2VSWG5ZdzJZZzZLejlyZTQ5TXVWTlVUMlQ3VUxzS21COVdrRUdNeXI0cWk1aE1jM2pzNlZSdmcwcWhlTHRLTExzalhremloVF9IaGxfNzRraVhSMURrdkplSldNSFNySnF3MEVsWlRMcFNmMFgybC1ZNW14ajNnc2dKMksxMUZJZnlkdDlLcDZ4?oc=5",
-      "source": "NBC News",
-      "published_at": "2026-11-14T00:08:00+00:00"
-    },
-    {
-      "title": "10 Best: Ranking the world's top men's soccer players ... again! - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzFxMWppc0dYN1BFMGdJdEtoMHQyT0lmSUNPOGhjLVFTUmkwRzF0ajlRbFhmUFVhM3hnUnp1YzNkVDNCVVBqcUtHTjdYU1g0d2NlSHpWb0NMbjl6MkFvdWplU3hYNTdzMmpVZHloeF9nUWpROXFaa1hUQ3lkX3BQSzRrMW0wYjNGYlFuRnRnRnpjMmFJaVE?oc=5",
-      "source": "ESPN",
-      "published_at": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "title": "Flights grounded across US after air traffic communications outage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-13T21:38:00+00:00"
-    },
-    {
       "title": "JFK, LaGuardia, Newark Liberty International airports impacted by nationwide ground stop - CBS News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2hiWHloTGh1R1Z4b1dEbEd2Tkh4cTE0VzhFLTNpckVuY25Mekw1NHN4MDlEWU5rSXlEd0hHMF9XWjl6cTVSQlhvMWlvckgxSlpNNGp4Y0tWX01fSS1neVpCMDVraFNIdC1RV2ZxcWFFNUhNT2p0VHgxc3RIOFlFX1kxbkJmTExkVVp2dVY3WHEzMlJO?oc=5",
       "source": "CBS News",
-      "published_at": "2026-11-13T23:38:32+00:00"
+      "published_at": "2026-11-14T04:40:31+00:00"
     },
     {
       "title": "How ‘The Basement Yard’ Host Joe Santagato Got Into the World of ‘Hot Ones’ - The Hollywood Reporter",
@@ -57,46 +27,22 @@
       "published_at": "2026-11-14T00:12:34+00:00"
     },
     {
-      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-13T22:09:08+00:00"
+      "title": "10 Best: Ranking the world's top men's soccer players ... again! - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzFxMWppc0dYN1BFMGdJdEtoMHQyT0lmSUNPOGhjLVFTUmkwRzF0ajlRbFhmUFVhM3hnUnp1YzNkVDNCVVBqcUtHTjdYU1g0d2NlSHpWb0NMbjl6MkFvdWplU3hYNTdzMmpVZHloeF9nUWpROXFaa1hUQ3lkX3BQSzRrMW0wYjNGYlFuRnRnRnpjMmFJaVE?oc=5",
+      "source": "ESPN",
+      "published_at": "2026-11-13T15:00:00+00:00"
     },
     {
-      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanprQzAzeHk4SktNUnF6X1lrVTdnRW9TWkxvMFR6TE5Pak0xbGxZSExfM2M0blN1c0U1d01BeDhaSXZYLUJDYko4U0pvRVVxbl9FaFEwLVVSaTJBcTZwWjdUQ2MtVVRFblJMcU4wR1RaV215djh5TWNobFVnZHpCZVBWOVZlRUpXQW5MNVU5c29JdlFIeHMzeXBEbjh5V2xaaHUycm95Vlh2OUtuM0ZCNmFoV0dNMmd6UlEwTUl6ZUIyejE5Rnl6WGJIQ0ZQTDR2cExYTXQtWUg?oc=5",
-      "source": "News4JAX",
-      "published_at": "2026-11-13T22:44:48+00:00"
+      "title": "FAA lifts ground stop on all U.S. flights - Westfair Communications",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEZGLWY4ai1BZHh3SUtDb0hvVWlWclByLUNJV0JOdTI2azFqNm43cWdUWHJHZ1R0UkpqQXhhT3dpbTJVZlp4TWhtSWtsbTFwT1ctMUZPdUxTSEFMX3FGR3hFSTMxSkg0VWVGUlRlVFhsa2ZVMXdIWk1IZUh6N2lubw?oc=5",
+      "source": "Westfair Communications",
+      "published_at": "2026-11-13T21:23:38+00:00"
     },
     {
-      "title": "OKC Will Rogers International Airport sees delays after FAA orders nationwide ground stop - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHJISjR0cVg4VmxtSFhBX2hhU1RiczRLS2lVN2o4UlZfdmVrY08xZlpEZGhqWndUY0JIc0RCeWRMVThINkFBT29DTWdteGh2U3dBaXA4VWJHeHQyTldjdmE0UE90MW55UW4ySTNFLU5xc29xa1BuR1hIYmNQOXBRNlVUUWEwZVZNYzc5TG1IV0pQUUhZQ3JQNUxQQWlZVHVHUmpJd3o0N09TazM0SHlGMQ?oc=5",
-      "source": "KOCO",
-      "published_at": "2026-11-13T22:39:00+00:00"
-    },
-    {
-      "title": "Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-13T12:21:44+00:00"
-    },
-    {
-      "title": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane - UEFA.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGp2VkhWc1pZZTBPNnA0RC1nN0l2ZXZQeDl5ZjBEcmZPbzE3OWxBRlpoMDd4bHpZbjdydUN1VDNuUkdTMGE1VGpVVzVrc3puT0ltd2xfVllxTmx5TWNQbWNhRGw3dndMYWZiOFFCejN5VzZ6dDRpMTg4Q1B4cUNyclFqdTItbG44dHRsX1FLUHVHRm9uTXg1YWI0Z0ctRC1BaGF4VGlrRDF2bE15SWFpWXZobGF1dTlILVRUMkhSNG5SeV9nWTZLaHRoLV8xbExmVHI5MFJB?oc=5",
-      "source": "UEFA.com",
-      "published_at": "2026-11-13T22:58:58+00:00"
-    },
-    {
-      "title": "Latest news bulletin | November 13th, 2026 – Evening - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmVKQzZza3FETHlwTlpvblRmc0dsUjhlTXhBSHlHNEI2VmNSbXZpZ3NnQnYza3dkZjdKaldJU21sdndqYXI5OUxHZzl0TGhWSWZrYVUyaEZGd1hIQW14ZGFsYWVjeWs5VjNHR25xMHp5cTJrYVVWVGtWVjJqWjljSTc3TlFkdGZPSmI4Nkw4Z21ueDNOLUE?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-13T17:00:26+00:00"
-    },
-    {
-      "title": "FAA issues ground stop at airports nationwide, including Philadelphia International Airport - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDNEazdKQ2l3YkMwejVkRFQtaENHamJuUldoX0hvTXlmM2lWeEhsbDY0dGtlRnRqRHZ6aWtxWHRVaVBhMGJsY3huSkwxbHJfSkFXNDRmTk1kVUlRVkx1WTRmelhLc3pUc1hrR2tvUDRvZDhHdkZPY01nOENuc08wMmhHN29xSmdiWnJSWGtRWkNIVXBXZFVLdDRrcGRrZWpJN2c?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-13T21:37:00+00:00"
+      "title": "Bulgaria Approves Fur Farming Ban In Major Victory For Animals - World Animal News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFM4TnlMV2M3Mjg0VDhmeFV5cUlJOGFFVlRfZTRJOUNzTHBYV3ZJQTljNWZuZmtoRndGVVFra3FrdGNuQXYxZGlmQkJqek9IQnZKSUJXMFF2TXNoQTJPSXdaYWdpeEluX1JLUHQzUXhWVjhKamJ2Q2dMOWFxMXJmT1RGUGJ1eDA4ZnpGd1A3b0JjSWIyUW5ZSW9iTUItRm82YTBqWg?oc=5",
+      "source": "World Animal News",
+      "published_at": "2026-11-14T01:08:05+00:00"
     },
     {
       "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
@@ -105,40 +51,94 @@
       "published_at": "2026-11-13T18:14:30+00:00"
     },
     {
-      "title": "Flights halted at airports across the United States due to unspecified ‘extraordinary circumstances,’ FAA says - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeldJTmdIQWZ1WWxycFd5VlRrN3lKUjNEeDVVcDBURm50UE5mdnJtcnNvTGd4dU9MTFpIb1Y3S3JWaXlYT282bGk4ekp4S1ZieG9IN0JyM2Z6bDJjMHdSNEJ6dFlkOXY0aTVoY216LWxzWEtTR0twRzFQc2hUSVdFVHBn?oc=5",
-      "source": "KSAT",
-      "published_at": "2026-11-13T21:16:39+00:00"
-    },
-    {
       "title": "Video. Latest news bulletin | November 13th, 2026 – Evening - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkxwQWw0Y2FOSmZrYnd0eXMyYkNfam5VRVRDRm1SV3NkMDUyNV9NMUFxelg2OFVCeVpvUmhySWtUNXpRYWlBa2FiYkthODh0dGtLNGZTcll1akVZR0tkVDlib240d2NqZUU5TjJEMlB5bEtyU2czUTVBQTRaNUd0RXNwTXJVU3doeEhIVW1QZ2hBcDQ?oc=5",
       "source": "Euronews.com",
       "published_at": "2026-11-13T17:00:26+00:00"
     },
     {
-      "title": "FAA outage triggers more than 60 delays, nearly 10 cancellations at Jacksonville International Airport - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGNMRFpWcWVGN3VobDhuTWRMenY4V2U1X0hLUzd4QkFQRVo4Y1dnaDIxYzdRR2lSTTNPQTZiQThWOV9YTDdzXzdZNHViZG5hdGVGLU55TndrUHo1eFZ1enloNTlPeWNRQVNhd0pmSlVmUzktMkhNd011Z1ZjZ05yandyRWpzbzBUcjRncTZqSmN3bEtwX3h6dWJsdjdXTUVHTzBZR2o3MUJKamhBY3pYODBOUkxBVGRMOEctZnUyWC1YT04wdkhQZlVPWQ?oc=5",
-      "source": "News4JAX",
-      "published_at": "2026-11-13T21:53:47+00:00"
+      "title": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane - UEFA.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGp2VkhWc1pZZTBPNnA0RC1nN0l2ZXZQeDl5ZjBEcmZPbzE3OWxBRlpoMDd4bHpZbjdydUN1VDNuUkdTMGE1VGpVVzVrc3puT0ltd2xfVllxTmx5TWNQbWNhRGw3dndMYWZiOFFCejN5VzZ6dDRpMTg4Q1B4cUNyclFqdTItbG44dHRsX1FLUHVHRm9uTXg1YWI0Z0ctRC1BaGF4VGlrRDF2bE15SWFpWXZobGF1dTlILVRUMkhSNG5SeV9nWTZLaHRoLV8xbExmVHI5MFJB?oc=5",
+      "source": "UEFA.com",
+      "published_at": "2026-11-13T22:58:58+00:00"
     },
     {
-      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - WV News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUlBsQmo5SnA3RlFQWUM2NHpkSlBBTXhVa1l1aXBpNEdMTlFzZHBqeU82bXRqcFp4ZXRjSlItYnIxdXFYVHV6WThQU3VZQjJlU0U0SURoTk5ONVF1dmpoeHE4QVA4LUo1blV5WWRtbS1VTDJBOVZUcnlSTzJWMnF3MWlwR2d4aVgzWHRubU9UQldhMWVGMmxzbDM2NVBZTzA4a09pdFJRRUFTUXQ5UWZzbXd6aFJMUlNsWTNfaERPR1Roa3NzUHNpRVRVYlozVWZ1Tk8tMVJocl9wdEZlZHZiS3BGSTlOcUQ4aEUyZmhac2FwNmVETHJOMWo0Z18?oc=5",
-      "source": "WV News",
-      "published_at": "2026-11-13T22:44:48+00:00"
+      "title": "Nationwide ground stop affecting Philadelphia International Airport ends; delays, cancellations expected - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDNEazdKQ2l3YkMwejVkRFQtaENHamJuUldoX0hvTXlmM2lWeEhsbDY0dGtlRnRqRHZ6aWtxWHRVaVBhMGJsY3huSkwxbHJfSkFXNDRmTk1kVUlRVkx1WTRmelhLc3pUc1hrR2tvUDRvZDhHdkZPY01nOENuc08wMmhHN29xSmdiWnJSWGtRWkNIVXBXZFVLdDRrcGRrZWpJN2c?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-13T21:37:00+00:00"
     },
     {
-      "title": "International Criminal Court limits Afghanistan investigation to Taliban crimes - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0FucktXUW5lVjZzM0xhNkpSTW5aREpBYTd6bzRmTVF5UmdLSkVfVmhKMTJLQkY4cjVfZkpYbTJ6b1I0WmRsNWlxTEEwOU00MTBWM2t3elRVd3JkQW1wOHdOTGZTUk9WaWpHV0ZVNU9UTi1oMUR0TzRVdEhMSzdvSVlaLU82em9xRllJSExOU1U1WVNuRkxzMmt2R05hSFZ6SWF5MUFPTzhzTzdEcWZoZEszMjZ5d3Y5VDltMzJGdml2bkdfSWc?oc=5",
-      "source": "News4JAX",
-      "published_at": "2026-11-13T17:36:26+00:00"
+      "title": "England latest news & gossip | Football News - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWJ1OVVMSDlUcWNORFB3bkJtaVBYOXRmZ3RVQl90Ni1LamFuUFMxSGhaWHBaRGlIekRsczFHRUhzY2lOTWx4MndUQ3pqclNtME41TC1xTU4zZ3FDN2gxRGxnZlBhalhQaE9WMVI3amJsQWtPWGI4S0pRT3FnMF9FQUZUeUljOGdtTV9GenhlXzlTWGV2cS0zcTJ5SlRPX2QzUGVtYkhsZlRzNWhwVUtwOERxei1iQlQ0Ynd0TnhQelVEaHBXUEQtUkNYSFI4QXdPOWlna19hZw?oc=5",
+      "source": "Sky Sports",
+      "published_at": "2026-11-13T19:07:24+00:00"
     },
     {
-      "title": "FAA halts flights across US due to air traffic control communications problems - Tampa Bay Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzRnc2R6bk51ajNiOTJsZU41ZGZHVElwaERJeDBLaVRLbF9HZmVuTXhaam9JeUpMcU1jWnAwa0VhZ3ozUGpnN0w3NDFXaDBVbmNVS1haSkZFQXpmZGZTWk5ad3BVSFlZdlZZOHRIVWJFbnlGNlhJUlRWWk5MaFpzRWc4NzZyYzktazhVNXhueGM5bU1xVnNmTk83SGd3ZmxWY0FrYVZXQzlaVmhodUxoMmxmVQ?oc=5",
-      "source": "Tampa Bay Times",
-      "published_at": "2026-11-13T22:23:25+00:00"
+      "title": "Latest news bulletin | November 14th, 2026 – Morning - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWllsWkJWMFo0RTl3RVF4VWxiU19FbVBpcWVQcnN0aFhfT2RDenhpRTBGYUUxamZ3ODM0Sm5VY0xpNy1PVF9aUTRhUHJXbU14TEZETzBIQ1FqMDlFSjZmSm9xT2dzQnVuMGs3Ump1aWYzT2lJOC1CLXU0WUtmZGJKeDM4WnYzZER3NGloMU5kb1M3QTZ2dUE?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-11-14T06:00:00+00:00"
+    },
+    {
+      "title": "Philadelphia International Airport travelers forced to pivot after ground stop disrupts travel nationwide - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUENJWWJkN3Y2a2lXUkZyUURZbmgwMkI1VmlZcGNKcXZDYmJYRWh0LXpVOXYyUVZyVnhXbnJ5YlJRWnNadHVpbHlNTnQtUGpRT2ZhSHpsZGJoSEpib01TUmV6X0hFWnN1Q0J0eWZDVGV4YzAyZ0pyS1FUbzhlVmVCcnJEUlBJdG9IMDREMktNVEpuS0FOWnkzZ3RYRmktMVBqdzRCdlBka0VuTnlVQTVFNUI5amp2YkpYVmh6T9IBwgFBVV95cUxQM3hzZjc5Q3NmVUJ3SDlqaEkxaHhUU1pHWlBSazVFdlhHakZhcDNrUFNPSmppZlo1Qkpyak4tZ0NCR3dtSHBwZWs2VjZUQ1ZzZmdxUjJOUU0yazg3c2Z6cWt6N1FKSTM3dVhtRXRRZTVkMnoyajU0RkpRSVB4bFZMSXNvZXd6dkowamxwaGpUdG5KN01FOFRXRDluMFhxQzVnN3UyOGgzcHhHN2lHSWZuTG91RlRrS3NXZHBTVU5rdEh3UQ?oc=5",
+      "source": "6abc Philadelphia",
+      "published_at": "2026-11-14T06:33:08+00:00"
+    },
+    {
+      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVhuaVNDMWlzNUpKWFc4ZjFBaVBGeWFEMnNWVzhha0xvcDRIZkFpbjIyOVNNNWktMEx1S0VlZ2tVbEpTSXljQUdmU1o4aVUwTjBqM2RMR3RjOEVyRUliT3RfSXBwWkhLLUFnWFQ1dm51bkhGTWlPcmZpUWxYNHdhRHVYYU9QUG15aHllUUNiQzR6WG9u0gGaAUFVX3lxTE9SdUdtU2dHOC1lRFdJendZdHJxRmJWazJKLUt0SDJYUGFHMjVhZ1VNSENlMmxQb1VKZk0yTDkyTXIwVWVfRTVVaDhtU1RTMFRybVBydkl2S0R4OUZ1SFZEX0hUclBhS1NsRWR3cDY5azg3Unc3SVRQM094SHMwQjhoTllpVkg0TXQ5emtmbEhlR2xYd0hqdEsydXc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-14T03:06:57+00:00"
+    },
+    {
+      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 13, 2026 - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3daYS13cm1id0tpbEJZNkFlRFRaS0p6aTRyME8wblRKNk9OaGVRNUF5Q1F1UHItb2szWkNucFhEaS1zVlhISXFSZ3pHbVhDNm5ZSzc3dzlydlhxWlE3OFdBdjNmdXkwWDQtcUNVekN1dl9qbXotSU1nUGZ4ZHM1bWF4STU4M1ZLN3hUX2NETDZPOXRuN0NWN0t0YWIyVjlSaGpiRi0zTUMyc3VoNzB5SlhUcXFYRlZrQzZhbWhQNm9DY2xERWtTel9zTm5aX1hzeTc1X2Q3aGRqZjhRWGJtRjFXT2VCMW41VmlXT0NTWWhrRmw5QVNEdmpGYi0?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-14T01:40:00+00:00"
+    },
+    {
+      "title": "Nationwide flight ground stop lifted, including at Sacramento International Airport - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHNBQ0xIdHljZHdvMkVuUEMyeWJ6REVwd3lDZGNfSWtrdnJZeGpGUkV1ajB0YXg4ZnJQMFpwRDA3WVNsUExOT3ZSejNTSVJsLXYyS21TcVZhRlU3dXBHaVhCWEFaMlFqSkctOGNmZEpVaS1NMmVMSExFSU9PbkltQXU0aVVUcWlpZGRxMVlTY1VnN0puUXc?oc=5",
+      "source": "KCRA",
+      "published_at": "2026-11-14T03:20:00+00:00"
+    },
+    {
+      "title": "Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-13T12:21:44+00:00"
+    },
+    {
+      "title": "Flights out of PDX International halted after nationwide tech issues - Statesman Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0xGNEJJdFkzMVV2eDRKeXpybTJLM1djMlZPeFpFVEdZZVg5bHMyYjZxbm41MHhRSXZpYk40UWtFMEVkOEZaWl9FZm1wbDVPMzNRTU1wc3c1cXZqTGxuamh4NUtuN2ZMTlFNZVZrTVEyem90OThnc2ZSYjQ2TmZKVWkxNG5Gdlg5WEtMcWw2NHBJZnJSS1hqV1Aya0V0LU5YUDItNDIwcmg3ZERydTFiMHB3aDBUWUpQTklXUi00STB1enRtbUtTeFBkVEVlLXNlZmdRUnJCSUpEN3dVMklUWlp4dDc?oc=5",
+      "source": "Statesman Journal",
+      "published_at": "2026-11-13T23:06:00+00:00"
+    },
+    {
+      "title": "Hundreds of \"Rocky\" fans set Guinness World Record in Philadelphia - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09XRlpCeVV3ZUYxVjJ1ODcxbG0zdWl4a1lHZzhaUnlhNzFTWlZiYmJKY1g3aEw3QllSQnZreElpZC15Ujg3VFlTUFhRV1gyYS1FQS1OeFREMERCY3RVMXRwYktPLVJfc3ZiaHp4d0NYZ1FuNkN3ZHVTcFlBR0hwcmRTM3I3ZEdxRG1JeU9UT2lsWUZoc21YdUV3?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-13T21:32:00+00:00"
+    },
+    {
+      "title": "OKC Will Rogers International Airport sees delays after FAA orders nationwide ground stop - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHJISjR0cVg4VmxtSFhBX2hhU1RiczRLS2lVN2o4UlZfdmVrY08xZlpEZGhqWndUY0JIc0RCeWRMVThINkFBT29DTWdteGh2U3dBaXA4VWJHeHQyTldjdmE0UE90MW55UW4ySTNFLU5xc29xa1BuR1hIYmNQOXBRNlVUUWEwZVZNYzc5TG1IV0pQUUhZQ3JQNUxQQWlZVHVHUmpJd3o0N09TazM0SHlGMQ?oc=5",
+      "source": "KOCO",
+      "published_at": "2026-11-14T00:06:00+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-13T17:07:45+00:00"
+    },
+    {
+      "title": "Flights can resume after data overload on systems forced nationwide ground stop, FAA says - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeldJTmdIQWZ1WWxycFd5VlRrN3lKUjNEeDVVcDBURm50UE5mdnJtcnNvTGd4dU9MTFpIb1Y3S3JWaXlYT282bGk4ekp4S1ZieG9IN0JyM2Z6bDJjMHdSNEJ6dFlkOXY0aTVoY216LWxzWEtTR0twRzFQc2hUSVdFVHBn?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-13T21:16:39+00:00"
     },
     {
       "title": "Iran tells UN nuclear agency that monitoring cannot proceed while it is under threat - KSAT",
@@ -147,10 +147,10 @@
       "published_at": "2026-11-13T10:12:48+00:00"
     },
     {
-      "title": "Barred from Competing in Canada, Russia Wants World Junior Hockey Tournament Relocated or Canceled - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmZBbERTdFZTTGxIZW9Rc3hraGM5VGIxZnlIVHE1NGlhdFlJNUNMZnh1V0hMa1B5OUJEeEtVUUlKQklzaHdXNEZacW1YdzFkeEtfY1V3WDFCUlRBOHFCM2R5YktRV1dOU2RycUh0VnB2Ri1VdDk5RldxMXpxcmVnc2NIa2xNZ3NUUE1wLTFWZnB1c0RpVm1VcmdlWEN1UFVKODZJVXA1cVI0U0p2TXFxQ1JmcTI3aDU3WDZWVnZlaHEyVU9SVnJkSVRwMzhkaEk?oc=5",
-      "source": "Bleacher Report",
-      "published_at": "2026-11-13T03:29:10+00:00"
+      "title": "Nationwide ground stop lifted, but many at Tampa International had flights canceled, delayed - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzRnc2R6bk51ajNiOTJsZU41ZGZHVElwaERJeDBLaVRLbF9HZmVuTXhaam9JeUpMcU1jWnAwa0VhZ3ozUGpnN0w3NDFXaDBVbmNVS1haSkZFQXpmZGZTWk5ad3BVSFlZdlZZOHRIVWJFbnlGNlhJUlRWWk5MaFpzRWc4NzZyYzktazhVNXhueGM5bU1xVnNmTk83SGd3ZmxWY0FrYVZXQzlaVmhodUxoMmxmVQ?oc=5",
+      "source": "Tampa Bay Times",
+      "published_at": "2026-11-14T03:01:27+00:00"
     },
     {
       "title": "BREAKING NEWS: FAA Grounds Flights Nationwide, Disney World Vacations Face Sudden Travel Shutdown - Inside the Magic",
