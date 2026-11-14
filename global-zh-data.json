@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:54:54.646574+00:00",
+  "updated_at": "2026-11-14T15:45:21.575071+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
@@ -16,22 +16,16 @@
   "news": {
     "politics": [
       {
-        "title": "川習普19日深圳歷史性會晤！全球3大核武強權首腦同台烏克蘭恐成談判籌碼| 國際 - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obVVic2NrVWVVU2szR2tlQi1OT3o4NjJaMVQtbE1GX0p6N09TZDVLeVY0UkZUek14cDl3bm9qNHhHTWFCaG1YU2NkdnhyYjNzdnBQNG4zYURSM1E?oc=5",
+        "title": "11/14國際晚報｜黃仁勳走了台廠恐失「人情溢價」、川普習近平普京深圳三方峰會、FTX創辦人錯失Anthropic股權370 億美元 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0Q0tnNTNsSXMwSmFEQktIZ1VzSWtMR25Fc3UzajNra3VwMXRabHNmaHNxamJ5RF92b0ZLSldMeURvSHVCRHpKVHJ1amk4UQ?oc=5",
+        "source": "風傳媒",
+        "published_at": "2026-11-14T10:20:00+00:00"
+      },
+      {
+        "title": "讚他是「全台最善良的政治人物」韓國瑜：續挺善政讓桃園脫胎換骨| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycU81bUFobk1oMmhNdzh5ZnpVNXdLUFUzU1Zaai1VMURTOHNIdVNlclozanVCZ1hmbERFN19QbDFBOEhkNnctX2VraXhQalFka2d5Z3NDSExZZzQ?oc=5",
         "source": "Newtalk新聞",
-        "published_at": "2026-11-14T01:24:34+00:00"
-      },
-      {
-        "title": "財經新聞週報｜本週台灣、世界財經新聞整理！重大新聞事件懶人包！ - StockFeel 股感",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRW9mY3VBYVNzMFRMYUU2aXdzRkF3QmJweEx6SEQ4d1VUbTVTRVhuM3JJZW5sT1A4bC1qcDdRRms1ci1qc181VDFxNnZGWEhUNkh0bVBXX0N3UUFHLWg4Y3dTWktBcVJFeUhBZ0pUTS1xNmNkdThVaHdZTHlBSVpGdGZrOGRXUnBIYmRYNWZ1bFFzYkwxcEYzanpXNkZHNTF6OGFnOEdJQmRxODYzT3IyS3dzRmJTTDN5bFNxX0o3ZHhiSEJ3VmlrSFhUUTZjeTh3OEhtcmRNQQ?oc=5",
-        "source": "StockFeel 股感",
-        "published_at": "2026-11-13T22:55:20+00:00"
-      },
-      {
-        "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？ - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1faVAwcTQxOWYyc0UxeW1zOG1nczRjWTJKUVE2cWpXNUt1ZWRnbDd6RkU2dUhVc3ZOWnlUdC1KZ2I3VW1VMFBMY1dsQ0ZvSkhvTVcwa0pGdm9jZGFTUUlQLVV1bGJKenPSAWxBVV95cUxOdEx3eGpzNmdXc0paMnAxTEg5LUdnVkF0V21KR0xMbmFrWXZPSW03ZkVvb0xaOUs1Sk1xN0JibTdtWHU3c3hJTTdKRVA0amtCeGpMUkV3NkE2aTAwZDdTRnQ5cUx0YzVDckRNX3A?oc=5",
-        "source": "BBC",
-        "published_at": "2026-11-13T13:25:48+00:00"
+        "published_at": "2026-11-14T11:51:22+00:00"
       },
       {
         "title": "政府撥補台電穩定電價與支撐強韌電網　是應對國際能源危機最佳解方 - ETtoday新聞雲",
@@ -40,36 +34,48 @@
         "published_at": "2026-11-13T23:00:00+00:00"
       },
       {
+        "title": "慘了？國民黨大老推「兩岸10年計畫」！竟要「統一這1事」脫口台灣1重大改變 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZS05amotemhtYmJ6bEFGTS0zOFpHenlJVmRxcTRYWnBVR1F4VHJiOFdVTWdtbEZZVlJaOGNnZHVCYnlQMWl4ODBwTjdEMFdLbWR2Z0ttdWhlaDAyREgtdA?oc=5",
+        "source": "民視新聞網",
+        "published_at": "2026-11-14T05:14:25+00:00"
+      },
+      {
+        "title": "美期中選舉民主黨又添勝! 阿拉斯加州長政黨輪替、參議員開票也領先| 國際 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tOW5pdlRMTkQ2cTA2bjdLN2dXTVpIU3hETlY5ZXJFeXk1bm1tblB4UXlzdjctbmdReTUyUVB0OXAyZnNWSzJ3bFhvQ0RBVXJxZmdHcU5DTnNnVU0?oc=5",
+        "source": "Newtalk新聞",
+        "published_at": "2026-11-14T09:17:03+00:00"
+      },
+      {
         "title": "11/14國際早報｜全美航班停飛近7000班延誤或取消、CNN：證據不足認定黃仁勳外遇對象是間諜、紐奧良油輪撞129 人遊輪 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pOWhvQnZ0WDlPRUlyaEdjdDJpZV9hZjFkeGpEX2JZaGFBMVFnRWZHNFI5X2hwTGdhUlNYeGtIa1RuRXlCc3U5SFNYR050Zw?oc=5",
         "source": "風傳媒",
         "published_at": "2026-11-13T23:14:00+00:00"
       },
       {
-        "title": "川普失去國會，美中經貿就能正常化？ 藍色海嘯、輝達換帥到AI科技戰，台灣面臨結構性危機？ - 報新聞 Mega News",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50VE9JVVdKaERlNUJrbm1LdVctVkM0RXRLM09fdVFrREtVRV9kY0pWdjFSTnZPejI4YjhNcXduSGlrSmRxRWREbzROcHlxbWxNVEZjMFBLVGtOalNVVktwNzB5U01zZWd2ZFE?oc=5",
-        "source": "報新聞 Mega News",
-        "published_at": "2026-11-13T09:30:58+00:00"
+        "title": "OpenAI 解散獨立機器人團隊？ 轉攻通用智慧與成本控管| 國際 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVOF9zSFdKbG1UQlVpOG53dE5TWTFVZjZ1dDBRQ3dnQVpSUGgyUk5ZMTBXcFdNZFdSRG9qSHVLMzB0VmNzT25XZXJMVmxXaExscER6T29Yc2drQ2s?oc=5",
+        "source": "Newtalk新聞",
+        "published_at": "2026-11-14T12:43:09+00:00"
       },
       {
-        "title": "慘了？國民黨大老推「兩岸10年計畫」！竟要「統一這1事」脫口台灣1重大改變| 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXE4cVBmRldwcGlWOFJDLUdqZFhWaVZjX2N4emc2REZZdjZ1bnlZN25KNThody1EUDJpZUY2R3BwWFNCZzVDckRSUFN4dGtBTG5RR2tIeEs4a0ZnclM1SkhrNEZBMUt0aW94UkZqZFcwWGhFNDRWcTN2MFd1MXhSQ0x1cw?oc=5",
-        "source": "LINE TODAY",
-        "published_at": "2026-11-14T04:27:37+00:00"
-      },
-      {
-        "title": "軍公教年終獎金發放日敲定！荷包進帳多少？ 考績新規迎重大鬆綁 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUjRZSkJyZmFoT3FJdUN5RHNoZDA5Yng0akFfcGRYUXgyd2dpNXdxODZldElsZ3pnNjdUcG9UZk9MemNxVUxLMmNXR253clo1ZnMzU3YtOHd0WkU4Z1RHbmZlNWtLVmxYUHllQ1ZpWQ?oc=5",
-        "source": "知新聞",
-        "published_at": "2026-11-14T04:31:00+00:00"
+        "title": "川習普19日深圳歷史性會晤！全球3大核武強權首腦同台烏克蘭恐成談判籌碼| 國際 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obVVic2NrVWVVU2szR2tlQi1OT3o4NjJaMVQtbE1GX0p6N09TZDVLeVY0UkZUek14cDl3bm9qNHhHTWFCaG1YU2NkdnhyYjNzdnBQNG4zYURSM1E?oc=5",
+        "source": "Newtalk新聞",
+        "published_at": "2026-11-14T01:24:34+00:00"
       }
     ],
     "technology": [
       {
-        "title": "全一電子集團導入Oracle Fusion ERP 以「資安內建」推動雲端轉型優化跨國管理、奠定AI應用基礎 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MUW5WVnB5SG5LN2t2T3dJR3Z5ZE9QY3FwRDgyem9lVTV0TktYcXd0TlBxRU5wdHF6dUpObGlEaFNfRnNzR1U3LVVfUQ?oc=5",
+        "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aUlJCemwxZTlxS2FTODdoT1RKMnJpU3M4WkZSMjB0TDNWUkpWbWxtWmZtaUw3WVoxREtFUnVtcVAzQl9QNldDVU9EZklyZw?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-13T16:51:55+00:00"
+        "published_at": "2026-11-14T15:33:45+00:00"
+      },
+      {
+        "title": "遠端辦公自備電腦藏漏洞 防毒大廠示警個人軟體難代管 - 商傳媒",
+        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPMnNKY3JZZzFBQ0ZrZUZ2VVlsX3A1enlISjFNYVRFbkIydmx4ZW1oX0pURV9QQXUxY0NFV3B2YlJCNHh6YS1ZeWFkYVM3YzVLeklSczFwVUIzNE1xZ01Pamd1WXN2Wi10cUxrdXhJb3hDMF85ck9aQVlwOHJQTHNQVW9iTWpzWGVNSEFVN1dReXFyRUxSYURRYzBwV3U3YUVKa0tIcGlmeTY5Wm1JLTFOQVNXWlJlVkpfYjFyNERXSERJS2ZlUUc4M3JmWFNaaVJpVlRPUngyMTd3SVJlWDF5azlpN1ctVzBBT0I0UkdjZEpJdnV3b2ZLNGFfZjJFVTFjd1Q3QXZnTTRMdEwwbDJ6cjZVQTQ4b0xheHZwMXhaRUpiU0xha3V4MUJOOXF6RjNUZVBJV3g4WEd3bkM0X1R6TkliZjR4YnktSzV3QnA3cEx4NTBwM0tCS3B5U0FKbFBMRXA4TGlEeUFNNElNcFJ1NFQ3bVBobV9LLTZ6ODZ0bnR1eHhlMXdF?oc=5",
+        "source": "商傳媒",
+        "published_at": "2026-11-14T12:14:43+00:00"
       },
       {
         "title": "飆股幕後》資安成顯學 零壹股價創一年多新高 - 自由財經",
@@ -78,43 +84,43 @@
         "published_at": "2026-11-13T21:30:00+00:00"
       },
       {
-        "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmp3SW5yeXVRaE1nWUpfYUdiWllXRGJ6MGViekVhU2RDeWgyd01tS1dSOFJwNXl3RC1sUmJvZmJQTktSdnprbnlWb1lmSzZHeDV4OVJGN1VWTTNwYVFCcUFFdmtCdHFXajJUdlZSR1AtYmdTeGNHRjYwX3hHaEtHR0JyWQ?oc=5",
-        "source": "LINE TODAY",
-        "published_at": "2026-11-13T22:40:58+00:00"
+        "title": "企業告別AI實驗潮 2027年轉向高價值落地與代理工作流程 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOcUNodDNtcGxlUDhjb241RlhuRnJxc1hQVkkyeG5BSUZpZ29EakRPTW9MdFBHTHBPMUJCTU9TYjVlT0Rzcm1wSlQ2bThDNGpkT3c?oc=5",
+        "source": "蕃新聞",
+        "published_at": "2026-11-14T11:25:17+00:00"
       },
       {
-        "title": "假AI講座以免費ChatGPT Pro誘使用者授權公司帳號 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UXlUbDJwYWI5MzBPNktaS082Ylp5WUZneEsybm1uLVdhZEwtaXJsQWwtdzRjNUJpWVh0alJVV1VPandCdWxrV3FJZ0g3Q1JqcGVCRUZTR193dw?oc=5",
-        "source": "中央社 CNA",
-        "published_at": "2026-11-13T10:27:37+00:00"
+        "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」 - TechOrange 科技報橘",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRnAwdFhTVENpMFl4eElTOGZ4S3lZNjViMEZKZzFoNE81X09FcTlUeE81Y0g4Rlo2Z0YtX1VZVDA5VmZaQ3BWN2NQa3NVel9xdTFYYWJfMlFGczlodE5vVFdYX1VnNENSM2c?oc=5",
+        "source": "TechOrange 科技報橘",
+        "published_at": "2026-11-13T22:29:00+00:00"
       },
       {
-        "title": "【資安週報】1109～1113，Cyberbiz事件擴大、多家上市櫃公司接連公告，資安救火人力不足恐浮現 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wSE14MUxrMkRyMVZNYlpzQjV1Szh3VW9DYVBXSmRvTFY2WDZfR3RQVDJTWDIzVEVMNGFYdjFSeUJGNHM4M1pJNUtfbmpyZw?oc=5",
+        "title": "國家級駭客 SilentAir 鎖定台灣用戶 簡訊驗證碼在電信端就被截走 - cyberq.tw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKaURmMWx1UkxoWWNSVl93Zjl2a1VZQkc2SmgxaWJUWXRITGNhblB3V1ZrVm1ITGhvNXNLVjJ6cFZZRWhOV3FOSUdLNHR5ZHZEZXFINTlhcFBnbXJqaXFfdWhHYk9QRTFBYXFNLQ?oc=5",
+        "source": "cyberq.tw",
+        "published_at": "2026-11-14T14:03:16+00:00"
+      },
+      {
+        "title": "SailPoint更新兩款安全產品 即時防禦、識別、治理及保護AI代理身份 - - IT PRO Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BcGRVVTExbVF1NTk4eC1oQVNIWmZyWUdTR2ljS29PWXlYb240ZGw1RmJObVIxdnpyUzFPZVlOV3VVZ1JTWnI5RkxHWXk0QmlYZ09EUnVoZGhJQ1RIOFYxMENnUmd5VUE?oc=5",
+        "source": "- IT PRO Magazine",
+        "published_at": "2026-11-14T14:57:31+00:00"
+      },
+      {
+        "title": "全一電子集團導入Oracle Fusion ERP 以「資安內建」推動雲端轉型優化跨國管理、奠定AI應用基礎 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MUW5WVnB5SG5LN2t2T3dJR3Z5ZE9QY3FwRDgyem9lVTV0TktYcXd0TlBxRU5wdHF6dUpObGlEaFNfRnNzR1U3LVVfUQ?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-13T10:20:21+00:00"
-      },
-      {
-        "title": "Cisco Systems Inc(CSCO)股票11月13日開盤下跌3.81%：原因全解讀 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEx4bmZRZ0FIY2ctc04wSGp3MU5ZZnc4OTgzM296WkxiMEtMcVFGZGV6Y1BoSzI4eXJiblZwS2tCWXRsa0htRl92TUktTHQ5OEtkYldwd3BHUUIwNFRMVjZXc0pid0FqdHR5a01rMFpESXBPY19xdjdoZG43eVZGNjYtdkJ4QkpRaURiUldURV9vb2lxelE?oc=5",
-        "source": "TradingKey",
-        "published_at": "2026-11-13T14:48:29+00:00"
-      },
-      {
-        "title": "【資安日報】11月13日，Apache修補網頁伺服器HTTP/2重大漏洞 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MVVMQVFQb3luYTducXhXbXBSMDJINjQtWklmYkVjSG5tUTgtWm1GcmxPWFQ1eEdTdkxFeVZyRWVIVzhzYmVQSFRWVjBmZw?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-13T09:27:40+00:00"
-      },
-      {
-        "title": "GovTech月報第58期：國網中心擬擴充TAIWAN AI RAP模型微調服務；歐洲央行將在2027年試點驗證數位歐元的實境支付能力 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84bWtMRTNhNEg5SWRtWDBXbU9RUmtNTkdBSTBtcHdPOUR4THBGNV9PQktqcmVSYThKMDYxakxvWmlYSEdpY0JmNFhPb2M2dw?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-13T09:01:18+00:00"
+        "published_at": "2026-11-13T16:51:55+00:00"
       }
     ],
     "finance": [
+      {
+        "title": "富邦印度 留意後市 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRFlMb3VoOHlOTUVsTGZiQ0JycmR0c2JDRVZLRHNEN0ZqQi1mR1MtZllZM0N0OXVwSUpBX2wtcW9KTWNnWlBHOG4yVmNPeE5lbmpOS2gzV2J3Z9IBX0FVX3lxTFBKb0FyR0dBc1poR1RhaU8xM1VNWWxGT0ZkYUs1SXNseFdyQUFVOGs5VUl3dk13bWlOZ0VpNjllZmppc0gtbnE1bkdMRzBIaldNN3ZYLWpqQ0NrVkxicGlR?oc=5",
+        "source": "經濟日報",
+        "published_at": "2026-11-14T15:15:56+00:00"
+      },
       {
         "title": "黃仁勳請辭輝達執行長 金融業看未來股市走向 | 經濟日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuRjQ3RW5vc3ZIdFBNWHZhQkRxaUhObWJkSDJwdkJ0aHJrRGxvZGZxQ082SU82ZlljTlZGTEZhYjgxX1l3SnRWenM2VHBWUm82aTh5bzBjbGw2cmt6QlJucFpLXzR2anVBN3c2eThaSW5fOUNF?oc=5",
@@ -122,10 +128,10 @@
         "published_at": "2026-11-14T04:07:29+00:00"
       },
       {
-        "title": "財經新聞週報｜本週台灣、世界財經新聞整理！重大新聞事件懶人包！ - StockFeel 股感",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRW9mY3VBYVNzMFRMYUU2aXdzRkF3QmJweEx6SEQ4d1VUbTVTRVhuM3JJZW5sT1A4bC1qcDdRRms1ci1qc181VDFxNnZGWEhUNkh0bVBXX0N3UUFHLWg4Y3dTWktBcVJFeUhBZ0pUTS1xNmNkdThVaHdZTHlBSVpGdGZrOGRXUnBIYmRYNWZ1bFFzYkwxcEYzanpXNkZHNTF6OGFnOEdJQmRxODYzT3IyS3dzRmJTTDN5bFNxX0o3ZHhiSEJ3VmlrSFhUUTZjeTh3OEhtcmRNQQ?oc=5",
-        "source": "StockFeel 股感",
-        "published_at": "2026-11-13T22:55:20+00:00"
+        "title": "Fed報告示警 AI成金融穩定頭號威脅 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGhmYnlFNExfTnE2aE9Wb2VaVncza0ZxMGh0SjJ1MF9pVjBoVUwzYjVpMlFONEtwdUtZZVBzVGN5ZlJqdUtiQ2p2ZFFvWmZ5NjJ3UlNpa0l2WjBFWldNZnJkcVQ2XzRQWVRyMTVtZXZTMlZUTURkOVVtdmhIeVZ2dnBEWjRWaURFRTNxcl8zVFPSAV9BVV95cUxONGFtR2ExdjJnTHM0eTI5QS1TU25fRGxkakhUVnQxZGJnMjkyN2o4WjlyaTA3OTNCTkhBNXllSGxLX2l3UVBBaVFHLVlEVHo2RC16NFdUR0Z6MF8waXkwaw?oc=5",
+        "source": "經濟日報",
+        "published_at": "2026-11-14T15:24:17+00:00"
       },
       {
         "title": "標普500前十大個股權重破四成美股過度集中促資金轉向國際市場- 財經新聞 - PChome Online 新聞",
@@ -134,42 +140,128 @@
         "published_at": "2026-11-14T06:22:07+00:00"
       },
       {
-        "title": "黃仁勳遭解職震撼金融市場 資金變現重擊債券與黃金 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uVS1Ma2VtLUxMVThseXdWUGMzRENkdWZScWQ0VVk5bF9yNmhSUVloRkJvOTJDT3lKdGpsN2w0cTU1THdsTkd5YXV5dzV6QjNkdVE?oc=5",
-        "source": "蕃新聞",
-        "published_at": "2026-11-14T07:44:42+00:00"
-      },
-      {
-        "title": "兆豐證券、天下文化邀羅格夫來台 剖析美元變局與台灣機會 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTRFk5Vkt1LXplWm5jRUZLdXBtbDdQTFd5RFkxZFBoREJ6MGhURUprSnJPbkRPZVdiUmo2cFdPS2Utd0JvMzdDdDJvNmhSR3lXXzEtUUVscVh4Z9IBX0FVX3lxTE9XeHVTNEpybXhxMFM0djhPZzZJZGhxMG9ucERmU3QxU0pUUjNzaGw3Z0hRSlJWNlhNSGpSSUVPQldjNjFjQjc1Z2FlTXNfMWV0T3VxYnFkOE5wbVRNelNB?oc=5",
+        "title": "陸證監會：研究改善預期引導機制 減少「羊群效應」市場波動 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmVndlhtcUxwMll6bTdsRTdMdnhTbkxsX1Y1MW5tSXowY0otNThFVjM4c3VqeGR2MWRTb1ZkTllRS2NyRV81MEFfWlMtTFVodWlNU0YyQTEybnFJUks5S3ZKaHhxaUFMSFlYcVJseDNfbDAxa1M1TWFheUZwSkU4aNIBX0FVX3lxTFBaOXBYR0hjbUlLRFh1R2Nyckg1dTlGM09sZ0ZIVm9TTmwyLU5UVmlyUTJNZFQ0QzV4Qmw4NVFEWno4UXRlaXNrT1JxRlZuNjRBNmd0THpTVG1LTVlBVktJ?oc=5",
         "source": "經濟日報",
-        "published_at": "2026-11-13T14:28:24+00:00"
+        "published_at": "2026-11-14T06:23:01+00:00"
       },
       {
-        "title": "債券最糟時刻過去了？美債殖利率再度衝高，經理人感嘆「比金融海嘯還難熬」 | 林彥呈 | 財經 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfbkxoUnpHVFVaT1l4em8tdHExWTE5M0IyS0t2a09BdFBnMzA0NDlneU5LZTA4cHdXYU8xOGZhdzh0VEJFLWhVeURyOWhRdw?oc=5",
-        "source": "風傳媒",
-        "published_at": "2026-11-13T12:15:00+00:00"
-      },
-      {
-        "title": "《國際金融》歐股早盤回落 AI族群下滑 - 富聯網",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnZheWFTOUlrOW1obk41YWxBb2p4aVoxWmx0dXlCMUZod0g5VnR1NkcySjRuX1k4dkZGM1JSOG1rc0p2WWpQb09LUF9sQ3pibTVjZzdLVmNCWVRmbzlEWkdzSzk1a3RaRTF6djVoQTZYckVPRjUwZm9SZ04yNVFIRnNYbXBDbVNv?oc=5",
-        "source": "富聯網",
-        "published_at": "2026-11-13T09:24:00+00:00"
+        "title": "美股震盪引發避險潮 連增股息數十年老牌企業成焦點 - Life 生活網",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTHV4SXNkVVl6QVRYZUxjNnJWcDlZYWk3V2pEVnFjUzNjZTBQNjhYdzJ4TXFQb1JRRWJSU3FUREN1MXA2eE9XSkJUR2ZuOUc0MjFtUUg3OWpBTmxrcDBXXzF4ai11ZjdfX19seWt4aldidEV6aXJjTjlBMnRvdml2U3Y2cG53aWdHVTFIRnlQUWlyM2ZUMXBjenVDVVVsMXZBSGc1MV9IRXpQelF3em9aOFE1bGM2Smx2MEhSalE3R3lQMWJBN1ZfNFRBQkJUdHZkaTdvNXVSUkhwUUtyLWxHZnVrS2twMWFhVllmdTV4ekVfLVk3WVBZS0JwdjlqRkpFbGJGSkRYU1h0cmVma1pDTXRDZW5aclJPaDUzQ2t2WjhTRkRDOXMxMm5qdlE3a1Z2d014VFdHdFlfeHhzNTJxa1Q5ZmlMRUJNYWtVYjkwVzhmemZKdXZNbUdlVWc?oc=5",
+        "source": "Life 生活網",
+        "published_at": "2026-11-14T11:20:55+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 51,
+    "count": 50,
     "points": [
       {
-        "lat": 48.4883333333333,
-        "lon": -119.911166666667,
-        "mag": 3.29,
+        "lat": 32.82033,
+        "lon": -115.46517,
+        "mag": 2.73,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.82367,
+        "lon": -115.46516,
+        "mag": 3.19,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": -33.0019,
+        "lon": -178.3404,
+        "mag": 4.9,
+        "kind": "quake",
+        "title": "south of the Kermadec Islands"
+      },
+      {
+        "lat": 52.3603,
+        "lon": 160.2984,
+        "mag": 4.5,
+        "kind": "quake",
+        "title": "137 km SE of Petropavlovsk-Kamchatsky, Russia"
+      },
+      {
+        "lat": 18.9871673583984,
+        "lon": -155.385330200195,
+        "mag": 2.66,
+        "kind": "quake",
+        "title": "22 km ESE of Naalehu, Hawaii"
+      },
+      {
+        "lat": 32.8195,
+        "lon": -115.46333,
+        "mag": 2.66,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.80067,
+        "lon": -115.451,
+        "mag": 3,
+        "kind": "quake",
+        "title": "7 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.816,
+        "lon": -115.46383,
+        "mag": 2.65,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.81217,
+        "lon": -115.46616,
+        "mag": 3.26,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.815,
+        "lon": -115.4635,
+        "mag": 3.09,
+        "kind": "quake",
+        "title": "8 km W of Holtville, CA"
+      },
+      {
+        "lat": 32.81283,
+        "lon": -115.45883,
+        "mag": 3.01,
+        "kind": "quake",
+        "title": "7 km W of Holtville, CA"
+      },
+      {
+        "lat": 30.122,
+        "lon": -42.6346,
+        "mag": 5.5,
+        "kind": "quake",
+        "title": "northern Mid-Atlantic Ridge"
+      },
+      {
+        "lat": 18.7483333333333,
+        "lon": -66.7786666666667,
+        "mag": 2.73,
+        "kind": "quake",
+        "title": "29 km N of Hatillo, Puerto Rico"
+      },
+      {
+        "lat": 48.4878333333333,
+        "lon": -119.918166666667,
+        "mag": 3.42,
         "kind": "quake",
         "title": "14 km WSW of Conconully, Washington"
+      },
+      {
+        "lat": 19.5083,
+        "lon": -67.2648,
+        "mag": 3.55,
+        "kind": "quake",
+        "title": "113 km N of San Antonio, Puerto Rico"
       },
       {
         "lat": 30.0796,
@@ -415,111 +507,6 @@
         "mag": 5.2,
         "kind": "quake",
         "title": "79 km NE of Kuqa, China"
-      },
-      {
-        "lat": 38.9792,
-        "lon": -115.3039,
-        "mag": 3.38,
-        "kind": "quake",
-        "title": "22 km WNW of Preston, Nevada"
-      },
-      {
-        "lat": 38.901,
-        "lon": -115.2534,
-        "mag": 3.55,
-        "kind": "quake",
-        "title": "16 km W of Preston, Nevada"
-      },
-      {
-        "lat": -36.4434,
-        "lon": -97.9785,
-        "mag": 5.2,
-        "kind": "quake",
-        "title": "West Chile Rise"
-      },
-      {
-        "lat": -10.5256,
-        "lon": -74.6131,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "52 km NE of Santa Rosa, Peru"
-      },
-      {
-        "lat": 7.3953,
-        "lon": 126.6864,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "12 km ESE of Baculin, Philippines"
-      },
-      {
-        "lat": -21.3036,
-        "lon": -175.8541,
-        "mag": 4.8,
-        "kind": "quake",
-        "title": "59 km WSW of Houma, Tonga"
-      },
-      {
-        "lat": 56.034,
-        "lon": -156.334,
-        "mag": 2.6,
-        "kind": "quake",
-        "title": "131 km ESE of Chignik, Alaska"
-      },
-      {
-        "lat": -4.5227,
-        "lon": -75.3275,
-        "mag": 4.5,
-        "kind": "quake",
-        "title": "86 km NNE of Lagunas, Peru"
-      },
-      {
-        "lat": -9.1322,
-        "lon": -74.2837,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "51 km ESE of Tournavista, Peru"
-      },
-      {
-        "lat": 36.2047,
-        "lon": 68.3878,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "29 km WNW of Baghlān, Afghanistan"
-      },
-      {
-        "lat": 36.0578,
-        "lon": 70.2408,
-        "mag": 4.1,
-        "kind": "quake",
-        "title": "66 km SSE of Farkhār, Afghanistan"
-      },
-      {
-        "lat": -22.3729,
-        "lon": 173.4492,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "southeast of the Loyalty Islands"
-      },
-      {
-        "lat": 31.653,
-        "lon": -104.469,
-        "mag": 2.5,
-        "kind": "quake",
-        "title": "58 km S of Whites City, New Mexico"
-      },
-      {
-        "lat": 60.651,
-        "lon": -151.123,
-        "mag": 3.3,
-        "kind": "quake",
-        "title": "10 km ESE of Nikiski, Alaska"
-      },
-      {
-        "lat": 8.2136,
-        "lon": 127.2035,
-        "mag": 4.6,
-        "kind": "quake",
-        "title": "84 km E of Barcelona, Philippines"
       }
     ]
   },
