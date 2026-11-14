@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T14:23:05.302172+00:00",
+  "updated_at": "2026-11-14T19:21:38.722724+00:00",
   "source": "Google News RSS",
   "articles": [
     {
       "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
       "source": "NBC News",
-      "published_at": "2026-11-14T06:56:37+00:00"
+      "published_at": "2026-11-14T03:56:11+00:00"
     },
     {
       "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - ABC News - Breaking News, Latest News and Videos",
@@ -15,40 +15,46 @@
       "published_at": "2026-11-14T08:51:08+00:00"
     },
     {
-      "title": "Celebrate World Kindness Day with One Last Order - Netflix",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNThvMWNEdF82M2FhS3YyY0JiOU5GMFhMWXFRRGdZUkRPM0tqQ1hkZlZqS2xBMHBvbVJGSktFc2ctd0NfMy1ucjg4TDdwalgxTld5bkRqQi0xeEdLZVNGUUtxRnBKa25jenBkTUJ1aFY1YWxmYlU4?oc=5",
-      "source": "Netflix",
-      "published_at": "2026-11-13T20:02:33+00:00"
+      "title": "Flight cancellations, delays linger after nationwide ground stop impacts Philadelphia International Airport - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDNEazdKQ2l3YkMwejVkRFQtaENHamJuUldoX0hvTXlmM2lWeEhsbDY0dGtlRnRqRHZ6aWtxWHRVaVBhMGJsY3huSkwxbHJfSkFXNDRmTk1kVUlRVkx1WTRmelhLc3pUc1hrR2tvUDRvZDhHdkZPY01nOENuc08wMmhHN29xSmdiWnJSWGtRWkNIVXBXZFVLdDRrcGRrZWpJN2c?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-14T17:24:25+00:00"
     },
     {
-      "title": "Video. Latest news bulletin | November 14th, 2026 – Midday - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2ROeVpFd0xPLXdYbElaMzMxajRlUlRUUHpZRnVLOHBYTHpXT0xNQjR1RnR3RzhhSHk5b0JqRHF2eEk0UnRBYTJUNDF1cEF2V29LZkJMeHJmSzZCY012ZVB6YXpDWUhfazhsMjh3UWRhRVJiNkRjalZCSDUwWnBDZ3o1ZzFzbm9ySXJTZ21TZndCQQ?oc=5",
-      "source": "Euronews.com",
-      "published_at": "2026-11-14T11:00:15+00:00"
+      "title": "LIVE: Transportation secretary updates on Friday's nationwide ground stop - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeTVpeloyY1YwdmRlVjM5MlU3WHduR0kxSklFZkdHY19WdUkzaWVpckhmWXpwb1J3Ym5WbHU2enVXTG5uNVJnakpPRDhUaVFHRWVuWHRZZktZaUZ1UWNLUXRjMTYzcS1RY1dwT3JldVN0b1NsTkRvdVRuUnZCYmFEVTBwRnBTX0Z3bjNBZExFM0pITHk2Q3czM0dIQlZWd0F3bTRSMlhLeXdTZlpBWkh0Sm13UUVtc2tPM0pYWjdDUW8yVlI4RUNGT2Y4Sk52OWhNRmFHVTJDeVA3eGdHM2Y0Y0VhY3cteDFGd0d1MGQ0OURJYy1DQ3ZJbW9jOWJRRGY4SkE?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-14T15:57:20+00:00"
+    },
+    {
+      "title": "Latest news bulletin | November 14th, 2026 – Evening - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0ZuWEVUU0lITFgwSHlkSDhlblRWQTRKQWJIWEdoN1FBa3BYYmJmYWxpdVVaRWVvY3RoVWxNcFZ0TXFKNVpJMEpaZkctNjJwdUlSTldLeHd3QjNsR3lNR3lpMTlBYVNTV0NGajNOcUwtUFJqckd3dVlLR2FvOWxaLXNGaGJPb1ZfLXdXZzJIZ2V6NXEydUE?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-11-14T17:00:26+00:00"
+    },
+    {
+      "title": "'A good birthday present': Aicher wins first World Cup Slalom - International Ski and Snowboard Federation (FIS)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDNZRGZZX0tfdzdqMVRXMEpEeFN2eWF5cWxvdXJiQ1NZQ2pha25URXc3YXVlN01rc1lpZkQ4V28teW9VSnUyN0N4VC1iOHRRU0locnQzckZpWjdaLU54YWhGbmljejFTUmdyY0tKYVpVeWVocmpKNG9HTjEwOTF1dDNZVWs0dUNUclY3OGRSNDRYQjQxOVR5LUpLNzhwZDBLZUpKVjRvZFUzblRYOGRJ?oc=5",
+      "source": "International Ski and Snowboard Federation (FIS)",
+      "published_at": "2026-11-14T14:21:45+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-14T15:55:10+00:00"
+    },
+    {
+      "title": "Nationwide ground stop lifted, but many at Tampa International had flights canceled, delayed - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzRnc2R6bk51ajNiOTJsZU41ZGZHVElwaERJeDBLaVRLbF9HZmVuTXhaam9JeUpMcU1jWnAwa0VhZ3ozUGpnN0w3NDFXaDBVbmNVS1haSkZFQXpmZGZTWk5ad3BVSFlZdlZZOHRIVWJFbnlGNlhJUlRWWk5MaFpzRWc4NzZyYzktazhVNXhueGM5bU1xVnNmTk83SGd3ZmxWY0FrYVZXQzlaVmhodUxoMmxmVQ?oc=5",
+      "source": "Tampa Bay Times",
+      "published_at": "2026-11-14T14:00:33+00:00"
     },
     {
       "title": "US to resume flights after air traffic network failure sparks chaos - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-13T21:38:00+00:00"
-    },
-    {
-      "title": "Latest news bulletin | November 14th, 2026 – Morning - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWllsWkJWMFo0RTl3RVF4VWxiU19FbVBpcWVQcnN0aFhfT2RDenhpRTBGYUUxamZ3ODM0Sm5VY0xpNy1PVF9aUTRhUHJXbU14TEZETzBIQ1FqMDlFSjZmSm9xT2dzQnVuMGs3Ump1aWYzT2lJOC1CLXU0WUtmZGJKeDM4WnYzZER3NGloMU5kb1M3QTZ2dUE?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-14T06:00:00+00:00"
-    },
-    {
-      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 13, 2026 - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3daYS13cm1id0tpbEJZNkFlRFRaS0p6aTRyME8wblRKNk9OaGVRNUF5Q1F1UHItb2szWkNucFhEaS1zVlhISXFSZ3pHbVhDNm5ZSzc3dzlydlhxWlE3OFdBdjNmdXkwWDQtcUNVekN1dl9qbXotSU1nUGZ4ZHM1bWF4STU4M1ZLN3hUX2NETDZPOXRuN0NWN0t0YWIyVjlSaGpiRi0zTUMyc3VoNzB5SlhUcXFYRlZrQzZhbWhQNm9DY2xERWtTel9zTm5aX1hzeTc1X2Q3aGRqZjhRWGJtRjFXT2VCMW41VmlXT0NTWWhrRmw5QVNEdmpGYi0?oc=5",
-      "source": "Central Oregon Daily",
-      "published_at": "2026-11-14T01:40:00+00:00"
-    },
-    {
-      "title": "Nationwide ground stop lifted, but many at Tampa International had flights canceled, delayed - Tampa Bay Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzRnc2R6bk51ajNiOTJsZU41ZGZHVElwaERJeDBLaVRLbF9HZmVuTXhaam9JeUpMcU1jWnAwa0VhZ3ozUGpnN0w3NDFXaDBVbmNVS1haSkZFQXpmZGZTWk5ad3BVSFlZdlZZOHRIVWJFbnlGNlhJUlRWWk5MaFpzRWc4NzZyYzktazhVNXhueGM5bU1xVnNmTk83SGd3ZmxWY0FrYVZXQzlaVmhodUxoMmxmVQ?oc=5",
-      "source": "Tampa Bay Times",
-      "published_at": "2026-11-14T12:12:33+00:00"
     },
     {
       "title": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane - UEFA.com",
@@ -63,58 +69,52 @@
       "published_at": "2026-11-14T06:33:08+00:00"
     },
     {
-      "title": "10 Best: Ranking the world's top men's soccer players ... again! - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzFxMWppc0dYN1BFMGdJdEtoMHQyT0lmSUNPOGhjLVFTUmkwRzF0ajlRbFhmUFVhM3hnUnp1YzNkVDNCVVBqcUtHTjdYU1g0d2NlSHpWb0NMbjl6MkFvdWplU3hYNTdzMmpVZHloeF9nUWpROXFaa1hUQ3lkX3BQSzRrMW0wYjNGYlFuRnRnRnpjMmFJaVE?oc=5",
-      "source": "ESPN",
-      "published_at": "2026-11-13T15:00:00+00:00"
+      "title": "Nationwide flight ground stop lifted, including at Sacramento International Airport - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHNBQ0xIdHljZHdvMkVuUEMyeWJ6REVwd3lDZGNfSWtrdnJZeGpGUkV1ajB0YXg4ZnJQMFpwRDA3WVNsUExOT3ZSejNTSVJsLXYyS21TcVZhRlU3dXBHaVhCWEFaMlFqSkctOGNmZEpVaS1NMmVMSExFSU9PbkltQXU0aVVUcWlpZGRxMVlTY1VnN0puUXc?oc=5",
+      "source": "KCRA",
+      "published_at": "2026-11-14T06:42:00+00:00"
     },
     {
-      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-14T00:59:05+00:00"
+      "title": "Tens of thousands march in Portuguese cities against surging home prices - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXk0Q1VfNjBhTXNfQm5VeE1hOElEU0dPU2dncEJ2dWttNDZsN0p3LUNzM0Z6czZWRVJyRUhaRVNsNTN0amx3S1JGc1R1QldEQkVUNDlFbmdxa3VfQVQ5VXBLTzBndXIyckMyUThzVFFyZC1lVWd1MmhIVXZubldyb0lUd0VESUozTnR2Z3ZhZEJjWktBM3pMNGVINkp0OUlhY2FyQk5qNm44VktueTRmZk01OFFqUWM?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-14T16:53:54+00:00"
     },
     {
-      "title": "Bulgaria Approves Fur Farming Ban In Major Victory For Animals - World Animal News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFM4TnlMV2M3Mjg0VDhmeFV5cUlJOGFFVlRfZTRJOUNzTHBYV3ZJQTljNWZuZmtoRndGVVFra3FrdGNuQXYxZGlmQkJqek9IQnZKSUJXMFF2TXNoQTJPSXdaYWdpeEluX1JLUHQzUXhWVjhKamJ2Q2dMOWFxMXJmT1RGUGJ1eDA4ZnpGd1A3b0JjSWIyUW5ZSW9iTUItRm82YTBqWg?oc=5",
-      "source": "World Animal News",
-      "published_at": "2026-11-14T01:08:05+00:00"
+      "title": "Daredevils reach top of Empire State Building with banner, before apparent proposal - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUp4WjZZWDc5cVpoUVp3WUtpdmJhLXFOV0FkQlpmeUlmd2lyUW5abkxSS2JKLUdMOU05WncxYTl5SDZtZml0ZmRPUzg0VGFDQzZrb1hFM2NROFltQWtYQjFlVGV0TWZnT0VJeXZsRkRFNFk2cVFvanNYMWlmVWVVZGp2VHJDdDNtUFdxWk52RmQ4Z9IBlwFBVV95cUxNUTc4alZJS3VoTUxYcWxnTTl2R09ueGtqbWxSMTk4dnNHMWxEYVFRWVBudDEzQVpjN2l4RnNQNGJaNnZISEQzbmJoSEdHcDZmT1dCaUxQZDBzVzZWd19fS3c3Tks3ZG1SRWVSWThFOVdCSGxUU09Kcktfbmh5ZmJqZWtrVU5lSklmdGlpcG5mN0l5SEhiRzNr?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-14T12:23:01+00:00"
     },
     {
-      "title": "Hundreds of \"Rocky\" fans set Guinness World Record in Philadelphia - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09XRlpCeVV3ZUYxVjJ1ODcxbG0zdWl4a1lHZzhaUnlhNzFTWlZiYmJKY1g3aEw3QllSQnZreElpZC15Ujg3VFlTUFhRV1gyYS1FQS1OeFREMERCY3RVMXRwYktPLVJfc3ZiaHp4d0NYZ1FuNkN3ZHVTcFlBR0hwcmRTM3I3ZEdxRG1JeU9UT2lsWUZoc21YdUV3?oc=5",
+      "title": "Rocky fans break Guinness World Record in Philadelphia - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEtMMjBYdjl6ZnlRcTRtSWtudHlhb1J5SF9SVG95a29FUDl4MzVSakRWdlIyd202RVl3N2hnSjN5cjRfbXJqTXRYNVotMWkwMEdKVnF4N3N6VTV2RHZWTTFKNk4waUpaU0VSUnRtR01XV3ZMSW4zZGg5UmhWX0RxMm9BN0lMcG56TTlkZk9BdWdFN1NJeFE?oc=5",
       "source": "CBS News",
-      "published_at": "2026-11-13T21:32:00+00:00"
+      "published_at": "2026-11-14T15:39:00+00:00"
     },
     {
-      "title": "2026 film festivals and markets calendar: latest dates - Screen Daily",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkE0MTRabzdEUTJEbGxOQWd3dVVIS25BVlhYRlg5U2hXbGRQSk9ibi1iaUNLemwzMC1VRFhiRUN4VWZCajRMLXJlZU9sdkt4VG9PUXM0RUJBTnQweUszU0pGbzZxUlMwTDBIUXJkQjVPLW1kTjd6NHcwQUZLOWJ5dEZrMzdMMUx4SjFvQTZLVWRlb2xLVFEtbWtXWUk1UWtKeFNXYQ?oc=5",
-      "source": "Screen Daily",
-      "published_at": "2026-11-14T09:13:12+00:00"
+      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 13, 2026 - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3daYS13cm1id0tpbEJZNkFlRFRaS0p6aTRyME8wblRKNk9OaGVRNUF5Q1F1UHItb2szWkNucFhEaS1zVlhISXFSZ3pHbVhDNm5ZSzc3dzlydlhxWlE3OFdBdjNmdXkwWDQtcUNVekN1dl9qbXotSU1nUGZ4ZHM1bWF4STU4M1ZLN3hUX2NETDZPOXRuN0NWN0t0YWIyVjlSaGpiRi0zTUMyc3VoNzB5SlhUcXFYRlZrQzZhbWhQNm9DY2xERWtTel9zTm5aX1hzeTc1X2Q3aGRqZjhRWGJtRjFXT2VCMW41VmlXT0NTWWhrRmw5QVNEdmpGYi0?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-14T01:40:00+00:00"
     },
     {
-      "title": "Nationwide ground stop affecting Philadelphia International Airport ends; delays, cancellations expected - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDNEazdKQ2l3YkMwejVkRFQtaENHamJuUldoX0hvTXlmM2lWeEhsbDY0dGtlRnRqRHZ6aWtxWHRVaVBhMGJsY3huSkwxbHJfSkFXNDRmTk1kVUlRVkx1WTRmelhLc3pUc1hrR2tvUDRvZDhHdkZPY01nOENuc08wMmhHN29xSmdiWnJSWGtRWkNIVXBXZFVLdDRrcGRrZWpJN2c?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-13T21:37:00+00:00"
+      "title": "Thousands of flights canceled or delayed Saturday after FAA’s nationwide ground stop - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFpNUWJMU2ppemowM1BHcmRhZTc0YkhQTjl5ZVdTX0VIVlhwOGJESXdjcUhiM1lkbWZHUTJManlCYWRWc3FGWVpIUUNSSWhNeGM1TDN6UnJKSUZUUnlpS2Rac3J0M1RNcTg0WmRGYXlfRjlLTmtwd1FXcmpCU1hBX0sxUW4xbTczY1BOcUt6RkhyMzN5Y2x2TTg3MkJlTzBFLWxmdlNQbnlHVkRPeHg0TEI3VWg?oc=5",
+      "source": "NBC News",
+      "published_at": "2026-11-13T21:09:00+00:00"
+    },
+    {
+      "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWRUTjJ2NE5hdUh6V1JOVFZhTHpQTXZfRHkyUnNkcnFXUi04OVUzZVFzWDFLR2FZWVlyS3BQdVo4ci1TeEowaWpiY1NZMlVTZm0wdHRYSFNzM3ROcl9yYTBPbHNCQlNMZGVDenB1TUQ3UndyOUZUd1FFbi04RURpMEVwNjk5cy1Ga2NRVWdCbXJjR2dMRUtfOFJpN3VKLXpNeHNxSkVqTExBZDdNdDMyTXVQeTFFc2I2U2lYWmJnZldqR2dEVTFqNE9jaFNqYVlpTFBN?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-14T08:56:48+00:00"
     },
     {
       "title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated) - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-13T23:09:58+00:00"
-    },
-    {
-      "title": "DP World Tour Championship: Rory McIlroy suffers big Race to Dubai setback as Tyrrell Hatton takes lead into final day - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaF8ydzM1RkQ1dGhzRlpuYkdPQWF0MTduN3I4MHd4Q3FMTW1KLU1oWmd6cnMtS3oyNEJaVEdGdXVBVy1scXdaQlJJTXJQdk1kRjl2U2pYX3lLVnZkQzlYTlp5RmpDSURmZkRfUmVVUFIxd09sdXN1eWZVSzNIdDFmT1V2aHhmNTRwdjJGWWlNRmhiZWxxSWJpMjB6ZV9JLW9XcUk1QkZWQjNyOUkzRFVIZkFpSXkza1g2NlY2eWs0ckFDTlZ1bHpSVWhvRXh2ZjZqSHowZE55X2drQzJyeGNOaUpZcDZMWnVaVldCR1pDV0x4cExp?oc=5",
-      "source": "Sky Sports",
-      "published_at": "2026-11-14T13:41:15+00:00"
-    },
-    {
-      "title": "Rocky fans break world record on film's 50th anniversary - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU9xR3prRDR2d1pYQlZVZk9hYjZXRm1RbWxHVmJ3eHhKeVg4eWEyNXdkRzBzZzZyUjFXYzhLX2xJWlNja3VPRWhHcmJicE1IV3VTYzBMMzdCdWtiT3NIZ3oxTzBpdkQ2WV9OTmxabjI5NUNSTW1wRWtRV3ctSDU4emJrT1A?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-14T11:30:15+00:00"
     },
     {
       "title": "Nationwide ground stop leads to frustration, confusion at JFK, LaGuardia, Newark Liberty International airports - CBS News",
@@ -129,16 +129,16 @@
       "published_at": "2026-11-13T21:46:58+00:00"
     },
     {
-      "title": "Football latest news & gossip - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVVIbXE5Ykt3cjRpS2hxLTNaSlcxenlvTlF3MjFPRG03YkFDVnd0dGM4WU9jSnlfY2s0a1Y1dGVRY2RldzJBbzk3R0VacVZFV2VZUTF1akJoQmFGTE54U09BSFNJY1A0U21INk9ud0J3UUdvc1Q1ZVZUVDR1Q2NrMDhlQzFCa29HVS10V19B?oc=5",
-      "source": "Sky Sports",
-      "published_at": "2026-11-14T13:01:11+00:00"
-    },
-    {
       "title": "Flights can resume after data overload on systems forced nationwide ground stop, FAA says - KSAT",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeldJTmdIQWZ1WWxycFd5VlRrN3lKUjNEeDVVcDBURm50UE5mdnJtcnNvTGd4dU9MTFpIb1Y3S3JWaXlYT282bGk4ekp4S1ZieG9IN0JyM2Z6bDJjMHdSNEJ6dFlkOXY0aTVoY216LWxzWEtTR0twRzFQc2hUSVdFVHBn?oc=5",
       "source": "KSAT",
       "published_at": "2026-11-13T21:16:39+00:00"
+    },
+    {
+      "title": "MAGA Propagandist Paid by Russian Government Shows Up at Mar-a-Lago - The New Republic",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xbTZfVUxGSkREWEpuaFFIcXIyaHhqM1FGRkllWk1fTmJOWTd0RjVNUzFEcGJ0QjlaR1hYVXg5V2hIQWY3YllJNXI0N0gtUQ?oc=5",
+      "source": "The New Republic",
+      "published_at": "2026-11-13T20:58:07+00:00"
     },
     {
       "title": "BREAKING NEWS: FAA Grounds Flights Nationwide, Disney World Vacations Face Sudden Travel Shutdown - Inside the Magic",
