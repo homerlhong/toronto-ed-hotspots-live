@@ -32,11 +32,15 @@
       {
         "at": "2026-11-13T23:34:59.443340+00:00",
         "count": 9
+      },
+      {
+        "at": "2026-11-14T03:32:16.843621+00:00",
+        "count": 9
       }
     ],
     "source": "https://www.toronto.ca/data/fire/livecad.xml",
     "measurement": "Number of publicly listed active fire dispatch incidents",
-    "last_success_utc": "2026-11-13T23:34:59.443340+00:00"
+    "last_success_utc": "2026-11-14T03:32:16.843621+00:00"
   },
   "police": {
     "status": "UNAVAILABLE",
