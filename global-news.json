@@ -1,108 +1,84 @@
 {
-  "updated_at": "2026-11-16T08:53:38.981919+00:00",
+  "updated_at": "2026-11-16T19:09:27.886263+00:00",
   "source": "Google News RSS",
   "articles": [
     {
-      "title": "Latest news bulletin | November 16th, 2026 – Morning - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlI5a0FCZDhOall6bFV6R1ZjenZyZ01EM0JOaUNVMkdHdDlkdVpNc2w5RU4yYjZlbGpnS3MzRVpfaWV5VVVUdkxrU1BmSTY1cVNIY0dMcVZCOXZCWkVBUm1yc0lLZzZzczRSdW13cS1NS2I4WmQ0ZnBnWlZRNFRJbnJPWERwQnZ2SHlHUjh2NEZJTU12bFE?oc=5",
+      "title": "‘Rocky’ fans in Philadelphia break world record - Spotlight PA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2JGeXNweXo0ZTlja0tGQ05iemlWcjJrZVhUX0RrMUFhT09xM21sRUt4QVNRVExKUzZFZGRJS0t1X01PM0xYX2cxWHMxM0RDdmZ6eGx6ZUJGdUZPRGxaME55M1dseUVySFVNa0JyYjNuanNVWUhvU01fektkbTZVWjZ0VDU?oc=5",
+      "source": "Spotlight PA",
+      "published_at": "2026-11-16T18:38:49+00:00"
+    },
+    {
+      "title": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-16T09:00:31+00:00"
+    },
+    {
+      "title": "Latest news bulletin | November 16th, 2026 – Evening - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEhmRVo1bjZqWVlITmlXX0xIc3d4WnJlaDU1VmVjYmVUWTN4S0JWeTBIeFU0VTN0WjRJemdTcFJFT01COTVlRlZMRVVfVmVXZFlWaFlfaElOR3RwcEIxbFRuZGY3WDdiQWVIdmV2NG1KZEk4YUJHQzYzcU95clRLa3FBNTdXa0oyTTJvTHVhQnV4RXdheEE?oc=5",
       "source": "Yahoo",
-      "published_at": "2026-11-16T06:00:00+00:00"
+      "published_at": "2026-11-16T17:00:26+00:00"
     },
     {
-      "title": "Headline News Summaries, World News, and Breaking News - Newser",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zTjJ5dklGaHNRMDBfcHRBd2MzMk14WDNXWkhvZ0xfdkhjN2ptbXlYdUF3a1BjbG1tWWhoV3R3Rng4UnJyQWRWaXZrU1hQUQ?oc=5",
-      "source": "Newser",
-      "published_at": "2026-11-16T06:00:00+00:00"
+      "title": "World Series 2026: Kubiak, Wilkerson break world records in golden finish to season - Paralympic.org.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZPRlNOVGszYVhtV0I5U0VNNzNNdm5KeUd5Qjl1QU42QTB3emxTb0pDYTl3TE1ZMVU0bWJ4MEplb0Q4M1pQejBKUTAxdkJwY0lCazlWbGlpZ1QyM25wNkd0N1Jxc1EydGMtaTBDY2w3amN6SHdMSW8zekVtbDZIdi13dFlWYXkweGlneWFnVWs5X3d6cnFGd3JGcTdVUWw0Uk03TEdqTVpiaWs?oc=5",
+      "source": "Paralympic.org.",
+      "published_at": "2026-11-16T11:18:24+00:00"
     },
     {
-      "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RPcjNKVi1OUEJFUkU4Z1NfUWk3MTZSZWRlMVVkXzVucFZET25jNF80WFpwUzN2QzVVUkJBanM0cENqOW51VWpNWkhxVlZxVG9sYl92V0RHR1FLa1NXaEpYejl2LUN5YUM2YmloTm9GaU4tSXY5c3NYbFZrR3pnSHdOVmZHXy1fNmlrRl9uUXNhdUYwYmpncFdRSzZMM193WFFGem9jS1M0TlF2TzFN0gG0AUFVX3lxTE1nb0lQdFlLa0plY0FMYmcwTVQwc3pIbkxyYW9PQkQ4OXNMQ3FsWXdybktqNWZ4YW5Pb0JWT0tUdWs5dnNPZVBHYXRnaEs3Yi1SR3BlWTlUT2ZhOG5YQXpuZS1tNUk0T29oNWltU2wwRUJYRmtDVnpQMVl4N2hxRGgxOUVjNzFsVXVabnBWVnMtb1o2QzY0Skd1d0VDeFhib3Bua3RFSlFUR3N5WWg2aHJDbUVFdA?oc=5",
-      "source": "Fox News",
-      "published_at": "2026-11-16T00:17:38+00:00"
+      "title": "MIPA Receives EcoVadis Silver Medal for Sustainability - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3ZnbTZhbHJVbkxudUd5V0FqVkp0QVlnZG9nOENqeFhXSE9sZUdsenRadkdzaFU1al9EY2sxQS1HU0VwTTBwVkNKMnhPQ285ZFZlV0dnZTBpQVJ1aUkwS0NsNnZPQnljaXUwTXFmWWRiUXpPbFdYcmhCSTdYNm04NGY3d2pTY1JpLXhtOWJ0REtzTDRkWlFtREIwWmdzbkhQ?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-16T17:04:23+00:00"
     },
     {
-      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 15, 2026 - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFRUMzdpUml0eTRvUzFjWnJzYmJYVTlGN3cxamVtemhseXJEYUZJWXY2a1Bta1RxTWFEZTEwM19YRTJPZFlURTZUTFBnZFYyMk94SHZGdUEwS1lvUTZFaW8xNlpJWERBVzNSanUxSjE5X3Y2MzZCeW83OGU1YWFZenBhR2RVaUR2U0pwOHBJT1lPUG5oR19OSF9IOU5BVHNkWlc5RVZLc0FtRGN2MHUzZDllTDR4TFNENVRpTEJ4SE9JVEtCZUtTSFp6bGFkelU3bWRlNTdFQllERlhEVnRCaTBUdGxiZXktOERFNE5oTHBuU1hXeF9lX3dvWEw?oc=5",
+      "title": "‘Rocky’ gathering KOs world record in Philadelphia - KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tCOXMwQVUzc3NqLW9SaFFMX2x5VE81ZVRjdEJleUZFa1Vqcm9YOEhwN0JBaXF0MW1kd21EQ0tpcXpXSWIwRnJyRHJqQjVYTUNVYUhiUjJYM3ZNYXZfWFdtcDRwQ0RmeTZxOFNSeHNoZ1piUmpRQ20xc093OUxWTG5XNnh3aEVqeHBrQnJDRTNVSmFKMHVHWF9fVTVTdzltRXJ2bVBLYzk1SDBDMWfSAcIBQVVfeXFMTkVLMk9LS1BnSnhVRzRrekRfX3JZTUUtMnpiTmxkZHM4a0UwRTdXSEJBS1ZZWnhQSEpjd1Vtbzdac2t0ZENxM0NCS211OTZuZE5JbnZTNEZqYURtSk11ODVZVXkwWXVESWVOalg0ejdicmJmNEFBQXRKXzVCRmdWeE5vWmVmazI1d01KMFhnQUxTR3BBa0FINnhaS21HNlNUMER0ZDExRHgxQUhoeUR6UjMySUlIVWtCZXRPVlZCWVBUMlE?oc=5",
+      "source": "KIRO 7 News Seattle",
+      "published_at": "2026-11-16T18:00:04+00:00"
+    },
+    {
+      "title": "China says Xi, Trump, Putin to discuss 'world peace' - France 24",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnB5VlJnTXJJbXhieWF3UklHRjVRS1RzZXZBOWwycE1PdW16ZWZkUjUyM2d5UzNrZUgtZ1M3MVduaFJDQTZnTXhtbFprTGh5VUJucTRnQ1I0MTJnSWRDWnZyeFhoQXNhM01oRjd4RkFYLTB4MFJMang5RzBINGtCeFZnMGNqSm5MUjM0S2lRUmJ2eU9sZFZXdFpYOA?oc=5",
+      "source": "France 24",
+      "published_at": "2026-11-16T09:33:21+00:00"
+    },
+    {
+      "title": "Nationwide ground stop 'not OK': Flight attendant rep - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUk5FOU9kWUFxVVNKdThweDNHV1hjRktGUkd3VTZtWjdRSl9CTElDSmZlSXFIa29mNHd4U0Uya3JtVXlSYm5wQnRKV3dBMERIWjBqNXFkcTJLbFhDNUFrLU5JaGxQZXJxekg0MG1wOUQzamgyR242S2NyR2lWdnRwLVdwQnFDVEVucElpUEk2YzFsZmJoZlUxUzIyM24wTDU3LTR1bElJSDJRUW81enBJaWkzS3paNkZueDNQaFhVR3JZVXpLOGlXemFLSnQ5TmdaMzlNZXJUblRBSTQ3N1lkcGJ3M0pPUQ?oc=5",
       "source": "Central Oregon Daily",
-      "published_at": "2026-11-16T03:00:32+00:00"
-    },
-    {
-      "title": "UNT College of Music recognized among the world’s top 20 music schools by Hollywood Reporter - Denton Record-Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNMUVLTW0tUVBJem1Bclc4SHZ3N2VBaU5RdmNHRnIwZ25QdHVHMHBDVEU4VWFFYldfTXI3cTR3el8tTzBOaDhyczFEUzk2QmlCSDA4VDVCUG4xSFB3clljNGFIVEdTWTVhUjBYNnRQU0w3aTVoakJLY3FGRUVqS01oNUh4NzBaaFgtLXlnd0NRNkw5U2ZrQ01aNThiNG4tZ3Zuem1nd21STXZHVEVJcUNKemd3aDZrWnFYR2lyNWtXWGhKVFVMTnhlTC0yOHF5SkdUTlpjaEdOejJSakhQTDZ1WUpIbHdjVFQ2ODM1VnpsMmxUVXlTWVRCMDlBQnVpVTZBdWlBeksxRFgyVkNfT0pKSUI4TC1tQXpqZDhoS3ByWGJiWC0ybDFidm9JSEE1LWdj?oc=5",
-      "source": "Denton Record-Chronicle",
-      "published_at": "2026-11-16T03:02:08+00:00"
-    },
-    {
-      "title": "Middle East latest: USS Theodore Roosevelt aircraft carrier arrives in region - The National",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUhsb2pnODdZNmUya1pnTkFma1Rsb0ozYnVkNGRzd0M0Q0VHT2xuVHhkaFc1NlREdnBiT2d0aW1oTjNRXzVOWkxnRmdzX1pvcmx4dWRIQmJySzFSOG52ZHZ3S0FpWTZOcFllRFRaaTg0ZEFsam8zdHlkME9rdFZGbWdxaVZtMDB6THQ2aGdCaEdLZjRMeTZfNURNZEUyWGoycVBkTg?oc=5",
-      "source": "The National",
-      "published_at": "2026-11-16T07:37:49+00:00"
-    },
-    {
-      "title": "Beyond the ceiling: why world records are built to break - royalpurplenews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2hfbnhkVlVFM3VjYktpVUNkZ0FpUDU3OGNIQ1I3N2VaMFptbjZwYnM2X3hCNDJfUXZiQ3VXMlJ0dVNtX2xzS1dCaFRhNU4yQ21RYWVlX0dxTDBxdTB0N19SbllBdVdva2FtaHJZZ0txTlVLSzNvdEptaU5EQ3Fxd25oRFV6R2FGZGtOUnBPbmJSVjZxbFNtZ2tsLWlFZ0d3?oc=5",
-      "source": "royalpurplenews.com",
-      "published_at": "2026-11-16T06:07:32+00:00"
+      "published_at": "2026-11-16T18:04:55+00:00"
     },
     {
       "title": "Golf Leaderboards: PGA Tour, LPGA Tour, LIV Golf, DP World Tour, Ladies European Tour, major championships and more - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hWUw0UWhSdU1fMlF5SmdIUVdDNkNiS3duUlVoS21KMzhsVjVtczAxenNrWmxRZXFEVmVJLWlJRWNrTEx2bkZjcTVkNGFPZFAwaDNUQw?oc=5",
       "source": "Sky Sports",
-      "published_at": "2026-11-16T07:34:27+00:00"
+      "published_at": "2026-11-16T16:20:25+00:00"
     },
     {
-      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZGg4VnlWUVpIeXZqdVlBSnRlcHVKbkV0bHhhdlAyYXRXM2pGZ0tTazdBSDVTdjg2bDJVWHFUTW1sNGplSGc0am1CUWNacFlVRDhSaEdSZUY5Tnk3U3JqUG5zV0hEVDI5VTRscXZ1dmV3aGF3azhV0gF8QVVfeXFMTTNNam1SSml6UmxyVDB6T2IyQU93Y2lQbjlRb3ZMQVlqSXllSnQxNzR1QmNSTEo2aTZjUjRKS1lLMTltRTAzZHlOLWpRWGUwS0NxakR2STYzbXh3UTItbDU0X042Y2NMeUFuSlU4bm1PS1VLdHJfZ0dtYXI0Yg?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-16T01:50:00+00:00"
+      "title": "SUNY Potsdam ranked among top public universities by U.S. News & World Report - North Country Now",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbV9xazBhYkVYYWtvZnNEY3FuZnNPenBsVHNvNkhUVnhyYklRQUUwekt0UWEtNXF6Q0hmUXhDT2FrbVNrZm05SS1pY2xIaFpIZXNiQVRjUzNadlVZbjJ4LTBBMXhmdTc0V1otTktXRWlncDUtUjJtd0RHRFl2T1JUSW9GTzFJc3NvOVNFT3hjQzl3ZFQ0aE5oZEZUcDB1RGRHaDJuNGlrWnhaZS1oblB2NUs5TENBZw?oc=5",
+      "source": "North Country Now",
+      "published_at": "2026-11-16T18:01:15+00:00"
+    },
+    {
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-16T16:12:17+00:00"
     },
     {
       "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
       "source": "Forbes",
-      "published_at": "2026-11-15T20:05:28+00:00"
+      "published_at": "2026-11-16T07:30:44+00:00"
     },
     {
-      "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai - PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFmTDNqNVItVnNIekREbl9TVWc1c01jUTR2V0Rwb3IwTTdmekc2c3E5dUtqTUJXcnZQdmYzd3hoRzNpbDBlTldIM1p4OU9mUzBUTjlOSHhuTHlYdDVqQnBSb3VUZ3kwbDRUdl9UTVVMY3BRT1RjMTdRQmFZM0VGWlplQkZySlJFZzdETk51V1oxcEIyVWVLMHppdVdCUGNDSTFna2NSWDNyR1Z4aEUzdGNYbHVfQkpxSFFPemZwRnlrWWhQRUVBMDZZRXpyU2RKZVpQZ3ZnTTEyeW4zdUNpQ3J6Sy1md1FuSmpPYm5HSXo?oc=5",
-      "source": "PGA Tour",
-      "published_at": "2026-11-15T15:51:55+00:00"
-    },
-    {
-      "title": "China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1g3bm1kSjV3NjRoZzRTRFRZSWhCanFKb2xvVDVBUUE3RWJaWjF6QmpWbTFhYkRpSE9OQVF4RXhqb3FaS2twaGhYbG5ad3ViTVlkRnk4bzR2Wldkbkx1VEZDRUNYNmtPazVkaHV1c2R6OEI4dk9FLUo0eS1ucmZwTXhIdVNhOWwxMWFVQ1VRLXRTbTQwRWM5RDFfZlZQYnBuZXo0WVdLS2xNWTIzbi1DUjJqai3SAboBQVVfeXFMT2hfdVZEWGI4eFVIZk9rWHNfcjZsdFhZcHh4TnhRdEFSQXJ3WmhUeHktbnd2aGxuUzY1XzI4a2hFYXJ1RjBZUzZZM3NBNlo0SjR4YUgwUl8xNEt0SmVVUnkzSWxDZGVvQXU0OVBJODQ1UU5vaFoxaE10SFhBdVFMeTdBSXdvVEdzZ2psTllhOE5Xd2Y1Wkdaa2ZWeTRzOV9BVXFZa3FGWDM0aGR0MHlaSE9wM2Q5UXlWWDd3?oc=5",
-      "source": "Al Arabiya English",
-      "published_at": "2026-11-16T07:34:00+00:00"
-    },
-    {
-      "title": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane - UEFA.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGp2VkhWc1pZZTBPNnA0RC1nN0l2ZXZQeDl5ZjBEcmZPbzE3OWxBRlpoMDd4bHpZbjdydUN1VDNuUkdTMGE1VGpVVzVrc3puT0ltd2xfVllxTmx5TWNQbWNhRGw3dndMYWZiOFFCejN5VzZ6dDRpMTg4Q1B4cUNyclFqdTItbG44dHRsX1FLUHVHRm9uTXg1YWI0Z0ctRC1BaGF4VGlrRDF2bE15SWFpWXZobGF1dTlILVRUMkhSNG5SeV9nWTZLaHRoLV8xbExmVHI5MFJB?oc=5",
-      "source": "UEFA.com",
-      "published_at": "2026-11-16T03:20:28+00:00"
-    },
-    {
-      "title": "Video. Latest news bulletin | November 15th, 2026 – Evening - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTJqS3hacTYzMUoyZTJfY1Z3QTJZRmRySm1zVHRJLVpVZEVMTnUtcm94V0U5bGpuN2NQekVER0RCRndtSWpUU2FMeHRsc1k5RDV5STJ0UFdlekxXYVJ1NEV1SGV4SGx2aVdGVjZQOWlmbk5zMUUzN0FUeUo4Sy1yci1zTXBXUGJXdllyemlHc1VpaW8?oc=5",
-      "source": "Euronews.com",
-      "published_at": "2026-11-15T17:00:27+00:00"
-    },
-    {
-      "title": "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3ZMaW96WjZfMTZJTUZnX2QxR19QdG95Zmtua3ZINW5OenVCRDM2cWYzQVgtN0cxMExFVFRzYlRwTzdJcWUzMXlNbXZITjAxWlpjMTdSaHBNanZ3X1hOeThHQnZCOEFERzlPdlZtTmVSNXR1Mnpvd1ZSejBKYXh1eHJJY1dROVVsQlhlakNvcm83Q2R3UmkwZXhR0gGfAUFVX3lxTE00LVNkMEhRVzg5b1ZkNU9yMUZWZDRqeDJkOXlCZS1ualJadWV3WmdnZFJtUGxoX1o1OThKR0Nsa3FWRV9GcWM4czV5ZUY1RnNXaktMbFJUdVA2V3ljazZPM1ZKNXVUWkJybkppMDlLdUNYd1JOYk15MWc0dTFOY3ZmaXh3dVZ1V0R0NmpNUU9VQXhhUzBvVTRJQzF3QUxFbw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-16T01:18:07+00:00"
-    },
-    {
-      "title": "UNT College of Music recognized among the world’s top 20 music schools by Hollywood Reporter - KTEN",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMnVyOEZsb1BPNHBlcm40bWZIQVpEWHZ6WEZsUTI0U0w2X1hMY3NpVzNEOF9YandvU05sajVTTW84UUt3ZzE2ZlJjeWF2dzlRZWg3bXBsUFJ0NzZjbjEzaU1rUVpXSXZLV016WDJONEprcFEtdFA0aE96RlJVeDI3LWdQb3ZpWmtRRVktYm1kaXg0SFY4MlNCdDB3NUhhMG9hN3pVdVB5UjV4YTB1QVJFMEY3d2pyT0lyNlFKTzVUQl92aEt0SWxLanFvcEV1VnFPMHgyM21SM29peHdXNFBwMFpsdnl3cHluNmppWExWV2dpSDF6VFZvag?oc=5",
-      "source": "KTEN",
-      "published_at": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "title": "PODCAST: Aviation routers, SpaceX, COP31 and young male voters - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONDVUOVFiV056QUJfZWlDWjFEUUM4WGl2a3U1Y2JNYkcxUGdxdGdwX1VabUxUMEFhLXlXbllfRGd1SE9GTl9td3pZOTVoclpDR2RBMXVpNGxPOHNjYmc5ekhYdm4xZnZ6RmFKT1RrdDdYd3lJWXJvLWV6S25BX0lpcWo3ZC1qMEFMaFlaenNCY2pwck9NeHB3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-15T15:05:18+00:00"
+      "title": "Alex Matosas Named Managing Director, Bodo Möller Chemie in Morocco - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFdWWDRjZ3NkRUJKWmVXbDU3VnIxX2RUZHM4N0tVQ0FWX1lsZTQ1NUpHcVlLWF9xNVpZMXJGOHNjbnlJNzBfYlVLRmpONDNvUXBETlY2dWRVS21JUk93aTVNX2RNS3g0TU90bDF3aGRybnhrelNtNUZvd1VIQUhuazJyR1hWNkswTVptTzZZcXJxWnJJTUw5c0lOV3ROREFZSmV1VmE0WWE0N2lvajJGRg?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-16T14:53:19+00:00"
     },
     {
       "title": "Monday’s Everton News: International Blues latest, January transfer plans - Yahoo Sports",
@@ -111,70 +87,58 @@
       "published_at": "2026-11-16T07:00:00+00:00"
     },
     {
-      "title": "Planes Collide At Miami International Airport While Taxiing—One Day After Nationwide Ground Stop - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1E1ellsT3Z3cVB0R2hsS0tzTUlKSHRDcWZqTVJlamljLWNOTGVlLU42azZ6blE2V05jbDJPUGdvYmRraU5lTl92ZjdiV2xhN2NDbDdMdWRMeHh0WTI0ZEJwR2xyeFlDRF9POFpYalFWbS0yTDQtWWY3dEt2VEpSbEx2dUs0ckhwSWx4cFlKM25EUkc1VnRWUHNFUFdLU01KVEx3dTZrMllPbEJwM0pxUjBFZFprcFAzdkR3YnlveTZzZWFYdVZvMThpZkd4emFWWk1Na0lOaFZ1d1p5V1Q5WFhCTQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-15T15:07:42+00:00"
+      "title": "SONGWON Reports Continued Growth and Improved Profitability in Q3/2026 - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZVVDFmM01qNXVPdTdOOE1lOTYzdzlIQ29uNW9jaV9jSmMwYWJlY191TUk3MnUySlpwRElhWXh1R3BMaVdWZzBLVzhTWllyVF9iTVhzdkNQYXpyRzdveVp0QVkyV3JOVU9FUGR5NnBDd0Q1V1NfVW03bF92NEUza3NOWWFHcXVocEowZWN4cnFyT0N5UE91c201U3lhMVRqZW5YSTRQMDFEZzhmVWhRLXhQNXhkUQ?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-16T15:19:35+00:00"
     },
     {
-      "title": "England XI vs Spain: Starting lineup, confirmed team news, injury latest for Nations League today - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkFhX0VBclBkc0o0cDU1blpjUmxyTEM2NEdxbC12RFNxYmVJY1hnLTVmX19id0RWc1hLLW92a2VCdFJZXzBQc09uaVVEdm9zNTUyenNSd2FFUW1FMElIendrSnAyR0x4ZTJ5ZzlZTnBDOTMzamZKSkZoenVmSGZNM0xhcVY?oc=5",
+      "title": "World Series Champion Milwaukee Brewers Acquire Former Dominant Closer in Trade (Breaking News) - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmdFLV84c25DZGNDSW9mLWlibzVEbmJrbTlaWXNUTk1CekxVZnBadXJfNV9yc2o4bGdEdmNBbkhybnZJc2RYc1FqVGhlTHo0UzNxUUhXc0tLaXNHcy1QbGNkM0lhWnJWMkJ2cUx3NmN5bUZKSVplTE5aeThtYnFRR3FscFRMWDlRMno3UUtFMmExQQ?oc=5",
       "source": "Yahoo Sports",
-      "published_at": "2026-11-15T18:36:58+00:00"
+      "published_at": "2026-11-15T23:46:57+00:00"
     },
     {
-      "title": "Magic World Championship 32 Top 8 Players and Decks - Magic.gg",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnUVRNVGUtU3d0a0E3RlZtRnFNWktYSjVRWDI2NktRY2dvS0NaR3VGY2V0SUNPcWUxZXRvcUpPS084WWVjdGxpZkRJQnhvdE93WWpXM2ZjcVl4LUdGV0M1TFZWcmtjejBhSmhQVWFtMGZTM1NUcXNCMUhoLVZJQQ?oc=5",
-      "source": "Magic.gg",
-      "published_at": "2026-11-15T11:41:26+00:00"
+      "title": "BCF Announces the Winners of Its 2026 Awards - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFRNcG9FQklJYkVvZDlEOGtSWjY5VVJqMXY0Q0hUVUZSSEN3elNhaGZxbzVlVFhucDdyOUM5WjBJQ1N6bFd1NEtzZVlVZUxxVTh5YUwyWk5KaU1hU3Y1WjRzcGZaQi1CZlQ2MW5rbEgtWDl6N25rN2x4c180a05zT2x4MjZCWFRVREMyVVBfU001ZDEtcHJfdk1ZVHZYTEE?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-16T15:21:54+00:00"
+    },
+    {
+      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 15, 2026 - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFRUMzdpUml0eTRvUzFjWnJzYmJYVTlGN3cxamVtemhseXJEYUZJWXY2a1Bta1RxTWFEZTEwM19YRTJPZFlURTZUTFBnZFYyMk94SHZGdUEwS1lvUTZFaW8xNlpJWERBVzNSanUxSjE5X3Y2MzZCeW83OGU1YWFZenBhR2RVaUR2U0pwOHBJT1lPUG5oR19OSF9IOU5BVHNkWlc5RVZLc0FtRGN2MHUzZDllTDR4TFNENVRpTEJ4SE9JVEtCZUtTSFp6bGFkelU3bWRlNTdFQllERlhEVnRCaTBUdGxiZXktOERFNE5oTHBuU1hXeF9lX3dvWEw?oc=5",
+      "source": "Central Oregon Daily",
+      "published_at": "2026-11-16T03:16:52+00:00"
     },
     {
       "title": "DP World Tour 2026 schedule: Latest results, events and winners for golf majors, Rolex Series events and more - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnZ4TXNkQ2xDWmp4NkhublZWV09kaXN3cEs2cTdkRGVhb0tJMjE4WVlpanhicW9WM2xJa19peFZnNExtN1BUYlVMRjJZaGRsUHB0ZkJQeVh5TUdVeUY0c2Q3SlRTQ3JBVVpyNTQ4MFJONnJ5WVRLclJtTFIwdXFmT0JubzVJX3lZc2d1SGlqSm9mbHdZNVpkaWthek44b1BSUUphbjRSSGYxTFNPT2dKbklqbmljN083OU9TcmVVUmNaVWlRdmNpVGdMOXdnV1l5TXVtZnBZcGNKTldqdGc?oc=5",
       "source": "Sky Sports",
-      "published_at": "2026-11-16T00:22:39+00:00"
+      "published_at": "2026-11-16T11:22:24+00:00"
     },
     {
-      "title": "2 injured after taxiing planes collide at Miami International Airport - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWpVZGZSSE1kQjNTTDI2VFc3cUNDRmJGdEFTQ0ZlZUpaN1c2SzlNWFotVXBiS3lHNUZNTnFveG81ZDZ0UU1sTGh4MUE2cjNQeGFwRnhWbWd1bi1tMlFhYW1iZVpvc0tIU0otclFfdGdnRWluZDhEc2lYN0RNTU9zUVlQbnJvYjh0dzZYTmZRRE00bjl0SHI4bTJtXzA?oc=5",
-      "source": "NBC News",
-      "published_at": "2026-11-15T16:04:02+00:00"
-    },
-    {
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-15T13:20:58+00:00"
-    },
-    {
-      "title": "PREVIEW: England face World Champions Spain in Madrid - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
+      "title": "England's Nations League Quarter-Final Draw: Date, Time and Potential Opponents - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHd3ZFp1eXJody1aYUU3M0NObWNnYnlQSVp3VjdsUGJlM0RSYnJGalNTdUFTTEZfUXdUMU00aWR3S29NbUNRTWd1U0p4NGs5QUw5T2xJNGJHWUUtYVhUU3NDbzJMSUw0dk1WcnNkWEllRS1SUU9Cc1gxYWFIbEVDRTdKYUI0ZXY5RS1lSzQxTQ?oc=5",
       "source": "Yahoo Sports",
-      "published_at": "2026-11-15T11:07:00+00:00"
+      "published_at": "2026-11-16T07:06:00+00:00"
     },
     {
-      "title": "5 things to know about death row in Oklahoma after execution last week - Tulsa World",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnFyS3RwSGtrNjhGMVc5a20tUGVEekl1eU85RjZ6WnhZZjVqSkJJTzdKY1dxajlKQzBRRWN6YS1aY0hsQWJGdHRhaWJnR0RxUy1sNXVJZFAtTDdkS2ZuTXNTSEJub1UzV2NFc2hpcmE5bVZPQVZYS3VpTUFSRGZRQUszVENPVXZkMjRaa19fMk5WbGNUbnBROVMzUlg2LTRwZFVvMHBGWDk?oc=5",
-      "source": "Tulsa World",
-      "published_at": "2026-11-16T06:00:00+00:00"
+      "title": "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3ZMaW96WjZfMTZJTUZnX2QxR19QdG95Zmtua3ZINW5OenVCRDM2cWYzQVgtN0cxMExFVFRzYlRwTzdJcWUzMXlNbXZITjAxWlpjMTdSaHBNanZ3X1hOeThHQnZCOEFERzlPdlZtTmVSNXR1Mnpvd1ZSejBKYXh1eHJJY1dROVVsQlhlakNvcm83Q2R3UmkwZXhR0gGfAUFVX3lxTE00LVNkMEhRVzg5b1ZkNU9yMUZWZDRqeDJkOXlCZS1ualJadWV3WmdnZFJtUGxoX1o1OThKR0Nsa3FWRV9GcWM4czV5ZUY1RnNXaktMbFJUdVA2V3ljazZPM1ZKNXVUWkJybkppMDlLdUNYd1JOYk15MWc0dTFOY3ZmaXh3dVZ1V0R0NmpNUU9VQXhhUzBvVTRJQzF3QUxFbw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-16T01:18:07+00:00"
     },
     {
-      "title": "Man Utd: Bruno Fernandes puts contract talks on hold until he finds out if Mauricio Pochettino is 'the real deal' - Paper Talk | Football News - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNkN5T1hUWFNodVlXMTNTNXlRTjlEcTU3VU1YdC1Va2pxdjFwdTZRNHdtV2RvaEhfY0Yyd3daLTQ4NzVMZTFOaFdFV2NrNmtpMkVBd0tqcFpESllJY1kwWF9ubHo?oc=5",
-      "source": "Sky Sports",
-      "published_at": "2026-11-15T12:43:17+00:00"
+      "title": "Iran war live: Third US aircraft carrier arrives in Middle East - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Arabian Business",
+      "published_at": "2026-11-16T04:59:46+00:00"
     },
     {
       "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5",
       "source": "Sky Sports",
       "published_at": "2026-11-15T19:29:56+00:00"
-    },
-    {
-      "title": "World Series Champion Milwaukee Brewers Acquire Former Dominant Closer In Trade (Breaking News) - Wisconsin Sports Heroics",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85X0lVbHZyV0o1aWFKWDQ5SG1BVy1ONS04Sm1JUTVCWTMwc0xrY2llbjRMRXFtQ294M09XRVhuWVZ1eVNjY0Fva0RSNzdyTG1zaFMzVWZDOGI4aTlmOG11QnZ4NkxGcGctUHV5U094bTZKXy1j?oc=5",
-      "source": "Wisconsin Sports Heroics",
-      "published_at": "2026-11-15T23:46:57+00:00"
     }
   ]
 }
