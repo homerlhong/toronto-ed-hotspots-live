@@ -1,175 +1,147 @@
 {
-  "updated_at": "2026-11-18T02:23:21.219461+00:00",
+  "updated_at": "2026-11-18T10:41:00.978335+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
     "space_weather": "UNAVAILABLE: 1",
     "tornado": "OK",
-    "weather": "UNAVAILABLE: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "news_politics": "OK",
-    "news_technology": "OK",
-    "news_finance": "OK",
+    "weather": "OK",
+    "news_politics": "UNAVAILABLE: HTTP Error 429: Too Many Requests",
+    "news_technology": "UNAVAILABLE: HTTP Error 429: Too Many Requests",
+    "news_finance": "UNAVAILABLE: HTTP Error 429: Too Many Requests",
     "news_stormnews": "OK",
     "news_space": "OK",
     "youtube_videos": "UNAVAILABLE: YOUTUBE_API_KEY not configured; video discovery disabled"
   },
   "news": {
-    "politics": [
-      {
-        "title": "社評／美中俄深圳峰會大國政治新局- 國際 - 旺得富理財網",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvUFB1ZWh3N3M4bjB3dEJqcmpFYmIzMXlsejhQaHJkWWkxVGtwTjEzTFJ0WEZ0Ml9yMGc1LVFWdXBsS21OSXRiUTJlQXdObkVxTVExMnk1eUR6bnQ4YkkwZlpTX3dMWFRhcVE?oc=5",
-        "source": "旺得富理財網",
-        "published_at": "2026-11-17T20:28:38+00:00"
-      },
-      {
-        "title": "11/18國際早報｜巴紐總理向習近平邀功關台灣代表處「並不容易」、輝達營收翻倍董事會仍無意讓黃仁勳回任、美墨同失麻疹消除地位| 國際中心| 新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DVE1Wbkg1MzctcGhGUHM4Q1B6TE9GQU1GNjZjaU9SR3R3VGFEaGNtX3JJbExjLUZibG9TSV9HQzVKaFB3ZzUxbEsxRXhYUQ?oc=5",
-        "source": "風傳媒",
-        "published_at": "2026-11-17T23:42:00+00:00"
-      },
-      {
-        "title": "《國際政治》俄表態挺陸 對日示威意味濃 - 富聯網",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTRFZ2ZGUEc0SGd2c3lJcXNHNlM4cV8wd3U1V1lHajFlYmoyWGZXaFA4emc0bGU5WWhCU1l3Q0V2T0F6eXJDZVRpa1FRMHRqVklWdkkzMlZLU1d1andrZEJRR0RnS0RiMTlUMVRESjZkRG5XWmlwQTZXWWNhLTRWX1BZbnFuZjZf?oc=5",
-        "source": "富聯網",
-        "published_at": "2026-11-18T00:03:00+00:00"
-      },
-      {
-        "title": "孟春：美俄中首次會晤 可能討論五大議題 - 大紀元",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DUm5RSjN5MGhHOFFPT2hJYlE2ZVRDcWtaNlZVQjJfOWtkUWZ2dUVrT1RqNHRIYzQwRWx2N2NVYjQ4NTlqemFrWmUzbGtFVVROT0NEYUF5YURjcVpocDVYVkJR0gFnQVVfeXFMTlJCQ19WT25xR0lVOE5lc0pXMV9aSkVwMF9rY0NzYldrcExYTVFqX09neXpjMTBwSXN4NGp0UkxISzhtWXpIZ3ZQbnJUaDVwUzZXenVyLVNuOWx1QWkyZEdoRW5rTXZzUQ?oc=5",
-        "source": "大紀元",
-        "published_at": "2026-11-17T19:45:00+00:00"
-      },
-      {
-        "title": "何欣純政見會表態巨蛋、超巨蛋「一定延續」！拚國際級演唱會、棒球賽事進駐台中打造專業營運模式、發展城市特色經濟 - 放言Fount Media",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VNVBOZjBtUk1MQWt3bjY3cllPYjg5ZU1vTURkTVlIVWdnYzEtSDZNaEd5NmNrZVJOZUxtYTAzX0xBS0pWYUliU2xFQld1d3VxQXc?oc=5",
-        "source": "放言Fount Media",
-        "published_at": "2026-11-17T15:05:13+00:00"
-      },
-      {
-        "title": "川普赴菲參加四方安全對話 聚焦印太安全 - 公視新聞",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VDFJUU5JY1NQUlJMb0IxU0I0dmpoQW9xRWk4YnhxeU51VUhHWnNpY210N3NUWjViNFhMNkM2enNKakI5SWJPVVlZY0V2U00?oc=5",
-        "source": "公視新聞",
-        "published_at": "2026-11-17T12:14:47+00:00"
-      },
-      {
-        "title": "關注：陸拚APEC成焦點 台邊緣化更嚴重 - 中國評論新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MZm9NSjJSYW1RVXlnRTJuS2h6SFZYUGFrUk40OUtIZXA5eWpQT1M3SzJLUVJHcmRjTmw3S1RndUR5TTh1Uld1ZWpSaFM0TUg3T3NTYW53ZWNQcFBDMWFYUHQ2NHhYWkhQRE1HOENn?oc=5",
-        "source": "中國評論新聞",
-        "published_at": "2026-11-17T16:48:33+00:00"
-      },
-      {
-        "title": "特朗普首次參加Quad峰會：我們都是朋友，這樣容易得多 - RFI",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNZGRoNlNZX2p5eENJZHp4RGNmLUZwNllkdUZaaXZFa1pXY28tMzBzdW9SSDZJbnZtaTV2ZGhibF84d0NINEg2c2g1Z0ZUb3g1Y1RGaUFYb1ZlRHMwdUFoS3dlQW45TU9WdGVoMVpPTkZNSXBlR1c0RkVFcEk3R1Z0LW9NX1d2ODJKd09FVm1RcHBESGtpM0pZRjlWR1NHQkZSUlJxNnNtOGs3N1U3UzBTOS0zdVRGem5VcnJlaEg0TFQxWE4yX1d5c00wZ3R6WkdSSDB4UVlySm56dlQxYUE1bWU4UDhjOUhJX1BIN3BhdWVCVGRDRHlNdWVLSGU3X1pfRW4yeHBVRjJhdTg2TXM4cVQxVTN0OEJvblVpS3duaThEcFN4Y2luR1RZWmpNOEtVanVuaENyVUItbDV5TlRqTWpyNzZrTHJUeFR3LW1qQUNoZUh5VU1pQ25FU0xadjM3a2syaVJuaDBBM21jNXBSN0hQdEQxTnNvQm1IeUxEYzNrMGtnX0s0bnp2RGd6ZE5HcHV4cXFyd2lsVEpQZWhyUUhHcUZ1SnU4Q0E?oc=5",
-        "source": "RFI",
-        "published_at": "2026-11-17T17:00:59+00:00"
-      }
-    ],
-    "technology": [
-      {
-        "title": "偉康科技三大產品齊獲第35屆台灣精品獎 創歷年單屆獲獎數新高！ - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwRHBjRC1VTXlQUnhQeU5XQUlMdUF4bWpCS0hRVEl5dTctTU5PSksxNmRSbkxWR0RyeWhDRDNWQ1RvUWJTYk1xQkVsTQ?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-18T01:39:21+00:00"
-      },
-      {
-        "title": "內部組織瓶頸恐成台灣企業最大安全威脅 - 電子工程專輯",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGVST3ZsT0hIYmFRcnpaUzFndnVnNnoyREFwSXpLdXFSa0d6U3N3LUJLcmVKR3JRSmJRN3ppWm1kQmlnMkFNa0RaM1lOQlBxdi1Ucl9HSDlfcDF2anpyRGRuaEtyVzJpMDN1OWQzUzlOZVZXOGhRdGE1amx0N2QtRUpEb0tvNkZQR00zeFUtZUhNWTItMW1HN0U5OA?oc=5",
-        "source": "電子工程專輯",
-        "published_at": "2026-11-18T01:03:36+00:00"
-      },
-      {
-        "title": "Vibe Coding 引爆企業「影子 IT」危機，失控原型恐成外洩破口 - TechNews 科技新報",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWRkM0NwQWNXNGNibkJVR1RaTXp2OHVQeV9OT1pVeEtacF9CNXJWQlkzVVFJNHBCdHNOZDRzMGswcGlkX0c1NGp4V01yNWRQaVVibHV5YmFac19sU3MtekwycjAyX3dtR1llNTlXMVJkVnJ0b3hsbE9oZHZNZXFvM0dKVzl5N0xZUy1TY2g1UWNIcm1IVXc?oc=5",
-        "source": "TechNews 科技新報",
-        "published_at": "2026-11-18T00:11:29+00:00"
-      },
-      {
-        "title": "Gemini技能叫了卻不照流程跑？從安裝到呼叫教學，讓AI照你的工作流執行 - 數位時代",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XaS14RVJqaEZqWDQ5TXpxUGhwQkwtWWpadDRldUJQUkxKNzRvSEo3eGh5LUM0dFVBbk9idGo3S1FnQngzQm9LM3R4Ync2bnJEMjI5a3RaSXNra3ZxcWxXRW5JOUFCak9zVEpVbnhSSzFiQQ?oc=5",
-        "source": "數位時代",
-        "published_at": "2026-11-18T01:00:00+00:00"
-      },
-      {
-        "title": "Google揭駭客利用多代理AI框架發動攻擊，另有工具可自動發掘及利用漏洞 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EcGxwMWRtUDVTQlhSSHoxVTNGUk9EeUkwNHNjQV90M19kNUFpUUg2dE94YzJrSkE3YVVsMndmTWFzTks5X3JMd25SOTIxZw?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-18T01:00:50+00:00"
-      },
-      {
-        "title": "FBI警告AI駭客工具Artex攻擊升級！不到3小時就能入侵企業網路 - ETtoday AI科技",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qSFFBYWliVDU3b0ZUQkZqd1VmQWJTeEh3bFB1b0QzLUtJWkxyYVdQbG5SUWdGbzVVMHo1anA3RXVnN0hBSVM3Y2ZjNNIBSkFVX3lxTFBNLXgyT3dqSWwzc0FNUi0zSWNHRkdUVjh3bjFXYThVQXdrOGFhcDVhcHoyOGgtWF9yY1Q1Sy01VzNYVmdfTTlwLWZ3?oc=5",
-        "source": "ETtoday AI科技",
-        "published_at": "2026-11-17T06:30:00+00:00"
-      },
-      {
-        "title": "Master Concept 攜手 Supermetrics，串聯行銷資料與企業 AI，加速洞察落地 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CNzN0ZFRjRHFNWS1iVFZIX0RZbWI1cmx4Zkx4LWlHQndQRS1IODRPX2RSSUI0b1hzY2pWMFpUdnZmYnFSbHpvczJBWQ?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-18T01:32:06+00:00"
-      },
-      {
-        "title": "AI算力狂飆，台灣電網接得住嗎？工研院示警：資料中心用電量劇烈變動，恐衝擊供電穩定 - 數位時代",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXdmNDd4YklYMERBYkt5bDR0VEt3dmI0bGVFMW12OVctaEZTejc4WnVzX3QwS2NoaEJWVFFSaEtCSDFzYTNxQTJ5b09XWnVMekR2WEgxRG1jUDRYQnpfTlFzWjFPZ3IwRHk2Y3pKdWtYV0tMVnJORnZUWk5adFlwQS1R?oc=5",
-        "source": "數位時代",
-        "published_at": "2026-11-17T09:26:00+00:00"
-      }
-    ],
-    "finance": [
-      {
-        "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-17T22:51:14+00:00"
-      },
-      {
-        "title": "IMF：過度倚賴AI 恐影響金融穩定| 全球財經| 全球 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrVWxUS0xhSllXRkRjaUdXZU83elBFR0JwRDBxMERGa3NOUlZHTlVmT2dJNFhaSVViTUlkaFlUOU5Ra21pZWJlWHkwYUFNbi1s?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-17T17:35:45+00:00"
-      },
-      {
-        "title": "從市場助力到潛在風險：美元走強爲何讓華爾街感到不安？ - 群益期貨",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdU8zQmd1OGd3OTUwMm40aEtDVDlGaUh3VmQ5dHhSTlZZZnlmRnVKTHFMSTluQzJ5Sm92MGZoU01JcVZ3bWd0NnBlOEVOYkhxRHVqZVpaa1ZtWXZsODNNS0xyaUFtMjlVX2ZmWW10eVpGZ205M0RZM1NOMXdOT3dNTWt1N1Y3cEpvNjNIaW5vaw?oc=5",
-        "source": "群益期貨",
-        "published_at": "2026-11-17T08:01:05+00:00"
-      },
-      {
-        "title": "亞股跌不停 台股今跌幅僅次南韓 金管會：密切注意國際 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yb1YwR2gwcF80T1VBR0RHcV9fSzZLNU53cGFzOGpnd0NxS2wwY1ZsQXJHaEpzQ0F0b0NwTU9DVDBhMWd5bkZoZ3A2LUw1NFVRWVRSMjdmaWstUnd6dnF1NmJKSnrSAWRBVV95cUxNMm9WMEdoMHBfNE9VQUdER3FfX0s2SzVOd3BhczhqZ3dDcUtsMGNWbEFyR2hKc0NBdG9DcE1PQ1QwYTFneW5GaGdwNi1MNTRVUVlUUjI3ZmlrLVJ3enZxdTZiSkp6?oc=5",
-        "source": "自由財經",
-        "published_at": "2026-11-17T11:40:42+00:00"
-      },
-      {
-        "title": "2027年投資市場行情前瞻?2027年哪些資產更有機會? - EBC Financial Group",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XZERGYmpzNFF0SmwtcGdHR1ZrUmJRNmgxNXhfMjR2UWpOLTJTMFZrbEt3Zi1WS1EwODZmOEt4aTkyZFp5dDlJRE91eUdhU05qamF6Vw?oc=5",
-        "source": "EBC Financial Group",
-        "published_at": "2026-11-17T12:00:37+00:00"
-      },
-      {
-        "title": "IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定 - TechNews 科技新報",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekNJTFBVR2FPaFEydVJUOHZ3dW82aG4yYXJ1dF84TGtvZ25VMHgtUDBMUDRXbzU2RUNjODNGTkVZUWNSVUZmR0xkbkozTHNvRTZkd1ZkZzBUN1RFSG12bHlmZVNUWjBtWlJLdTBEb1YyY1ByZDZ3ZnNHcFdCSDQtUGRMWGcwNnpLenQyLUhyWjNEUlFqZGdHeUh4cEpvNW9hNDE1RDgwYndYX3pBRU9aVVdfWU5nQQ?oc=5",
-        "source": "TechNews 科技新報",
-        "published_at": "2026-11-17T05:05:59+00:00"
-      },
-      {
-        "title": "從市場助力到「破壞球」：美元走強為何讓華爾街感到不安？ - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvYlVnTEhGTDU4a05CSlBUempEY1JqVXRpbTh6ekZET2ZPdlZNMUhlR3NRNkwwXzRqUVJ6ZkZlSG5hN2JXNHppMmhPNA?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-17T13:00:12+00:00"
-      },
-      {
-        "title": "MoneyDJ新聞 2026-11-17 17:18:11 新聞中心 發佈 - MoneyDJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEdEWjE1WFdSQlZnVWl6NXhsVFNOc2N0SUhoLVFtdzhMYnhJMzZ3bFdnTjNkYTZCQnZ3SjNsaENmdDRiZ1Y5R3BpT05UZU1fTnNRaXBlTzZTY2VWVGg4NUgzUkgxX2VZSlBZOE9ZSEhjeTNMYWdhYUUwZ1B0UG40WEtmczFzYkxacHIxc1djRnZuMU0?oc=5",
-        "source": "MoneyDJ",
-        "published_at": "2026-11-17T09:58:46+00:00"
-      }
-    ],
+    "politics": [],
+    "technology": [],
+    "finance": [],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 44,
+    "count": 49,
     "points": [
+      {
+        "lat": 38.7192,
+        "lon": 137.8725,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "86 km NW of Ryōtsu-minato, Japan"
+      },
+      {
+        "lat": 60.248,
+        "lon": -153.194,
+        "mag": 2.7,
+        "kind": "quake",
+        "title": "62 km E of Port Alsworth, Alaska"
+      },
+      {
+        "lat": 63.26,
+        "lon": -153.348,
+        "mag": 2.6,
+        "kind": "quake",
+        "title": "58 km ENE of Nikolai, Alaska"
+      },
+      {
+        "lat": 63.222,
+        "lon": -151.292,
+        "mag": 2.5,
+        "kind": "quake",
+        "title": "41 km SSE of Denali National Park, Alaska"
+      },
+      {
+        "lat": -15.1438,
+        "lon": -75.9238,
+        "mag": 5.9,
+        "kind": "quake",
+        "title": "85 km WNW of San Juan, Peru"
+      },
+      {
+        "lat": 32.40633,
+        "lon": -119.16133,
+        "mag": 3.84,
+        "kind": "quake",
+        "title": "87 km SW of San Clemente Is. (NW tip), CA"
+      },
+      {
+        "lat": 0.4346,
+        "lon": -103.0838,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "Galapagos Triple Junction region"
+      },
+      {
+        "lat": -8.0301,
+        "lon": 120.6485,
+        "mag": 4.8,
+        "kind": "quake",
+        "title": "67 km NNE of Ruteng, Indonesia"
+      },
+      {
+        "lat": 33.1868,
+        "lon": -3.4696,
+        "mag": 4.1,
+        "kind": "quake",
+        "title": "95 km SSE of Tmourghout, Morocco"
+      },
+      {
+        "lat": -8.2501,
+        "lon": 120.5285,
+        "mag": 5.8,
+        "kind": "quake",
+        "title": "40 km N of Ruteng, Indonesia"
+      },
+      {
+        "lat": -8.151,
+        "lon": 120.6489,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "54 km NNE of Ruteng, Indonesia"
+      },
+      {
+        "lat": -5.7009,
+        "lon": 146.5479,
+        "mag": 5.8,
+        "kind": "quake",
+        "title": "99 km ESE of Madang, Papua New Guinea"
+      },
+      {
+        "lat": 63.859,
+        "lon": -149.148,
+        "mag": 2.6,
+        "kind": "quake",
+        "title": "8 km W of Healy, Alaska"
+      },
+      {
+        "lat": -2.9907,
+        "lon": 136.6576,
+        "mag": 4.8,
+        "kind": "quake",
+        "title": "134 km ENE of Nabire, Indonesia"
+      },
+      {
+        "lat": 37.0461,
+        "lon": -104.9291,
+        "mag": 2.6,
+        "kind": "quake",
+        "title": "11 km SW of Weston, Colorado"
+      },
+      {
+        "lat": 17.9463,
+        "lon": -68.6115,
+        "mag": 4.06,
+        "kind": "quake",
+        "title": "47 km S of Boca de Yuma, Dominican Republic"
+      },
+      {
+        "lat": 12.1387,
+        "lon": 143.8866,
+        "mag": 5.8,
+        "kind": "quake",
+        "title": "150 km SW of Merizo Village, Guam"
+      },
       {
         "lat": 63.19,
         "lon": -150.666,
@@ -178,11 +150,18 @@
         "title": "65 km SE of Denali National Park, Alaska"
       },
       {
-        "lat": 45.6796,
-        "lon": 26.4891,
+        "lat": 45.6863,
+        "lon": 26.452,
         "mag": 5.3,
         "kind": "quake",
-        "title": "16 km W of Nereju Mic, Romania"
+        "title": "16 km ESE of Comandău, Romania"
+      },
+      {
+        "lat": 39.1912,
+        "lon": 71.5875,
+        "mag": 5.3,
+        "kind": "quake",
+        "title": "7 km SE of Karakenja, Tajikistan"
       },
       {
         "lat": 61.548,
@@ -192,11 +171,32 @@
         "title": "29 km S of Glacier View, Alaska"
       },
       {
+        "lat": 13.022,
+        "lon": 57.6884,
+        "mag": 4.5,
+        "kind": "quake",
+        "title": "Owen Fracture Zone region"
+      },
+      {
         "lat": 58.913,
         "lon": -152.19,
         "mag": 2.8,
         "kind": "quake",
         "title": "51 km SSW of Nanwalek, Alaska"
+      },
+      {
+        "lat": 53.608,
+        "lon": -162.863,
+        "mag": 3.5,
+        "kind": "quake",
+        "title": "143 km SSE of False Pass, Alaska"
+      },
+      {
+        "lat": 56.04,
+        "lon": -150.383,
+        "mag": 3.5,
+        "kind": "quake",
+        "title": "209 km SSE of Chiniak, Alaska"
       },
       {
         "lat": 15.2971,
@@ -353,130 +353,18 @@
         "title": "68 km ENE of Port Alsworth, Alaska"
       },
       {
+        "lat": -7.5464,
+        "lon": 127.8304,
+        "mag": 4.2,
+        "kind": "quake",
+        "title": "141 km NE of Lospalos, Timor Leste"
+      },
+      {
         "lat": 13.4806,
         "lon": 144.6211,
         "mag": 4.5,
         "kind": "quake",
         "title": "8 km WNW of Piti Village, Guam"
-      },
-      {
-        "lat": 40.6353,
-        "lon": 143.7461,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "173 km ENE of Noda, Japan"
-      },
-      {
-        "lat": -43.0226,
-        "lon": 171.805,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "43 km NW of Oxford, New Zealand"
-      },
-      {
-        "lat": 28.879,
-        "lon": -98.937,
-        "mag": 2.9,
-        "kind": "quake",
-        "title": "15 km E of Pearsall, Texas"
-      },
-      {
-        "lat": 62.145,
-        "lon": -151.99,
-        "mag": 2.9,
-        "kind": "quake",
-        "title": "35 km WNW of Skwentna, Alaska"
-      },
-      {
-        "lat": 38.8214988708496,
-        "lon": -122.793167114258,
-        "mag": 2.47,
-        "kind": "quake",
-        "title": "6 km NNW of The Geysers, CA"
-      },
-      {
-        "lat": 30.6968,
-        "lon": -106.1553,
-        "mag": 3.8,
-        "kind": "quake",
-        "title": "35 km ENE of Miguel Ahumada, Mexico"
-      },
-      {
-        "lat": 53.1216,
-        "lon": -166.3904,
-        "mag": 3.6,
-        "kind": "quake",
-        "title": "84 km S of Unalaska, Alaska"
-      },
-      {
-        "lat": 19.2061672210693,
-        "lon": -155.494995117188,
-        "mag": 2.46,
-        "kind": "quake",
-        "title": "1 km WNW of Pāhala, Hawaii"
-      },
-      {
-        "lat": 38.5118333333333,
-        "lon": -112.9275,
-        "mag": 2.63,
-        "kind": "quake",
-        "title": "14 km NNE of Milford, Utah"
-      },
-      {
-        "lat": 39.3807,
-        "lon": -119.0993,
-        "mag": 3.01,
-        "kind": "quake",
-        "title": "11 km ESE of Silver Springs, Nevada"
-      },
-      {
-        "lat": 19.1730003356934,
-        "lon": -155.287506103516,
-        "mag": 2.68,
-        "kind": "quake",
-        "title": "20 km E of Pāhala, Hawaii"
-      },
-      {
-        "lat": 38.8103,
-        "lon": 14.2324,
-        "mag": 4.2,
-        "kind": "quake",
-        "title": "58 km WNW of Malfa, Italy"
-      },
-      {
-        "lat": -26.5215,
-        "lon": -177.3616,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "south of the Fiji Islands"
-      },
-      {
-        "lat": 56.907,
-        "lon": -154.412,
-        "mag": 3.6,
-        "kind": "quake",
-        "title": "15 km WSW of Akhiok, Alaska"
-      },
-      {
-        "lat": 59.995,
-        "lon": -152.818,
-        "mag": 3.3,
-        "kind": "quake",
-        "title": "60 km WNW of Anchor Point, Alaska"
-      },
-      {
-        "lat": 19.4153333333333,
-        "lon": -68.0616666666667,
-        "mag": 3.39,
-        "kind": "quake",
-        "title": "99 km NNE of Punta Cana, Dominican Republic"
-      },
-      {
-        "lat": -15.005,
-        "lon": 167.3139,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "26 km E of Port-Olry, Vanuatu"
       }
     ]
   },
@@ -484,8 +372,8 @@
     "count": 150,
     "points": [
       {
-        "lat": 13.1,
-        "lon": 87.3,
+        "lat": 13,
+        "lon": 86.9,
         "kind": "event",
         "title": "Tropical Cyclone Akvan"
       },
@@ -1390,6 +1278,45 @@
     "count": 0,
     "scope": "United States NWS active Tornado Warning"
   },
-  "weather": null,
+  "weather": {
+    "cities": [
+      {
+        "name": "臺北",
+        "temp": 20.0,
+        "cloud": 100,
+        "wind": 6.5
+      },
+      {
+        "name": "東京",
+        "temp": 17.0,
+        "cloud": 35,
+        "wind": 6.6
+      },
+      {
+        "name": "紐約",
+        "temp": 4.9,
+        "cloud": 0,
+        "wind": 2.8
+      },
+      {
+        "name": "多倫多",
+        "temp": 4.7,
+        "cloud": 2,
+        "wind": 10.7
+      },
+      {
+        "name": "倫敦",
+        "temp": 10.3,
+        "cloud": 100,
+        "wind": 13.0
+      },
+      {
+        "name": "雪梨",
+        "temp": 20.0,
+        "cloud": 9,
+        "wind": 15.4
+      }
+    ]
+  },
   "videos": []
 }
