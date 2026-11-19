@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19T09:29:21.208157+00:00",
+  "updated_at": "2026-11-19T18:39:21.725515+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
     "space_weather": "UNAVAILABLE: 1",
     "tornado": "OK",
-    "weather": "OK",
+    "weather": "UNAVAILABLE: <urlopen error _ssl.c:994: The handshake operation timed out>",
     "news_politics": "OK",
     "news_technology": "OK",
     "news_finance": "OK",
@@ -16,14 +16,38 @@
   "news": {
     "politics": [
       {
-        "title": "川普習近平普丁APEC同框 美中俄三強角力牽動全球局勢 - 美麗島電子報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSZElLc0F6dUJURmxrM3RKblJheGFGbkNZYUtSRTVfWFoyMFBXejlWNnVWMl94NzdIdGVNREhvazE2WEZsUEI1dnB0TWQtOVJ3dVE?oc=5",
-        "source": "美麗島電子報",
-        "published_at": "2026-11-19T04:27:27+00:00"
+        "title": "王智盛專欄》美中俄元首會晤：誰有權定義臺海的戰略穩定？ - Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPYUM0S0xNVlhUX0NZOVFlOGJoZDVlQ3gzR2pLRkEybWNxeHlxSkN6NC1pUWlaTi03cW5jY05MNFZNeDhEdlNwU1RUQU56RnFlNm5iWUpvaFY?oc=5",
+        "source": "Rti 中央廣播電臺",
+        "published_at": "2026-11-19T10:35:50+00:00"
+      },
+      {
+        "title": "習近平：美國應在台灣問題上“做正確的事情”，避免中美關係出現大的波折 - RFI",
+        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOcFRjQ215WFBnVWwyUE11RkhxZm5Md2NEaUVXbzhpTmNjZ2REUXZBbUlVRHNRcG51Q2RHbEJqR0ZaWGxYOFowVnFValAxQzNvLWJrX25keGFMYVdCY01kYlZRUnVSSmhpbFYwQ1MyQVh5WjJBZ0g4d0J5b2tCMDFYcHY0T0lxWDdLeGpvUGx3cmlwV3ZVbUM4UFdnTVZwSFpKSjVXSUE4TmppZ1owMkw5b3JCTkE3Nm1jNnBCZG5vUmxwVnVkRU40MTRpWVoxUE9SM2drUS1OR2oxRVRxNjFJRmFOc0JHVV9IY2Q0UW9Vd21VZmJCRWNmYUN3V29sWkoxZXZUNlc0TWVObU9ZdnB2MG9jejNJVFIzODQ3TUp5RUZCenl4QUxGdm4yNmhhU1VqakxQVzlvUUN4QnpzX2V2ZFF2amplSE8wRU16V2d0a2gwVjNEdnI2dENmdmJUcGRVTjR4Wk5zYlgwN3BsM00zZ21NWXluVXVyTGg2OXdQY0pCbGhOakZKSzZzMmhKUHRYLW80STQyQVZFa1d6bE5yZXRmSnFoUFEtSF9ubEFNb2xGNEtmRWlCS1IySXpmVHN0Q2RTZzBKUmU4aTF2bjNXa1hKTEd3a3M?oc=5",
+        "source": "RFI",
+        "published_at": "2026-11-19T09:40:56+00:00"
+      },
+      {
+        "title": "美中俄元首面對面會談普丁稱「肩負維護和平責任」習近平：不能觸碰底線| 國際 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZzEwMmhCTlpyVnR2MlduMm13MEJiaTRiRVgxUkRqLThJOHJaYWJ5MWR4TXFTQWRpcHE1SzBLNVp4bF9LWnREcTk1T21SeWxmdW5HQWpMVGJQTFk?oc=5",
+        "source": "Newtalk新聞",
+        "published_at": "2026-11-19T15:51:30+00:00"
+      },
+      {
+        "title": "學者：美維持「不支持台獨」 對台灣是好消息 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52cVNFVS1FSDRNTTNVYWRWUUs3MlRuaWw3cWFaWTVRSG5RalZIMTRPaW1xMzB4Q2ptbGZWbTBNeWJJNUxtLTZDS2RXRHJSMU4t0gFWQVVfeXFMTUxEZ3d4YkwwdlUtUFBHWjZtc3VuN3Z2UmdyWG5tbHZxY25nMkVSVDFMckhDWW5KNDRvMWxyUnhvYWtDdEhTTU55SklaTVBEWGlmNXpPYUE?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-19T17:45:28+00:00"
+      },
+      {
+        "title": "《國際政治》BBC：美中俄峰會展現習外交高光時刻 但潛藏陰影 - 富聯網",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEc2S083MXR6VGxKeUFNWHBtZU9HZVBmMEVkbUs1dHJMNy1yaE16Tkp0ODNwTnZYTTZQeWJXRG1DVTVGaFItQzhFejdFUmpMSUVXUDlFWHNOWWtIanJQTEM2X2IyMXV4blgtTFE0UUdwWTB2VVFQWEFweGRqTU1uak1DMU5oSzl6?oc=5",
+        "source": "富聯網",
+        "published_at": "2026-11-19T09:20:00+00:00"
       },
       {
         "title": "中美俄峰會登場 翁履中嘆台灣政治令人無奈 - 中國評論新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVVdDcXBnMlJwMV9LXzRHLWFQeXpPalRCRzlNQW5HM3FkUWVGMzNqY0hfb1JzeEZWRzRpOTZ2TWJBVFVNQkxfR3ljdWNwcGplMmQwS0I4R09uVmljNi1LYUtUcW5Ualk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYkZxdEZZLWRTQkltMGhLUWZ5TTFSdTNkVUJsSGJhR1BodmtfZnZsb2lvYjZVY0Faa09oWUc2cHpTYko2VGJIcThJY3RhUmNkVXVQS0lzak1tX2R2MTY1QllBUE1zdw?oc=5",
         "source": "中國評論新聞",
         "published_at": "2026-11-19T08:11:18+00:00"
       },
@@ -34,42 +58,24 @@
         "published_at": "2026-11-19T04:43:42+00:00"
       },
       {
-        "title": "涉接受境外勢力指示參選 新北市議員候選人陳竹音50萬交保 - 公視新聞",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hOHE0b3NxeDdvWG1XTUdlZzdHNTU4U3hiLVZaampsaENIOTZLSTU5TkpYWXhOSnVpXzExcjNfSW1jZ3Zlak1mTWRQLW16WkU?oc=5",
-        "source": "公視新聞",
-        "published_at": "2026-11-19T03:24:27+00:00"
-      },
-      {
-        "title": "嚴震生：金正恩不排除突襲 川普急需外交勝利 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cHpTS0UwWVJaV0lYU1M1YzFrY25QWENhdmF0bGtBWTJmYzRTb2ZwVFRUOU5WNWdXTUcwNk85V1JTSmx0bmVJMUh1Y3Z5ZDNFRXRB?oc=5",
-        "source": "中天新聞網",
-        "published_at": "2026-11-19T05:22:48+00:00"
-      },
-      {
         "title": "自由開講》不怕失敗的人，如何改變台灣政治？ - 自由評論網",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Y0pXTXMwbENqeWhFVjJYblI0NmNLdnBncXVkS2xqMHpnUFctWHdVOUR0alhoTS1fa1ZadTRvNi04eDd6WU52UjNFOFNRazJSdXozZFVYVGpwM29WbW1OSUhQcGgtN0nSAWdBVV95cUxOOWNKV01zMGxDanloRVYyWG5SNDZjS3ZwZ3F1ZEtsajB6Z1BXLVh3VTlEdGpYaE0tX2tWWnU0bzYtOHg3ellOdlIzRThTUWsyUnV6M2RVWFRqcDNvVm1tTklIUHBoLTdJ?oc=5",
         "source": "自由評論網",
         "published_at": "2026-11-19T02:00:00+00:00"
-      },
-      {
-        "title": "美中俄強人首度同台！美媒曝「1情境」簡直惡夢：台灣、烏克蘭恐淪大國交易籌碼- 國際新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXByWUZZMlRMeGpCM0lsaGQ2anRGZDg3RS1mN19qTXBHcjVWZ2JGUkI0SkY3SzRyX0JURzFMb1pVWkh0bFN3MjhqRElva3pXUjRoMDNiQVQtLUZhTTZQdGE2NHVWbzYxU3AzMTNPQWhUTlRRU1dWdmxsS1R4MVR4WmlKc3RObXhvR1VzNlk2dw?oc=5",
-        "source": "PChome Online 新聞",
-        "published_at": "2026-11-19T02:16:48+00:00"
-      },
-      {
-        "title": "繼承制度迎重大變革！配偶應繼分增至三分之二新增特別貢獻規定| 社會 - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nMGd3b3NsMTJ4OVA4SDhTSnZPb1RaNl9UT3lSOHhNakdlYlkyOEFNaFpKdnF5YmJxT0owZjNKSXdaUUVqMk9NbXVjbUMxODF1UVRIWDF6eWlHaXc?oc=5",
-        "source": "Newtalk新聞",
-        "published_at": "2026-11-19T07:34:01+00:00"
       }
     ],
     "technology": [
       {
-        "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52b0h1Z2xYOE1Xc2JvNThyZ0ZsMXZSQy1jVTd6VHpzMm54ZXpfMGxxZlJfZDByeDJHRzZyS2wwRkFjV2JsbjV0RjJmOUVuUQ?oc=5",
+        "title": "2026資安事件頻傳！台灣資安企業執行長示警：最可怕的不是遭駭，而是入侵卻不自知 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xcU9HczlWRzRhVFpqdXRzaFBjWmM4ZGJsQzNObk5WOFA1YVdRTklrbmY1NnFBbGlISzlhYkJrMFBLWTRQdDh3dlNDcw?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-19T05:45:05+00:00"
+        "published_at": "2026-11-19T17:04:07+00:00"
+      },
+      {
+        "title": "Master Concept 攜手 ElevenLabs，加速企業語音 AI 應用落地 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMVnd0OUxud1ZKSTk0aUhLdFRMa2NwcmR6NHFaalVlTi1LMkVNQ1I4eFJLUkIyMG5lQ1NQMVdrUDd3V0JQaUNMRHVSMA?oc=5",
+        "source": "iThome",
+        "published_at": "2026-11-19T17:04:07+00:00"
       },
       {
         "title": "企業資安導入 AI 代理翻倍 近半數仍卡在人工審核瓶頸 - 商傳媒",
@@ -84,37 +90,43 @@
         "published_at": "2026-11-19T06:23:15+00:00"
       },
       {
-        "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wVXk4bUJEU2NoY0tCeVpIZ1RCRVhpRWJNenVpRTVqanRvanN4a0dWd1NHSkZ1aXlJakpQVGNDU1RqMWxNdmxNWVByZmxkUQ?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-19T04:49:48+00:00"
-      },
-      {
         "title": "Arcfra AECP7.0 全新升級 突破 VMware 替代限制 - 網路資訊雜誌",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUm83SC1ZWXVuUW9ac3RiNUhPWEd4OWVUV3BOcWdPU2dXRWpLNGtVTW5nTmE3MDZ5NC1NcWtkTjF1cE41Wm8xV093SGpEZU05OUl2RU14NFpIVjBOb29EQko5WXJ4cDMyZVZDUlR2REwwdzNMbTQxNEJOMGZaOXhxSnB1VXREcE5UOTQ2bWlPSE9JZFkyaTV0bTlKaw?oc=5",
         "source": "網路資訊雜誌",
         "published_at": "2026-11-19T04:40:48+00:00"
       },
       {
-        "title": "Palo Alto Networks斥資45億美元併購AI新創Applied Compute - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lazR6VWFVeWx0dmMtZGRiOUFVSE5CUUwzeWh1NjhKYUtmVWd2V3JzQ3BheUZxYlFvamE0MXBiRWFDWGJiV2RYaW5mMC1sUQ?oc=5",
+        "title": "Web 應用程式駭客攻防實戰：從 SQL Injection 到存取控管 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HdEphTmpkR2gzbHV3QkZST1M1a3R3OXRuaVBLTHphdnlsazZrdDd1V1NQdzk1YTdqSkhUYzJtMFlldEJOclJGWTd0QQ?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-19T01:24:35+00:00"
+        "published_at": "2026-11-19T17:04:07+00:00"
       },
       {
-        "title": "資拓宏宇iNana Analyzer讀懂企業資料，讓決策者用自然語言提問 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QSGgyd0diMlRxTm9TcEtHa21kNWFaUGx3dDRfak1GRk9TeWNQM2xuZlVwNjZQV3VQVUtRQ2RpaUh3VUtwc2VadlhkQQ?oc=5",
+        "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52b0h1Z2xYOE1Xc2JvNThyZ0ZsMXZSQy1jVTd6VHpzMm54ZXpfMGxxZlJfZDByeDJHRzZyS2wwRkFjV2JsbjV0RjJmOUVuUQ?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-18T16:59:22+00:00"
+        "published_at": "2026-11-19T05:45:05+00:00"
       },
       {
-        "title": "AI攻擊加速，滲透測試人才更缺乏！PenTest+ 打造實戰與報告雙能力 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaLWI1OWNfN01ST0RCQThhTzB6S01fUmVwa1VLOEVHUHB4MGJDZnJhX3daT0M4Z2Z6R0pqU2l1T0Rra2RMelJKM3FkSQ?oc=5",
+        "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wVXk4bUJEU2NoY0tCeVpIZ1RCRVhpRWJNenVpRTVqanRvanN4a0dWd1NHSkZ1aXlJakpQVGNDU1RqMWxNdmxNWVByZmxkUQ?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-18T16:59:22+00:00"
+        "published_at": "2026-11-19T04:49:48+00:00"
       }
     ],
     "finance": [
+      {
+        "title": "全球經濟指標 - 鉅亨網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+        "source": "鉅亨網",
+        "published_at": "2026-11-19T14:39:44+00:00"
+      },
+      {
+        "title": "投資大師克萊門為何決定出清持股？因黃仁勳風暴觸發美股轉空訊號| 全球財經| 全球 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zX1dLeWNnWkNhWmItaVMwYWxpc3FIeUhSRlBKT29iZGRLZ25FNVFEX0hJcHk4TnpLZ1FZdUZVOXA1US1Ua3E0U0lpR1RjSW9r?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-19T14:26:12+00:00"
+      },
       {
         "title": "經濟學人列2027年十大趨勢 警示AI金融清算與台海變局 - Yahoo股市",
         "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQamtJS0xVY2x5dV84N2k3Q3ctUUVqbi1PSllpWVN2X1dTU0xyekJveVJKNkVYU0FtdGpiSnJCTjl4TkdicmFJMjJYVXNXN0FnNllWYXFrRTFSQUdPZWZsU2FJQ0pWeXlWOC1jcGw3Z0ZVY09pZ0hIam9qRG9KeHpDVDhab0YtOW1RZkQ5NzBXQ3lyblZLY1M2MjRWTHQtUG0xXzloOXlpM2RjOWZ4ZlU4dnA5dDRpSkZZclkyUEhUWkFneWsxaUJabHkyOFpQR0ZKenB4cmRRTGpoUEN3WEJ3OGlZQlBXMUQ4S3o1U0VTYkpfXzZrMnEzem9vYTNzRDZ2ZkhsNmJEcktXNkFFNnRtM0JUZExLOWFSRUdCaU1ONEhGZ29DLVZ4UTVJUDhZMy1RRjV1V0xKZXVXRmxrUnBCazh1NnFIeWoyTUF5S2VJQmhWcnFxcHQ4NThRUkhVdDJQ?oc=5",
@@ -122,22 +134,10 @@
         "published_at": "2026-11-19T03:34:51+00:00"
       },
       {
-        "title": "央行鷹派、科技股震盪、油價暗潮——全球資金大搬風直擊金融與能源雙重風暴 - CMoney投資網誌",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUtBSTUyeXFoTkkzMUl4M1A0UGd2VmRHcUU4djdPYW54TUpRaG1nMXRLQlp3Q3h5MEszTkVYQndOd1VJZGk1ajVsVWc1TTQ0VW8yTnRTb1lzQWpqVHRudFhQMlgwRGZBTzlQbkFuLUpIN1dUTGxsRGd0QmtESS1yOHBDa1hmb0pYcU05b09R?oc=5",
-        "source": "CMoney投資網誌",
-        "published_at": "2026-11-19T07:00:37+00:00"
-      },
-      {
-        "title": "台股又崩1768點！金管會出手最新限空令再一道，這1種股票「平盤下禁放空」 | 下班經濟學| 財經 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1va3NIZ0JTUGVPZVJFT0JRbm5uYkNsVm1wWnF5bnBtRjBhM1FpakNhNjJJQmpTNlk5N1hlQV9xU0JWaXRoallQcXVPcEdTUQ?oc=5",
-        "source": "風傳媒",
-        "published_at": "2026-11-19T06:51:00+00:00"
-      },
-      {
-        "title": "MoneyDJ新聞 2026-11-19 10:58:04 黃智勤 發佈 - MoneyDJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHhtNXVodkhCdldjZTJTR0Itb1J4OHRmZHRMOTNiaFc5YUpxeHpEeGlhREFweE5hQzdjYVFUSXNfQWdJcXBZc3lRdDNCNl9Vdk44MGVPbzVQNnFUY3J5aHRBaWl4MjBMQkNqTk9YdzZsRGxYSEtLZnZ6dHZJbHJ4ZTlndFk4Xy1DSEVBUG92eC1JS28?oc=5",
-        "source": "MoneyDJ",
-        "published_at": "2026-11-19T03:00:56+00:00"
+        "title": "瑞銀2027年展望：黃金飆5000美元 標普8200點 預言3力量顛覆未來10年 - 鉅亨網",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rWXRhOWZOZFFCMnRuVHh5aWpPN1E0dV8waGRtZV9lcEdUSVZVLS0xeGdpN18tQ1hLY3dYYllvbFNKc0pjZXNwYTdmS01rbEk?oc=5",
+        "source": "鉅亨網",
+        "published_at": "2026-11-19T09:53:41+00:00"
       },
       {
         "title": "全球經濟大洗牌 台灣進入黃金時刻 政大論壇解析AI時代下的資產管理新局 - 今周刊",
@@ -146,36 +146,120 @@
         "published_at": "2026-11-19T03:53:00+00:00"
       },
       {
+        "title": "2026台灣周圓滿落幕！45場活動吸引近4萬人次參與 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fVllWMWI2cmk2OVd3eEFTYTQtVndfczRXMEtiRUZ5NXBiN1I5RkVXa0R6VXVsTHhlMEdVNnRmWXZMOGdwbWVsNExDclBvMWxD0gFWQVVfeXFMTUZmTERCN2tSbjZqRnFycjZTWHpEbkNFdURILTlDeFQ2VGdPN0Rnb1dKZ2ttdTdTbkRfajB6NDVkUzZFNWJxVngxeFA0YWNUODZDamMtRGc?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-19T10:46:39+00:00"
+      },
+      {
         "title": "FP Markets 宣佈將 Anthropic 股票差價合約納入交易產品 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaFFyUGRkUnhVa0RHSm1OUml1dU1xTVd2NXVDOEU2VGEya2tfZjlTWTZNNjdUWUdXUzh3OXVyVV96RjlNbDQ3Yjk5NWlxWFBILXk4RFJtMGxzamtNczhWb29B0gFiQVVfeXFMT2JoUXJQZGRSeFVrREdKbU5SaXV1TXFNV3Y1dUM4RTZUYTJra19mOVNZNk02N1RZR1dTOHc5dXJVX3pGOU1sNDdiOTk1aXFYUEgteThEUm0wbHNqa01zOFZvb0E?oc=5",
         "source": "經濟日報",
         "published_at": "2026-11-18T23:00:22+00:00"
       },
       {
-        "title": "台股3天狂瀉5248點！金管會緊急加嚴「限空令」救市，5大措施明上路、放空門檻曝光| 下班經濟學| 財經 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95VUJIMVBsakxySDNWaGpqVU8xd0dNMnp1aDY1OUlqd1lPYWJWbktaWmswTXpMa2xLc3FBSTlhOVZ1cUxFNU16Qks2aE9oZw?oc=5",
-        "source": "風傳媒",
-        "published_at": "2026-11-19T07:05:00+00:00"
-      },
-      {
-        "title": "AI 交易冷了 這國股市反而熱了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rbDBBLWUxTnEwTFp4S3NnWTZ5R3dBSTZpQUI0OWVVQ19lWE1odHFxNWlicXh6ZHRPWWtiOUFaZnZsUHFQeFJEdldFX1BGbmxadEhUdW9lU21WQdIBX0FVX3lxTFBWX25idGNta29CQ3o4eGpkeVlpWDlHX2tNMFhMTlE4WFVveGdjTjdLOUE5aWFkVkdHUmJBR2owV3V0ck40bTliM2xCVXNmaFlZYnU2Nl95WXJmTzZRODA4?oc=5",
-        "source": "經濟日報",
-        "published_at": "2026-11-18T12:24:36+00:00"
+        "title": "台股全球市值「4哥摔成第7」！　國泰投信點名2類股 - ETtoday財經雲",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUGM2Y0dMZF90cG5lT294WVBqNmJSenpRNE05UXZnMXE5MnhReWpaaE4yTUc3M0RROUw1Rl83RUptLWpoNDY1dUh6enVwcUxXVUHSAVBBVV95cUxQamUyeGd6aFBJSmF2LUc2U25Yd3p4X1VUOGhoR0o5OFdaRHAzQ1hPbzB5UTk2NTJ0b0tMQzFmYWNvS20yLXhoMFFmUlB3VVpLWg?oc=5",
+        "source": "ETtoday財經雲",
+        "published_at": "2026-11-19T07:16:00+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 37,
+    "count": 35,
     "points": [
       {
-        "lat": 18.8605,
-        "lon": -64.8223,
-        "mag": 4.2,
+        "lat": -31.8465,
+        "lon": -72.1843,
+        "mag": 5.1,
         "kind": "quake",
-        "title": "58 km NNE of Charlotte Amalie, U.S. Virgin Islands"
+        "title": "99 km WSW of Illapel, Chile"
+      },
+      {
+        "lat": -5.4474,
+        "lon": 154.2159,
+        "mag": 4.3,
+        "kind": "quake",
+        "title": "170 km NW of Panguna, Papua New Guinea"
+      },
+      {
+        "lat": 37.4558334350586,
+        "lon": -118.846168518066,
+        "mag": 2.98,
+        "kind": "quake",
+        "title": "19 km SW of Toms Place, CA"
+      },
+      {
+        "lat": 57.423,
+        "lon": -151.713,
+        "mag": 2.6,
+        "kind": "quake",
+        "title": "40 km ESE of Chiniak, Alaska"
+      },
+      {
+        "lat": 32.363,
+        "lon": -101.898,
+        "mag": 3.2,
+        "kind": "quake",
+        "title": "24 km SW of Ackerly, Texas"
+      },
+      {
+        "lat": 18.2296666666667,
+        "lon": -64.3001666666667,
+        "mag": 3.04,
+        "kind": "quake",
+        "title": "53 km ESE of Cruz Bay, U.S. Virgin Islands"
+      },
+      {
+        "lat": 51.6797,
+        "lon": -174.66,
+        "mag": 4.9,
+        "kind": "quake",
+        "title": "65 km SSW of Atka, Alaska"
+      },
+      {
+        "lat": 63.26,
+        "lon": -149.398,
+        "mag": 3.2,
+        "kind": "quake",
+        "title": "26 km WSW of Cantwell, Alaska"
+      },
+      {
+        "lat": 37.4536666870117,
+        "lon": -118.842666625977,
+        "mag": 2.75,
+        "kind": "quake",
+        "title": "19 km SW of Toms Place, CA"
+      },
+      {
+        "lat": -4.2965,
+        "lon": 151.8945,
+        "mag": 5,
+        "kind": "quake",
+        "title": "31 km WSW of Rabaul, Papua New Guinea"
+      },
+      {
+        "lat": -19.7086,
+        "lon": -177.7237,
+        "mag": 4.3,
+        "kind": "quake",
+        "title": "Fiji region"
+      },
+      {
+        "lat": -15.3841,
+        "lon": -76.0248,
+        "mag": 4.7,
+        "kind": "quake",
+        "title": "92 km W of San Juan, Peru"
+      },
+      {
+        "lat": 18.7751,
+        "lon": -64.8918,
+        "mag": 4.25,
+        "kind": "quake",
+        "title": "48 km N of Charlotte Amalie, U.S. Virgin Islands"
       },
       {
         "lat": 37.4544982910156,
@@ -206,18 +290,18 @@
         "title": "67 km S of Ugashik, Alaska"
       },
       {
-        "lat": 36.13383,
-        "lon": -118.43867,
-        "mag": 3.44,
+        "lat": 36.13333,
+        "lon": -118.437,
+        "mag": 3.51,
         "kind": "quake",
         "title": "42 km N of Kernville, CA"
       },
       {
-        "lat": 32.16817,
-        "lon": -116.93483,
-        "mag": 2.81,
+        "lat": 32.16567,
+        "lon": -116.94617,
+        "mag": 2.67,
         "kind": "quake",
-        "title": "6 km SSW of Primo Tapia, B.C., MX"
+        "title": "7 km SSW of Primo Tapia, B.C., MX"
       },
       {
         "lat": -2.4019,
@@ -253,6 +337,13 @@
         "mag": 4.8,
         "kind": "quake",
         "title": "40 km NNE of Kilimatinde, Tanzania"
+      },
+      {
+        "lat": 38.5171666666667,
+        "lon": -112.926666666667,
+        "mag": 2.78,
+        "kind": "quake",
+        "title": "15 km NNE of Milford, Utah"
       },
       {
         "lat": 17.9095,
@@ -297,9 +388,16 @@
         "title": "12 km SSE of Jimalalud, Philippines"
       },
       {
-        "lat": -57.7514,
-        "lon": -146.746,
-        "mag": 6.1,
+        "lat": -57.9547,
+        "lon": -146.5262,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "Pacific-Antarctic Ridge"
+      },
+      {
+        "lat": -57.5192,
+        "lon": -146.8744,
+        "mag": 6,
         "kind": "quake",
         "title": "Pacific-Antarctic Ridge"
       },
@@ -311,123 +409,11 @@
         "title": "14 km N of Susanville, CA"
       },
       {
-        "lat": -21.411,
-        "lon": -68.368,
+        "lat": -21.41,
+        "lon": -68.2976,
         "mag": 4.5,
         "kind": "quake",
-        "title": "23 km SSW of Ollagüe, Chile"
-      },
-      {
-        "lat": -5.4599,
-        "lon": 35.1065,
-        "mag": 5,
-        "kind": "quake",
-        "title": "46 km NNE of Kilimatinde, Tanzania"
-      },
-      {
-        "lat": -5.4691,
-        "lon": 35.1024,
-        "mag": 4.3,
-        "kind": "quake",
-        "title": "45 km NNE of Kilimatinde, Tanzania"
-      },
-      {
-        "lat": 32.2779,
-        "lon": 130.4609,
-        "mag": 5.3,
-        "kind": "quake",
-        "title": "4 km NNW of Tsunagi, Japan"
-      },
-      {
-        "lat": 47.2371,
-        "lon": -113.5736,
-        "mag": 2.7,
-        "kind": "quake",
-        "title": "9 km NW of Seeley Lake, Montana"
-      },
-      {
-        "lat": 45.0855,
-        "lon": -125.062666666667,
-        "mag": 2.5,
-        "kind": "quake",
-        "title": "83 km W of Lincoln City, Oregon"
-      },
-      {
-        "lat": 43.7963,
-        "lon": -128.0431,
-        "mag": 4.2,
-        "kind": "quake",
-        "title": "off the coast of Oregon"
-      },
-      {
-        "lat": 12.0918,
-        "lon": 143.9927,
-        "mag": 5.3,
-        "kind": "quake",
-        "title": "149 km SSW of Merizo Village, Guam"
-      },
-      {
-        "lat": 32.38867,
-        "lon": -119.212,
-        "mag": 3.3,
-        "kind": "quake",
-        "title": "91 km SW of San Clemente Is. (NW tip), CA"
-      },
-      {
-        "lat": 38.1669,
-        "lon": -117.8467,
-        "mag": 2.85,
-        "kind": "quake",
-        "title": "33 km SE of Mina, Nevada"
-      },
-      {
-        "lat": 40.2734985351562,
-        "lon": -124.864166259766,
-        "mag": 2.93,
-        "kind": "quake",
-        "title": "49 km W of Petrolia, CA"
-      },
-      {
-        "lat": 62.016,
-        "lon": -151.397,
-        "mag": 3.3,
-        "kind": "quake",
-        "title": "2 km N of Skwentna, Alaska"
-      },
-      {
-        "lat": 51.171,
-        "lon": -178.254,
-        "mag": 4,
-        "kind": "quake",
-        "title": "136 km SW of Adak, Alaska"
-      },
-      {
-        "lat": -39.6909,
-        "lon": -91.5033,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "West Chile Rise"
-      },
-      {
-        "lat": 56.272,
-        "lon": -157.184,
-        "mag": 2.7,
-        "kind": "quake",
-        "title": "75 km E of Chignik, Alaska"
-      },
-      {
-        "lat": 38.7192,
-        "lon": 137.8725,
-        "mag": 5.2,
-        "kind": "quake",
-        "title": "86 km NW of Ryōtsu-minato, Japan"
-      },
-      {
-        "lat": 60.248,
-        "lon": -153.194,
-        "mag": 2.7,
-        "kind": "quake",
-        "title": "62 km E of Port Alsworth, Alaska"
+        "title": "20 km SSW of Ollagüe, Chile"
       }
     ]
   },
@@ -435,14 +421,14 @@
     "count": 150,
     "points": [
       {
-        "lat": 14.6,
-        "lon": 86.2,
+        "lat": 16,
+        "lon": 85.3,
         "kind": "event",
         "title": "Tropical Cyclone Akvan"
       },
       {
-        "lat": -10.3,
-        "lon": -163.8,
+        "lat": -10.6,
+        "lon": -163.2,
         "kind": "event",
         "title": "Tropical Cyclone Xavier"
       },
@@ -1341,45 +1327,6 @@
     "count": 0,
     "scope": "United States NWS active Tornado Warning"
   },
-  "weather": {
-    "cities": [
-      {
-        "name": "臺北",
-        "temp": 16.9,
-        "cloud": 100,
-        "wind": 5.1
-      },
-      {
-        "name": "東京",
-        "temp": 13.1,
-        "cloud": 0,
-        "wind": 7.1
-      },
-      {
-        "name": "紐約",
-        "temp": 5.0,
-        "cloud": 0,
-        "wind": 5.6
-      },
-      {
-        "name": "多倫多",
-        "temp": 3.5,
-        "cloud": 9,
-        "wind": 5.5
-      },
-      {
-        "name": "倫敦",
-        "temp": 7.3,
-        "cloud": 100,
-        "wind": 5.4
-      },
-      {
-        "name": "雪梨",
-        "temp": 21.2,
-        "cloud": 79,
-        "wind": 18.7
-      }
-    ]
-  },
+  "weather": null,
   "videos": []
 }
