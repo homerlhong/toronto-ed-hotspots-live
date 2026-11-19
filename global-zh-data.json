@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T19:23:11.397352+00:00",
+  "updated_at": "2026-11-19T01:28:14.310100+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
     "space_weather": "UNAVAILABLE: 1",
     "tornado": "OK",
-    "weather": "OK",
+    "weather": "UNAVAILABLE: <urlopen error _ssl.c:994: The handshake operation timed out>",
     "news_politics": "OK",
     "news_technology": "OK",
     "news_finance": "OK",
@@ -28,28 +28,16 @@
         "published_at": "2026-11-18T11:26:53+00:00"
       },
       {
-        "title": "11/18國際晚報｜台灣代表施振榮抵深圳不見國台辦接機、孫正義認錯過Anthropic是大錯、Waymo 無人車全美停上高速公路 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52UEtYbmVzWGZIYlprcHZQem5oLUE1Vy1Jc3g4VlJ0dFdLY0FyMjNxME9yc0MxYkVLZFNaR1R3OTdSLXJFYzNmMmlSd2JUdw?oc=5",
-        "source": "風傳媒",
-        "published_at": "2026-11-18T11:44:00+00:00"
-      },
-      {
         "title": "川普、習近平、普丁明會晤全球核武九成掌握3人手歐洲憂烏克蘭被出賣| 國際 - Newtalk新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QaV93dlBqWlVaNTBHRVNjMllaMHZXdFRQXzBaeG1XZE9pMnpTVmRRbHNTelVjZDZUOGlsVUVxM0V4U0hrY01oZlhINU92bU5DT3VoSGMtdlBLUUU?oc=5",
         "source": "Newtalk新聞",
         "published_at": "2026-11-18T09:55:51+00:00"
       },
       {
-        "title": "社評／美中俄深圳峰會大國政治新局- 國際 - 旺得富理財網",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvUFB1ZWh3N3M4bjB3dEJqcmpFYmIzMXlsejhQaHJkWWkxVGtwTjEzTFJ0WEZ0Ml9yMGc1LVFWdXBsS21OSXRiUTJlQXdObkVxTVExMnk1eUR6bnQ4YkkwZlpTX3dMWFRhcVE?oc=5",
-        "source": "旺得富理財網",
-        "published_at": "2026-11-17T20:28:38+00:00"
-      },
-      {
-        "title": "BBC：三方會談讓克宮先贏一局　普丁未必離勝利更近一步 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rcWVsQ3Axa2REYXFJMm5TUURMVWJDd1YwNV8yMU1KTkRpcnNPRnFnUzNTMW5YQ3pVOHhkeGEwSjlKb3c4Y0ZMSjlPSXBjVDVBTGNVSW02aklBRjIzZ0xZ0gFfQVVfeXFMTWtxZWxDcDFrZERhcUkyblNRRExVYkN3VjA1XzIxTUpORGlyc09GcWdTM1MxblhDelU4eGR4YTBKOUpvdzhjRkxKOU9JcGNUNUFMY1VJbTZqSUFGMjNnTFk?oc=5",
-        "source": "經濟日報",
-        "published_at": "2026-11-18T14:45:22+00:00"
+        "title": "11/18國際晚報｜台灣代表施振榮抵深圳不見國台辦接機、孫正義認錯過Anthropic是大錯、Waymo 無人車全美停上高速公路 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52UEtYbmVzWGZIYlprcHZQem5oLUE1Vy1Jc3g4VlJ0dFdLY0FyMjNxME9yc0MxYkVLZFNaR1R3OTdSLXJFYzNmMmlSd2JUdw?oc=5",
+        "source": "風傳媒",
+        "published_at": "2026-11-18T11:44:00+00:00"
       },
       {
         "title": "《國際政治》不擔心南海！川普宣布擴大美菲防務合作 - 富聯網",
@@ -62,6 +50,18 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EajVIQms1NFp0M0lHcE11Q3R5SGRlSDNxX1k4QnlkTklOYXkzTmNHM0R5LVRJZzJRZ2VITnllWnE2NTRrVEEyUUt3dlB1Vk82OVpCN1l1NFhXYkhoVTJIU2N3Qi1EaTDSAWdBVV95cUxPRGo1SEJrNTRadDNJR3BNdUN0eUhkZUgzcV9ZOEJ5ZE5JTmF5M05jRzNEeS1USWcyUWdlSE55ZVpxNjU0a1RBMlFLd3ZQdVZPNjlaQjdZdTRYV2JIaFUySFNjd0ItRGkw?oc=5",
         "source": "世界新聞網",
         "published_at": "2026-11-18T06:20:00+00:00"
+      },
+      {
+        "title": "啟程赴APEC 施振榮：盼展現台灣AI產業優勢及貢獻- 政治新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmNOejJxOHVxZHd0OXZnSFNZSVdYNThEOXlucHZKZExsVHNNRVJKNUltSGlMQW52eXRzc3B2R096RWZISEcxR1h4MFR1YUZKcTdiRFlRVzgwWjR3cVJkRTRqSUdOYkJxdDlZVkk5V2lTWDBNWmlvME5POEQxTDJuNmNjZ2JPTGZ5ejZzS0pqQQ?oc=5",
+        "source": "PChome Online 新聞",
+        "published_at": "2026-11-18T04:05:00+00:00"
+      },
+      {
+        "title": "《國際政治》普丁抵深圳出席APEC！談西方制裁：無法阻止俄羅斯發展 - 富聯網",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDFnVDE3YkhWOUl0b0FQdWlmNVpQajdtOHJfMEdjeUpsMjB2NWNFaW56czAwSmp6OFNkTDFkNGN6NEhfSFN1Y1JiQlJpTDlqY21lcERSV0hUSGR3bkdTZU9CMko3dVp0Q0NwcE9UQUJhRkJNZnBCVjI0YTVDbG9NTGtpNWdCdU9pMW43Uzd6WXRlUQ?oc=5",
+        "source": "富聯網",
+        "published_at": "2026-11-18T04:57:00+00:00"
       }
     ],
     "technology": [
@@ -72,16 +72,16 @@
         "published_at": "2026-11-18T16:59:22+00:00"
       },
       {
-        "title": "內部組織瓶頸恐成台灣企業最大安全威脅 - 電子工程專輯",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGVST3ZsT0hIYmFRcnpaUzFndnVnNnoyREFwSXpLdXFSa0d6U3N3LUJLcmVKR3JRSmJRN3ppWm1kQmlnMkFNa0RaM1lOQlBxdi1Ucl9HSDlfcDF2anpyRGRuaEtyVzJpMDN1OWQzUzlOZVZXOGhRdGE1amx0N2QtRUpEb0tvNkZQR00zeFUtZUhNWTItMW1HN0U5OA?oc=5",
-        "source": "電子工程專輯",
-        "published_at": "2026-11-18T01:04:24+00:00"
+        "title": "AI攻擊加速，滲透測試人才更缺乏！PenTest+ 打造實戰與報告雙能力 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaLWI1OWNfN01ST0RCQThhTzB6S01fUmVwa1VLOEVHUHB4MGJDZnJhX3daT0M4Z2Z6R0pqU2l1T0Rra2RMelJKM3FkSQ?oc=5",
+        "source": "iThome",
+        "published_at": "2026-11-18T16:59:22+00:00"
       },
       {
-        "title": "Vibe Coding 引爆企業「影子 IT」危機，失控原型恐成外洩破口 - TechNews 科技新報",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWRkM0NwQWNXNGNibkJVR1RaTXp2OHVQeV9OT1pVeEtacF9CNXJWQlkzVVFJNHBCdHNOZDRzMGswcGlkX0c1NGp4V01yNWRQaVVibHV5YmFac19sU3MtekwycjAyX3dtR1llNTlXMVJkVnJ0b3hsbE9oZHZNZXFvM0dKVzl5N0xZUy1TY2g1UWNIcm1IVXc?oc=5",
-        "source": "TechNews 科技新報",
-        "published_at": "2026-11-18T00:11:29+00:00"
+        "title": "Vibe Coding 引爆企業「影子 IT」危機，失控原型恐成外洩破口 | 科技新報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVYm1welBYNWJUUHRtMDBodzNmaHJJU2M3eEZnLW9mOHBPOE5uZHdfUGpwSUVqUkpuY2E0cFZRbkNCODJIXzk5azZ6U2JZWVBEZ2VRWmt3?oc=5",
+        "source": "LINE TODAY",
+        "published_at": "2026-11-18T08:36:19+00:00"
       },
       {
         "title": "AI網攻波及台灣！ 是不是詐騙電話如何判斷？ - 中央社 CNA",
@@ -90,42 +90,36 @@
         "published_at": "2026-11-18T03:46:53+00:00"
       },
       {
-        "title": "50年報關老店搶賺AI財！建新砸32億蓋「超級冰箱」，如何打進GPU龍頭供應鏈？ - 數位時代",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2pUQmZZLV9UNlpSSHJaQ0NjN2g4TzRjS1h1LUQ5V3V2RW5Ja1ZxSU9RdU9aVnEyMEc0RFNJQnJNR1Bwa2hlQmpIRGFSUjZXQ3pxckxyMDJaTE1aZ2VfdDkyU0gzS2R3RlZpOUJKeDNSbHZXNVl5RXJ0MGw5d21PTjJUNllmTTJJ?oc=5",
-        "source": "數位時代",
-        "published_at": "2026-11-18T03:50:00+00:00"
-      },
-      {
         "title": "Andy Jassy：不排除讓外部 AI 代理進入亞馬遜大門 - Business Insider Taiwan",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTm5fSHRJQWFCakpHcGF0UXlkdVFJMXhlaVRjQlpWTW9ubldacVU1RHVJM2d4TlV3V3UwR3ZyYjBVVjFlWjVIQW9OREFwOTNXc3RWTE9n?oc=5",
         "source": "Business Insider Taiwan",
         "published_at": "2026-11-18T09:00:02+00:00"
       },
       {
-        "title": "美國一週連環大當機，傳是急修 AI 找出的漏洞把系統壓垮 - 鏈新聞 ABMedia",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ac1k2V1RKcS1GZ2ZKQ2VVY3RKOTh6NHFGNENiYnpBN2NQT21IVG5QV0EzZFhTQ0hpc280bEs1S0RtUEZKLUZXVXdOQk5pMlZER2ZxWG9tZE9Jdw?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_at": "2026-11-18T07:56:33+00:00"
+        "title": "50年報關老店搶賺AI財！建新砸32億蓋「超級冰箱」，如何打進GPU龍頭供應鏈？ - 數位時代",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2pUQmZZLV9UNlpSSHJaQ0NjN2g4TzRjS1h1LUQ5V3V2RW5Ja1ZxSU9RdU9aVnEyMEc0RFNJQnJNR1Bwa2hlQmpIRGFSUjZXQ3pxckxyMDJaTE1aZ2VfdDkyU0gzS2R3RlZpOUJKeDNSbHZXNVl5RXJ0MGw5d21PTjJUNllmTTJJ?oc=5",
+        "source": "數位時代",
+        "published_at": "2026-11-18T03:50:00+00:00"
       },
       {
         "title": "IT管理大廠Kaseya推MCP伺服器 直連AI模型搶攻維運自動化 - 商傳媒",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbzdBZnh3dFp6a0pkNEwyNDh1MTNjX0c0OEluZWYtdm9nVzFkTnFHMnlhZHl3UjVyVHNpMDMtNmRsd3dDcXpWU09UNjJ2clFRZFRNR3dobXdTOWo5Tjh3Ul90UDdmNUNvX1B2T05rZXUtWFJPREI3TXFqdlJOMnpkU0Q1NTc0M2duTkpjeXptTGIwWlp4V1IydG1uYWk2R2FNb3VKaFNmd3lOMEhOam84REVlMi1GVHVkVWhnaGtYYVRBSEhOMnZtMHg0WU5ZRUZpeTEtMWNaaE93MzRKRFBmN0k5WkFhME1NWnJ1b0dQNU1SYmU5WnZyVlJYTzRuNHJ6NHZjLWRpZWVCYjhQTDEwYVpwaHVMSmIzWGV2cXFwSjJCV2NtZFBKR1lha3A2QXBJbkZxZVRBSDdTZTlmM0ZrUnZHX0s2bmZvN2o1dHZGQ1lqOWZzbVdsRGxndDZJOFZ3aDR1UmFXMDFDZw?oc=5",
         "source": "商傳媒",
         "published_at": "2026-11-18T04:38:21+00:00"
+      },
+      {
+        "title": "M365 大當機，企業營運受衝擊？降低雲端依賴風險，Zimbra 助企業打造自主韌性的郵件架構 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91bmdYYnBTbjZlYndEOElHUEV4SlhCTVJsMnQyeDZkcm1JWEs4SjMtM3VsMEM0R3JSOTAzbkVDUkMwR2U1dUdyb0M1TQ?oc=5",
+        "source": "iThome",
+        "published_at": "2026-11-18T17:01:13+00:00"
       }
     ],
     "finance": [
       {
-        "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-18T08:38:08+00:00"
-      },
-      {
-        "title": "智慧優化策略 分散風險 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bkhZZlZjcGxUY1E3eG9qRWFoVzRzdVpPcVJ0NXI5aFVtUzNIekZ1SWU4bjd6V05GTGp4b2l6T1N2cEFPR0phTjhuZld2Z3A0QkxISlR2bkxmQdIBX0FVX3lxTE9HM3hrbUxyUTJfUXE5MExxOWhkMzd6RnBYeThqVGNMSWlJU1dBZGgyQ051c1ZEbFR3ZmIzTm5fZS1Cb2ZicWFkZ1ZSTXJEWVBqOHN5YkExVlhQS3ZRTXpF?oc=5",
+        "title": "FP Markets 宣佈將 Anthropic 股票差價合約納入交易產品 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaFFyUGRkUnhVa0RHSm1OUml1dU1xTVd2NXVDOEU2VGEya2tfZjlTWTZNNjdUWUdXUzh3OXVyVV96RjlNbDQ3Yjk5NWlxWFBILXk4RFJtMGxzamtNczhWb29B0gFiQVVfeXFMT2JoUXJQZGRSeFVrREdKbU5SaXV1TXFNV3Y1dUM4RTZUYTJra19mOVNZNk02N1RZR1dTOHc5dXJVX3pGOU1sNDdiOTk1aXFYUEgteThEUm0wbHNqa01zOFZvb0E?oc=5",
         "source": "經濟日報",
-        "published_at": "2026-11-18T16:58:54+00:00"
+        "published_at": "2026-11-18T23:00:22+00:00"
       },
       {
         "title": "AI金融革命加速！NVIDIA領軍、JPMorgan試驗「自主支付代理人」，全球金流版圖重洗牌 - CMoney投資網誌",
@@ -134,22 +128,28 @@
         "published_at": "2026-11-18T04:00:26+00:00"
       },
       {
-        "title": "2026台灣CFP®年會擴大舉辦行政院長卓榮泰獲頒特殊貢獻獎- 政府消息新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlRzbTB1bk9tOVhIVEZWRllsNlphejJPSS1uRGI0bF8zQ1NySDBXWExpRFBmS1lHT0xNQkhHRk92SklFeVJ3cTZkN2JKOTNjM3FZYUltdmVCMWZYR0M2Z1VGVHdGdG9SQ3RTcnJIS1VnOHVHS05sSnMxUkEwemNqUThOOXRBRjNEV0FF?oc=5",
-        "source": "PChome Online 新聞",
-        "published_at": "2026-11-18T14:22:30+00:00"
+        "title": "智慧優化策略 分散風險 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bkhZZlZjcGxUY1E3eG9qRWFoVzRzdVpPcVJ0NXI5aFVtUzNIekZ1SWU4bjd6V05GTGp4b2l6T1N2cEFPR0phTjhuZld2Z3A0QkxISlR2bkxmQdIBX0FVX3lxTE9HM3hrbUxyUTJfUXE5MExxOWhkMzd6RnBYeThqVGNMSWlJU1dBZGgyQ051c1ZEbFR3ZmIzTm5fZS1Cb2ZicWFkZ1ZSTXJEWVBqOHN5YkExVlhQS3ZRTXpF?oc=5",
+        "source": "經濟日報",
+        "published_at": "2026-11-18T16:58:54+00:00"
       },
       {
         "title": "《國際金融》韓股自高點重挫46% 散戶被迫省吃儉用 - 富聯網",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUURzNmU0OWNCakwyUkZOVHA1UU82emYyR3AybHUyU05HLUZDbm9EZWQ1cFdYZ2xDbFh4QzFWTHVsVUViTi1STUU4QllQYWU2Rjcxb1FNMGdmRWRBOUFrdGo5QkFMUUtrcVVHb2pVaThpQjR2c3cyT1l0RE9fRzFELWJFNmVNOVUx?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUY5VkVQMnVfUmViMWNQNWRiZWREd2l6RjFCYlNUbFRySm8tbF9YRWFYV3lRRS1tZnNWQThqRkNyN3ZYaXlZdWh3NF8xQkowQ0xHVFVLRndCZy1sdC1lSU1NWjVmWlVTRFFHdkt0YWdTV2hpb0RNYjRNUUYyZXhlYkEtbzFISVFMZGNOeXZZdw?oc=5",
         "source": "富聯網",
         "published_at": "2026-11-18T08:03:00+00:00"
       },
       {
-        "title": "又是狼來了？媒體喊崩盤常失準 研究卻見最高97%泡沫訊號 - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVEhyYU1LNHY2LUExS1Z4UzBYbUNJeTBCU0h4SFB2ZmktNjNZdmZ6OFVfMWVGTE4wUGVBNmN4UENIeEVZajZGbTNmZW40bVE?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-18T13:00:15+00:00"
+        "title": "六壽險Q3股票帳面增千億 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XUUpQRE1CMzdXUkx0c1RyclNjbU5kdzVUamUxd2VQVWNtOTBuTmVUZGpraEdSLTU0SW5IVVd1cVdTdjl0ZHVBeVBxTVdLdTJt0gFWQVVfeXFMUDhkdzNGaUswWm9wenJuejVjeUdsbTlBZmN5NWFFckdVWlA2NGx0Rm43X1otR3d4WVlpRzFEczYyeHljZHpGa0c1N0RleWpYTEdlM1VXTnc?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-18T18:26:14+00:00"
+      },
+      {
+        "title": "國際金融：印尼央行意外升息一碼至6%，力挽印尼盾創低頹勢 - 富聯網",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZllCN3FiTzVWWDFPNUJ6cFA5MmwwZzhWNTRLbEZ6T0t2RG1QVEpSZDJPN2NpYzVCcE9rcXI2SmlrYU11RktrT3VMVlNScU9scFU5aTVLQnU2bjFPQ044TEh6Q3FJRml2bTdiZkR3a3NOYndMMjhqcUlGOTNGWUEtQ1ZKV05RTGh5?oc=5",
+        "source": "富聯網",
+        "published_at": "2026-11-18T07:35:00+00:00"
       },
       {
         "title": "AI投資降溫？高盛示警2027全球企業獲利成長率腰斬 但點名兩股市能買 - 經濟日報",
@@ -158,18 +158,67 @@
         "published_at": "2026-11-18T06:04:26+00:00"
       },
       {
-        "title": "《國際金融》科技股、德銀遭拋售 歐股收挫1.75% - 富聯網",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRk5rQ3RzX3VycFBnUFd5S1pzME5LWXI3RkJDZ2dLNlNJMTJueE5WM1lSenhKaGZ5U2RzWi1wbXhfSVZJcERsbmY1UnlQaW9YUzFUeVZmZzJZVmVCcU9ZRHh3d2haeUZvam5xcHZSYXlRd2lFeE1ETWtqZGhTeWRGV2Z0Tm44aDF2?oc=5",
-        "source": "富聯網",
-        "published_at": "2026-11-18T01:16:00+00:00"
+        "title": "全球經濟尚未失速，但增長可能成為少數國家的特權 - 日經中文網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEtqaHBOaUZPVzVFdjRKME5KM1JZYmtoZVh4OHRXQUE1SldHWTdvaG5obXUyV0lDXy1Fc3p1VGxiZWw1VV9mT0NaRWNEeHBad0VMS0JRNm91LS1XTUpUU3dJTDRZM3JBblR4amxjMy0tWWJEekh1VEpTZFJSaDF4ZWp4UFY?oc=5",
+        "source": "日經中文網",
+        "published_at": "2026-11-18T21:02:12+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 42,
+    "count": 40,
     "points": [
+      {
+        "lat": 17.9095,
+        "lon": -65.2498333333333,
+        "mag": 2.55,
+        "kind": "quake",
+        "title": "31 km SE of Esperanza, Puerto Rico"
+      },
+      {
+        "lat": 33.30133,
+        "lon": -116.19133,
+        "mag": 3.36,
+        "kind": "quake",
+        "title": "18 km ENE of Borrego Springs, CA"
+      },
+      {
+        "lat": 15.9616,
+        "lon": -95.4267,
+        "mag": 4.8,
+        "kind": "quake",
+        "title": "11 km SSW of Santa Gertrudis Miramar, Mexico"
+      },
+      {
+        "lat": 51.3379,
+        "lon": 172.8596,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "169 km S of Attu Station, Alaska"
+      },
+      {
+        "lat": -2.9421,
+        "lon": 146.4693,
+        "mag": 4.7,
+        "kind": "quake",
+        "title": "134 km SW of Lorengau, Papua New Guinea"
+      },
+      {
+        "lat": 9.8835,
+        "lon": 123.257,
+        "mag": 4.4,
+        "kind": "quake",
+        "title": "12 km SSE of Jimalalud, Philippines"
+      },
+      {
+        "lat": -57.7514,
+        "lon": -146.746,
+        "mag": 6.1,
+        "kind": "quake",
+        "title": "Pacific-Antarctic Ridge"
+      },
       {
         "lat": 40.5398330688477,
         "lon": -120.668663024902,
@@ -206,11 +255,11 @@
         "title": "4 km NNW of Tsunagi, Japan"
       },
       {
-        "lat": 47.2936666666667,
-        "lon": -113.517,
-        "mag": 2.84,
+        "lat": 47.2371,
+        "lon": -113.5736,
+        "mag": 2.7,
         "kind": "quake",
-        "title": "12 km N of Seeley Lake, Montana"
+        "title": "9 km NW of Seeley Lake, Montana"
       },
       {
         "lat": 45.0855,
@@ -400,69 +449,6 @@
         "mag": 5.8,
         "kind": "quake",
         "title": "150 km SW of Merizo Village, Guam"
-      },
-      {
-        "lat": 63.19,
-        "lon": -150.666,
-        "mag": 2.8,
-        "kind": "quake",
-        "title": "65 km SE of Denali National Park, Alaska"
-      },
-      {
-        "lat": 45.6863,
-        "lon": 26.452,
-        "mag": 5.3,
-        "kind": "quake",
-        "title": "16 km ESE of Comandău, Romania"
-      },
-      {
-        "lat": 39.1912,
-        "lon": 71.5875,
-        "mag": 5.3,
-        "kind": "quake",
-        "title": "7 km SE of Karakenja, Tajikistan"
-      },
-      {
-        "lat": 61.548,
-        "lon": -147.62,
-        "mag": 2.8,
-        "kind": "quake",
-        "title": "29 km S of Glacier View, Alaska"
-      },
-      {
-        "lat": 13.022,
-        "lon": 57.6884,
-        "mag": 4.5,
-        "kind": "quake",
-        "title": "Owen Fracture Zone region"
-      },
-      {
-        "lat": 58.913,
-        "lon": -152.19,
-        "mag": 2.8,
-        "kind": "quake",
-        "title": "51 km SSW of Nanwalek, Alaska"
-      },
-      {
-        "lat": 53.608,
-        "lon": -162.863,
-        "mag": 3.5,
-        "kind": "quake",
-        "title": "143 km SSE of False Pass, Alaska"
-      },
-      {
-        "lat": 56.04,
-        "lon": -150.383,
-        "mag": 3.5,
-        "kind": "quake",
-        "title": "209 km SSE of Chiniak, Alaska"
-      },
-      {
-        "lat": 15.2971,
-        "lon": 119.6092,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "35 km WSW of Palauig, Philippines"
       }
     ]
   },
@@ -470,14 +456,14 @@
     "count": 150,
     "points": [
       {
-        "lat": 13.6,
-        "lon": 86.5,
+        "lat": 13.8,
+        "lon": 86.4,
         "kind": "event",
         "title": "Tropical Cyclone Akvan"
       },
       {
-        "lat": -10.2,
-        "lon": -164,
+        "lat": -10.3,
+        "lon": -163.8,
         "kind": "event",
         "title": "Tropical Cyclone Xavier"
       },
@@ -1376,45 +1362,6 @@
     "count": 0,
     "scope": "United States NWS active Tornado Warning"
   },
-  "weather": {
-    "cities": [
-      {
-        "name": "臺北",
-        "temp": 18.4,
-        "cloud": 100,
-        "wind": 4.7
-      },
-      {
-        "name": "東京",
-        "temp": 12.3,
-        "cloud": 10,
-        "wind": 3.7
-      },
-      {
-        "name": "紐約",
-        "temp": 17.9,
-        "cloud": 0,
-        "wind": 7.2
-      },
-      {
-        "name": "多倫多",
-        "temp": 14.0,
-        "cloud": 0,
-        "wind": 14.7
-      },
-      {
-        "name": "倫敦",
-        "temp": 10.6,
-        "cloud": 74,
-        "wind": 7.2
-      },
-      {
-        "name": "雪梨",
-        "temp": 17.0,
-        "cloud": 50,
-        "wind": 8.2
-      }
-    ]
-  },
+  "weather": null,
   "videos": []
 }
