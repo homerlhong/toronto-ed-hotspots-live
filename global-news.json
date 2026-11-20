@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-11-20T00:08:49.939733+00:00",
+  "updated_at": "2026-11-20T07:35:33.007993+00:00",
   "source": "Google News RSS",
   "articles": [
     {
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "title": "How Scott Parker has used this international break to try to kickstart West Ham’s season - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR09URkRPcWVmNlFCLXRkLXZFSVVXNkpNMVR3MHktVmt5TlJQc0ZqV0FsZFFBd3Bfd2Y0ZTMwMHdUTU8waWlfWGNLMW9lTUlNbU1rbTZ5cXdSYUg1ZVk5OS1EcWQzRjZEQjRqdVk4QmpWVFdOVGk5bmlQY1BYQlQwOW02dXZVcnc?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-11-20T05:27:17+00:00"
+    },
+    {
+      "title": "The real-world missile defense lessons from Ukraine and Iran — and how they matter for China - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWlReEY1NVIxMjh6amJOckVmeGE2dlVSRGxNV0p6MVVNbmlxSmVCRXRtOWpGOWIwUVZRczlDOFRCZk1lcmdXRmVHa2N0MUNwYXZ6aTNscHJvUVZrTDBYVC1jU3gwbF82ZlM1TUpxM1h2TWhDbTRUelA2OFBrcXd2ek95LS1OdW9JaDN0UmdpV2lCRHc2S29NNWd4N2xwTXpuTFkwQVdsSTc5VE5pX2EyTjl2cndERWVmTnZ6MnUtVU1JbHM1aFE?oc=5",
+      "source": "Breaking Defense",
+      "published_at": "2026-11-19T16:33:26+00:00"
+    },
+    {
+      "title": "Donald Trump News: Breaking Headlines and Video on President Trump - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aSmtma1NveGJ6Q2xJUmwxempzNzE2WmxGTUxjMklLVkZheWJrcFNPSGNKX2NRNmRnSnZGNzlWaHVvSmVpTDZCZHFBQjdfTU1RVGVHNWx3RUM?oc=5",
       "source": "NBC News",
-      "published_at": "2026-11-19T06:54:50+00:00"
+      "published_at": "2026-11-19T10:36:27+00:00"
     },
     {
       "title": "World’s top court finds Myanmar guilty of genocide against Rohingya - UN News",
@@ -15,52 +27,10 @@
       "published_at": "2026-11-19T13:07:00+00:00"
     },
     {
-      "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-19T22:12:24+00:00"
-    },
-    {
-      "title": "Runner trying to break world record on Route 66 trip passes through Central Illinois - NewsChannel20",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQakVKQ3g2Y3QwUTd0RHQ1bWVtY0pTcTFDZkNhMmIzOFVYRllMR25XN0NNTTBTWDJHOGhkVmdkY19Ya3ZteU1yRU9LTnRDSmRiRTk4SlZKeXQ0dGQ4b3UxRVcxeXFHY1VTa0t0RUw1Y3B3XzNWanJJSWJ2OEdzUVYzbWp6emtzUlJjbS02dW40MjZkQ3dNeU1feEY2ejJxY3JmT2l5WnpvZUl2UFdGNlUtaVpaNzZkS0tnUUsxTjhrSlRQUENtQ2IyQnRoVGxhNTdPSW94c3NTUlF6ZmdEekhmVU1MUnVzMDQzX1JEZEx5MVlVSjNSZ3YwcDVlb2ZIUnpHYjk3c3JB?oc=5",
-      "source": "NewsChannel20",
-      "published_at": "2026-11-19T22:56:00+00:00"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-19T15:58:58+00:00"
-    },
-    {
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHVhOXZJckQwZHVKTl95bzkyLU8wVHhvUEFnQnZoTHlkcVJ3ZC12VUlwZ05ZMU9oc09LNzBsVjJQTDhkMEU3V1lIZ1ZFRTcwcEx6MF9oRGwzb0lVUm0xWGpKVEpwOFpyMXhrS1ZIdnR2cUhrZi16eWhKVFpvLXlrNVpacw?oc=5",
-      "source": "NPR",
-      "published_at": "2026-11-19T12:29:41+00:00"
-    },
-    {
-      "title": "The Latest: Russia is ‘comfortable’ with NATO-like pledges for Ukraine, US envoys say - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhqZWVpWm5fdzNrZlgxRFQ1Q3RwVTlCNXpxV01ULUZMTHR2U3ZTa2o3TnlGOWdPY3hNNGgwcFJSUFhtbUMybXE4MkdvMWxsNkNVMjE5RXpNSTdmM1BKeHRYdWNYYVlfZVZhVm9sT21mYmdZNUV3bGRBa2Uzblg3a0c2c3dTN1lPU0xPOEgxT05VSkNFVWt2dW5aWVFuQQ?oc=5",
-      "source": "News4JAX",
-      "published_at": "2026-11-19T10:12:48+00:00"
-    },
-    {
-      "title": "Season of dominance: Langdon secures second Top Fuel world championship - NHRA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjBBNmF1WE9DZXJsb25SYXZJVGdNUG5TLVB6UEl1cm1PVVlLc1laTnNLYzNzdmgyZ2JRVUZUV1hna0FCeERWNGVHX0l5djdDZ3J3N0V4WmJVUnNNYzI2VjNxQ0NaRU9PQzAtQVBla25FdlZXbTNzaDJxV1JMb29DYl9fazNGTENjNmY4b3YtY3JOTjlhdnJtZmRLWDdzMlU?oc=5",
-      "source": "NHRA",
-      "published_at": "2026-11-19T19:18:31+00:00"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmV3ZHFqcUdsMFBzaXBCa243Y1Bua1pja3VXUGMyaHc3NUpCbktpT3FybVZTTHh3MFJTSU9QckpoRE5zNzRfWDQtSU9Wd1dhdlUxR3VGMjV2VlhsLWZPRl9paDhWaWlQZUZhUGlVbWtxc0pNNnlDMFFaZWs3dDQtOTJSUzVnMzFQN1hUWDgzNV9rUWFncUlZREhsbi1Lc043a0wyMWV5MThpU0lNS1E?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-11-19T11:08:00+00:00"
-    },
-    {
-      "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORTNtRHI4YkpVVTNoSDRQcDZsUWJLWUREdWVhcXd3SHcxSnJITGlIdWFad0NJTVZmcUtmcjVhX3pDYnpFVE44LWZ1R0hjYXdUYllqQUtKWW13Vkc3Y1BkdjFvNWhnbkQ4eWd1VlUzNmZ5VW90UFg4UVJNZmlxQllZQlNocU9acGFyOFV1Z0ROQQ?oc=5",
-      "source": "ESPN",
-      "published_at": "2026-11-19T13:00:00+00:00"
+      "title": "What is causing America’s recent outages - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDJ3WllQREF3R3VjZkl1a01jY1F5THhKa000bGw2MTY0ekJKVGZSNEx3b0NYYUJpWVotd3BNa0pPUEtoT3pCVFc3a3B0OGxMQVhMYWtUTGtSU3puZDdDanZsczNpbGpCZElGRm1DT0tMUTVBTTI5VGtGU3BzcDFLcEhRNTlZVWk2YXNBekhKelZYdjd5?oc=5",
+      "source": "The Economist",
+      "published_at": "2026-11-19T14:01:02+00:00"
     },
     {
       "title": "Breaking News: Honor the Earth Leaders Arrested in Senator Thune’s Office During Protest Against BAAJA - Native News Online",
@@ -69,46 +39,40 @@
       "published_at": "2026-11-19T19:49:28+00:00"
     },
     {
-      "title": "BREAKING NEWS: Xi says China, Russia, U.S. should jointly safeguard world peace: Xinhua - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZmhQc3VNbVlPSkpPS2k4b2pxVVppMVBtZml6OHEwWktsZUQtR21jbDA3X2FjaXl2aTlPX2RqZVN1SmhTVWZrZllwbHFONE4wWGhwc3Q2S3k0QQ?oc=5",
-      "source": "Japan Wire by Kyodo News",
-      "published_at": "2026-11-19T08:55:00+00:00"
+      "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-19T15:58:58+00:00"
     },
     {
-      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-19T14:36:22+00:00"
-    },
-    {
-      "title": "Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05RFI1UXR5alZLUGZrOEVjR1RnR3FxOTVqU3hYRTFiRkU2UXF2bjFMRmFUN2dDeXlfUWt3REJvY242b2l4bFh5ZHoxT04tUjhFRzR2MF9mbC1WVTBNeG0zSU9LN3pNdHRnT0dYTW9WWQ?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-19T02:04:00+00:00"
-    },
-    {
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-19T12:16:56+00:00"
-    },
-    {
-      "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets - WLRN",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmZtcXVwemxHd0ZqM0dnRWc3TDhRLWxHME9GbllvaG5OaHVrS0NtZ1dreGl0ekp4eDlud3IwdEpXaFVYTllFRnV1ajNsbzRNRkNlaEVUbWpLUWloU1RxMDVVbkV3VmJ2U3k3YTNHMDJrM1puVk8zOWpETUp4ZS1GbkFEYW1rMVA0aDgwTVZfd0FKbm5SWG5LdEVXLUNKUzY1Q0xoTXRmb1FoYS0xYlZ0cFJnbXpuVzlyMm9LY0JVb0U2dE5ZUGc?oc=5",
-      "source": "WLRN",
-      "published_at": "2026-11-19T12:26:00+00:00"
-    },
-    {
-      "title": "PODCAST: Anthropic's blockbuster debut, Trump-Xi-Putin talks and a Rohingya genocide ruling (Updated) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEg1bHdncVppdkFQcVVxMUEzUlkwcHFGaXdVMnRmeWNKTU1aTnNaQnFwN0QyNVY1N2hrc2EySXAxZUZMYWZqUUoyYXRteldWUVBqVktaWmM5bW11MFhWdFBGT1U3NjFPeUhab1JMZmwtYnEwZU1wVUNwRVdqYk5IZ0pPM2ZPLUhaeE5CUnNqSG50cUgtTzBucHBnRjhoZHJQR3kwSTN3?oc=5",
+      "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-19T21:35:57+00:00"
+      "published_at": "2026-11-19T22:12:24+00:00"
     },
     {
-      "title": "Takeaways from the historic summit between Trump, Xi and Putin - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2FweW54ZUNQUUZJLU9sbDJ0MS14UTdWNllDWkRfS3ZlN1VMX3pxV2ZwcFVsam9ObV9zOE1LYWxGQjVYRGV3VkZTZTUxZmx6ek5ObDdjQUxUb3pDQlVJWTNZS0REeWFSREllSFB4Z2dLeWRndEJLUzJHdGpLVEdmdWVOR0tuUXVjZFhUR2RFOTcySEp6TDZyM3AxYUdmX2tsSEFSRG5VdWNKUUdOVUE?oc=5",
-      "source": "News4JAX",
-      "published_at": "2026-11-19T15:43:51+00:00"
+      "title": "Latest news bulletin | November 20th, 2026 – Morning - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWG9UTGV1ME11MmZnblRJbTU3QlZ1TEotRWpMYTYwa0hpSlI1SFZyVTJhdV9hbHJnczRsNU9Hamdyejhtc1c3dEhfTjFGSW41eU9hZHJZXzc1SWRTbGtQYl82X1QxSWwwTS1xMlVUTFEwXzgwNkRaelFoTl81LURha2VkX0xSbGUwVjJkVGtQZFA0dHgwQnc?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-11-20T06:00:32+00:00"
+    },
+    {
+      "title": "Runner trying to break world record on Route 66 trip passes through Central Illinois - NewsChannel20",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQakVKQ3g2Y3QwUTd0RHQ1bWVtY0pTcTFDZkNhMmIzOFVYRllMR25XN0NNTTBTWDJHOGhkVmdkY19Ya3ZteU1yRU9LTnRDSmRiRTk4SlZKeXQ0dGQ4b3UxRVcxeXFHY1VTa0t0RUw1Y3B3XzNWanJJSWJ2OEdzUVYzbWp6emtzUlJjbS02dW40MjZkQ3dNeU1feEY2ejJxY3JmT2l5WnpvZUl2UFdGNlUtaVpaNzZkS0tnUUsxTjhrSlRQUENtQ2IyQnRoVGxhNTdPSW94c3NTUlF6ZmdEekhmVU1MUnVzMDQzX1JEZEx5MVlVSjNSZ3YwcDVlb2ZIUnpHYjk3c3JB?oc=5",
+      "source": "NewsChannel20",
+      "published_at": "2026-11-19T22:56:00+00:00"
+    },
+    {
+      "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORTNtRHI4YkpVVTNoSDRQcDZsUWJLWUREdWVhcXd3SHcxSnJITGlIdWFad0NJTVZmcUtmcjVhX3pDYnpFVE44LWZ1R0hjYXdUYllqQUtKWW13Vkc3Y1BkdjFvNWhnbkQ4eWd1VlUzNmZ5VW90UFg4UVJNZmlxQllZQlNocU9acGFyOFV1Z0ROQQ?oc=5",
+      "source": "ESPN",
+      "published_at": "2026-11-19T13:00:00+00:00"
+    },
+    {
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHVhOXZJckQwZHVKTl95bzkyLU8wVHhvUEFnQnZoTHlkcVJ3ZC12VUlwZ05ZMU9oc09LNzBsVjJQTDhkMEU3V1lIZ1ZFRTcwcEx6MF9oRGwzb0lVUm0xWGpKVEpwOFpyMXhrS1ZIdnR2cUhrZi16eWhKVFpvLXlrNVpacw?oc=5",
+      "source": "NPR",
+      "published_at": "2026-11-19T12:29:41+00:00"
     },
     {
       "title": "Putin criticizes 'disregard' for sports ruling after Russia barred from hockey world juniors - News4JAX",
@@ -117,58 +81,88 @@
       "published_at": "2026-11-19T15:53:32+00:00"
     },
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRGZnZ1Z3V09QbmtGZ1VhVU5oVjItbEE5UFFHbS13M2Rzb21KZ05zZkdyRlFfekdEcDFoTWwzUV9JUmQ5MTZEU016WXVUWFgzYllUSGlQOXE0d2c?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-19T20:07:02+00:00"
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmV3ZHFqcUdsMFBzaXBCa243Y1Bua1pja3VXUGMyaHc3NUpCbktpT3FybVZTTHh3MFJTSU9QckpoRE5zNzRfWDQtSU9Wd1dhdlUxR3VGMjV2VlhsLWZPRl9paDhWaWlQZUZhUGlVbWtxc0pNNnlDMFFaZWs3dDQtOTJSUzVnMzFQN1hUWDgzNV9rUWFncUlZREhsbi1Lc043a0wyMWV5MThpU0lNS1E?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-19T11:08:00+00:00"
     },
     {
-      "title": "Iago Machado, of Brazil U17s, on his first World Cup and title hopes - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXZzdzdXckJveWVGdjNlUXRQU3hQVHdnb3BGZWZxYXpJb0tLall3SHBIZTJVbldtMi1WZUVScHFyR2JrbUd2V0Uyc2ZIRkh2aDh4cDV5c3NZZU5VWTJXOUREMDdHSXpkVnE0Y1lsNHJIZl9fVXc1Y0YwbmdpRnF6RE5qWnRxdw?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-19T20:28:00+00:00"
-    },
-    {
-      "title": "Latest news bulletin | November 19th, 2026 – Morning - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZvUmtaVzlIV0VDVWpxcTBLRnh6U2oxSk1FcC1Qak8xUTdsZDQwQU92c3hqclNfTFpQVWxjcExJamdrcHM4WmdSd3VUSWlUQl9TWkg2NUpQd1pIaDR6RnJvR1pqMWdvcjhuNEI0REk5Mkg5QzdUd1JJSUMteFVQLWozYzlDM3RYR0RYUHpsS2M3Yk9Jb3c?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-19T06:00:00+00:00"
-    },
-    {
-      "title": "Historic Victory: New York City Mayor Signs Horse-Drawn Carriage Ban Into Law - World Animal News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMEROaTNLbUw4ejA0Vko2TGpQbWJlcmVNc01WSGplOG5YWVBBcG9IeFpIMExzbnhtbnN3VjBSZHhLNHdfeVl1X2VYRDUzczNTZm1haWNLeEl6OExvUl9tUTNhZ2JveG1VbmM0UzZ2STFmNTJwbHU5WVRtUjAyU1JzWnhPMkZ5N0ozaU80WkQxWTRWOHJsNzIxWDZLWHRJSEN0Y1pEUjRZamhsbjRZQVAzMVdB?oc=5",
-      "source": "World Animal News",
-      "published_at": "2026-11-19T18:58:48+00:00"
-    },
-    {
-      "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0RJb0ZjYlNhVE9IQVJIUlpkdkpJT0QyUl9aT3psMnNXSm95WXN5RjdaUmN5Y1FqSHROTmxMOUNDeVMwTElwT09oT2E4amxMRFAtdnZNeUZZU2xuODZmbVdJc2xETGpxai1UTHg5TkJHSHZSSnpBQkRNM1BUMjNoMXhkemdrLUlEQlJSTWZtdS0?oc=5",
+      "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
       "source": "The New York Times",
-      "published_at": "2026-11-19T16:34:00+00:00"
+      "published_at": "2026-11-20T01:45:00+00:00"
     },
     {
-      "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-11-19T05:17:00+00:00"
+      "title": "PODCAST: Anthropic's blockbuster debut, Trump-Xi-Putin talks and a Rohingya genocide ruling (Updated) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEg1bHdncVppdkFQcVVxMUEzUlkwcHFGaXdVMnRmeWNKTU1aTnNaQnFwN0QyNVY1N2hrc2EySXAxZUZMYWZqUUoyYXRteldWUVBqVktaWmM5bW11MFhWdFBGT1U3NjFPeUhab1JMZmwtYnEwZU1wVUNwRVdqYk5IZ0pPM2ZPLUhaeE5CUnNqSG50cUgtTzBucHBnRjhoZHJQR3kwSTN3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-19T21:35:57+00:00"
     },
     {
-      "title": "World Cup winner Juan Mata retires from soccer after previous stints with Man U and Chelsea - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWhrdWM2c2hiT1dHcGJZTXVfZGdydUxfTVFmb1ctdWp3Ti01ZG1pS0tpWlo1bGpPODhkZ1NMNzJwQ3BQWTVzcUh5LVI3b3dRdXhfUzgzLVBvY3pqMkVPWENRM3MzaU5EVGhzQ2pGTE1GbHB6a0dTQkZwWWNHUm5TdQ?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-19T00:57:23+00:00"
+      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-20T02:54:40+00:00"
     },
     {
-      "title": "Manchester United pursuit of Nico Paz boosted by Mauricio Pochettino arrival - Paper Talk | Football News - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBobHhRdWhYSTVUMmdLRUdNTEpZdXlWMTU2REstbFYzRjB6RVFReWNDYU1mT3BjQmVab1pnZUtINzZDYkZBYXlvdXFOY3lKSEgyd3BqNURCWFFOVUVGN3ZtTmF4RExRQQ?oc=5",
+      "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGxtMFpOT0ozWXdzTHRrMS11amxUNlFsZVg4RmNKWnZHeXcxUnpOX3lOTjRNaExxTE5ESzQzeWFqdjZLaVR4cFpBd0wwSUNVVUd1V0FwZlhSN21xS1lNa2pNNXBmMGhISjI5b09KbzhSczRJNENKMzljd21jUElaMVczTnVhMnN1RWlCSHZmMEpPcmN6dEJ3N3J6QWxLZ2Zsek9na2tJVW1hX1lJeWtGVFZnSjlmLU5aNXNoR2ZYT0VhenFBY1hDZlVHQndRMVhwdExoSGNOaU5YZU9yRUE?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-20T06:08:23+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-19T15:41:26+00:00"
+    },
+    {
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-19T23:05:59+00:00"
+    },
+    {
+      "title": "Video. Latest news bulletin | November 19th, 2026 – Evening - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnhuOElzZmJiTThJcHNBM0hUWTl0WE5FWlRoV0dwYXpXVlBSNWVmMUJXVXJ2bHFuTFRKSlJuTlQ5Szdmc0JfOGttMV9JRTM0TlFQR1hmTkRYN2F1bnNrMTF5LXZsMnhYMV9hdnludFZrbEkzTzdkRE1HekpHZF9SZTFGQURuR1hWTmhMX3NySVlOeHM?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-11-19T17:00:26+00:00"
+    },
+    {
+      "title": "BREAKING NEWS: Xi says China, Russia, U.S. should jointly safeguard world peace: Xinhua - Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZmhQc3VNbVlPSkpPS2k4b2pxVVppMVBtZml6OHEwWktsZUQtR21jbDA3X2FjaXl2aTlPX2RqZVN1SmhTVWZrZllwbHFONE4wWGhwc3Q2S3k0QQ?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "published_at": "2026-11-19T08:55:00+00:00"
+    },
+    {
+      "title": "Chelsea news: Caicedo possible injury, international break good and bad, and more - The Pride of London",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQzJVdDZHaExKUTU4OEh3OVlSS3JJa0xZQkFSVzVRT0E3bVhpVU5McGRXLWo4S05aOFQ5Vno1dFJGS1F4eEhJcVFpUHJucUUySVh5M25wM3NYYmxnVVlnd0VtcnBnWjFuX0d6U080RF96VzRtN0ZiV0lZN3Q5dXhRZy03dHRPRnBscEtfYm5FY1dYYkZLUjhrSHJ4OTJ6d0NfaDBXZU5NVkxzUXM?oc=5",
+      "source": "The Pride of London",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "title": "Fulham pushing to extend contract of Man Utd target Calvin Bassey - Paper Talk | Football News - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOWxieUxocXlWQS1JdnpRMElROU5iTDZKQldRV2hBeDZaUDZockZOYkxFY25lTWlFUy1tV1dTWkloR3N4WkQtZjRrcG1vZGRBUFV1eDNVRlJnc0pQQXFueWJZMlhUOWRwQTV0STRjQVhqSFhpN2l4bmZuOEM5WEw4MGJ0Vm1OOWNRbXRpdEJ6SlJjMmphQVYtbWJpSy03bm9Dakl5ODZzemZfWWZGNGhneXVqTEpncHlodnI1YzFYbGtCTW1TNTVxb0RscVIxcHR3bUdBM3YtMA?oc=5",
       "source": "Sky Sports",
-      "published_at": "2026-11-19T04:29:19+00:00"
+      "published_at": "2026-11-20T06:35:45+00:00"
     },
     {
-      "title": "Web3 Breaking News: AtlantisChain RAPIDLY Surpassed 1,400,000,000 Blocks Within 519 Days of Operation and FIRMLY Holds the World's #1 Fastest Position in Block Time, Finality, TPS, and Block Height - 24-7PressRelease.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQVWZRZU1jNFFCbi0xTVA0TVNqUzZ1ZXdWd0oyWjFRTVU0WU9fMTVWdm5uMTBOYzNBRjFaVkFJbVhoMUU1aU8zMWtlNUdOR29lNWxHc01RTUpjM2lLS3puLW45R0V5cXJjMThNWkFEeDhkV2poaVIzTDJnUnpGZ1NxaDFpaTZfdUhlVnJjNmYwRms3SjA0bG1yMVBSQlJMZlg5cTNXcWtSdW9leEdja1ZObVpGSkRTQWsyZG5kQ2dabG54MzRtY3dwZEs5S3g4dTQ3Ukdud1FOUDVhTW5Sd3VOS0FWQkYwNmh1R0NVVmFZTXNtVmswdE5xWFhMMzFFb0xMbUsyWkJqV2txNTlrQVJaUHhUaWNpNzZLZW13NWV5MzVnUDd1YUZfWDhnUVNFMjJZRWlQanFkU2JJNURlcFRDaUliVjlJcTN5cU9NSlpJY0lRak5ha2ZVSWdQMmlTblE?oc=5",
-      "source": "24-7PressRelease.com",
-      "published_at": "2026-11-19T07:04:38+00:00"
+      "title": "Prince Harry, Meghan Markle face security unknowns as world marks anniversary of Princess Diana's death - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3U0Ykt4WG5GVVBXd3Q4bllYbVlHbzk4OXZLSXVRR3dNMlE5UnJvQTM0VGFFRmRZQ21BMTRSN3BiMzN4VXF5bXlhYVRCWVViaFJ3Ry1DMkt0MW1VcGNaVERQdkJJTUFPQUJsSVJYbk9NanNmR080V1VEcjNWZHMxVDFHb1RSM21NbjJsUDgtRmpmOWswd0pGeDg1UDZMU1pqLW5WWXYxWl9Ld9IBrwFBVV95cUxNMjJxRG5kNTdLZ2RpS0NndS1qazFxWS1raVNiQWQxWFRiRUdaOEZhWEZYUmExZzJwUUJtWjRwbFRIN0xMVWtBMGlNbFhLaVNfamppb2ZTd1poZ25qNEpVMnB6SXU0MHUxSXJ5cFliakJXMzhlakhZc05UcWFoYTliRkRlMFlzOGMtVDd6WjZQUjViUk5JQlFwR0N4SkVpYXhRV0o1RjFvNldHc25TLW1n?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-19T08:29:41+00:00"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02SExCZjF0aGNsbWNpUWl3aXlQbXliOF9LWDJjaWZCcllCaWYyOVBPUjNXZU5jaXpxS2VtalhramtkV09yczc1d293NVo1enlXem9XT29TbEI3ZU1KX3c?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-19T16:19:23+00:00"
+    },
+    {
+      "title": "World Breaking: Canada declares Gangster Goldy Brar most wanted fugitive, declares $25,0000 prize money - Babushahi.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONk90NzdKZGh1VXJWM1kwNDM4aGt4Tjd3YW4zaVNRYllvUXE4dlduTUlRRS1MSHdLTkxRX0h4THotY19lMTJuVlZQMzNKMUVHdGlhd0h4LUJrbVk0dWJFLWw0LXV2VGZXYVpVTjBWR011S0M0WkNZekE1VWgyRzZGbjk0cDNqVl9lN0l3TWVDbktnbnhCUloydjJfTVhBaGkxbGNKNDg0WlhZMlVUSmtDRlNIWjFwZUNpTFVsRGpGc0psdHJXWUpYd1JzRTJkSjBYNXZweWl0ckR5dFBRSU96alUyVDZnaHhlTFFZMEM3bXhzRm5S?oc=5",
+      "source": "Babushahi.com",
+      "published_at": "2026-11-20T03:22:00+00:00"
     }
   ]
 }
