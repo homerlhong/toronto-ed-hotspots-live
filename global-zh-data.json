@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T09:09:18.791391+00:00",
+  "updated_at": "2026-11-20T17:59:40.587865+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
     "space_weather": "UNAVAILABLE: 1",
     "tornado": "OK",
-    "weather": "UNAVAILABLE: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "weather": "UNAVAILABLE: HTTP Error 429: Too Many Requests",
     "news_politics": "OK",
     "news_technology": "OK",
     "news_finance": "OK",
@@ -15,6 +15,18 @@
   },
   "news": {
     "politics": [
+      {
+        "title": "周文星：三方會晤重在危機管控為世界增確定性 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QZ2RrVDVJSlJQMTl5enQyblczNzB2VThrLWZHWUFNVlJGNTNRRWw2Z19EbFFDdTRId3hJYnFBLWpCZTc3UkR5S3hYTHJhSGVYUUJnVEFZakVSdmQ5cFJrV1pqVHhHaE0?oc=5",
+        "source": "中國評論新聞",
+        "published_at": "2026-11-20T13:14:44+00:00"
+      },
+      {
+        "title": "台灣忙反滲透卻輕大陸研究張五岳示警 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WTFdFeE9fWmNJc0xRb3JpbEZQMldBVmhIcmtTN3ZyVnBGYXR0XzJjemZ2emJ0eG9NV25vUlR2UXFlQ1Jid00zT0VaOTRJTXQzYWNpZ1pqcDZ3U2ZmZ21oNDlJY0NsdnNLNFlmTEZhZE8xYkk4WUxyRzEyaWs?oc=5",
+        "source": "台灣中評網",
+        "published_at": "2026-11-20T16:35:04+00:00"
+      },
       {
         "title": "從國際政治學的觀點解讀《吉伊卡哇電影版》：爭端從何而起，又為何永無止息？ - Nippon.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtdXpId205RENwdGtiQnhkdGhNc1dlckEzbkNSaVZLaHR6TGtLaDg0a1djRE93bjlvQjRTeThxRlpNLXZPYkpzR3I5WV9CaGJPNjlJeg?oc=5",
@@ -50,18 +62,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13bzlWY0ZrVUFWVXROS3JrdHJuamdSMEI3WWFKaXlHclpfcHdZcVV6TkJXVHN5d3U5SU1GaW5Ba1ljZkdoZG0wU0dSX250c3FEVlBUOXBYNU8?oc=5",
         "source": "Rti 中央廣播電臺",
         "published_at": "2026-11-19T22:53:58+00:00"
-      },
-      {
-        "title": "美中俄世紀峰會達4原則共識重大分歧卻依舊難解- 國際 - 華視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETVhrYkMwYU9OR1lMRVFvanZabE45a0NpUHNqekRBcHg2ZnYzX3czSWxZYWkxVjBLSFpYcUlhUml1ZU91ME9qV2l1T2RTWHhyZzRzMHZNbEEzUFFxOWNfWHEyNFVqSE9WYjV6d0xfYVQxOGNaWEpvTw?oc=5",
-        "source": "華視新聞網",
-        "published_at": "2026-11-20T05:05:00+00:00"
-      },
-      {
-        "title": "風評：中俄贏家歐洲大輸家，台灣警惕大國政治回歸 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVWp2c21GSUVfcDJuZGJlZ1NKNWlWVjF5aHI2Y3gtZmcyMEtJU0ZPWTEza1dhWUNEdkJuM2RmTlJZbEZRTGNyTkFSNEJBWmZTUFBWNWdtSVR3YU40UGZtVXlWZWlKREM2OVlUZ3M4bUVUU1huOUViX0xyRWxkU1cxTjl2dVJVVWJRcGJrT2xyc01zdGtDMHd4d09lUUYySGRvWW5NakJlSmJELXdmY05rVnpVZGdKX2k4aERFd2xVTURLTXNFOWlpUzhIWVdVTk1XeGtVVExpbWlnY01oMDFSRnItOEdISlZWMmN0YnZJSFNwWEJrcV9rc1Q3djBiOGxYUFZBdW1xOVlqb1JNNEQ2ZlY4QTd3LTBDdUc1WlVUa3RIdXlsX1VkOHJBYkRxeVRfWjlsLTdDVDNUVS1NdmtLRTU4LWdjTlZDU2FqV2c4QjBCUQ?oc=5",
-        "source": "Yahoo新聞",
-        "published_at": "2026-11-20T01:31:14+00:00"
       }
     ],
     "technology": [
@@ -78,22 +78,16 @@
         "published_at": "2026-11-20T08:44:23+00:00"
       },
       {
-        "title": "日本企業逾九成擁抱MSP外包資安 AI防禦成最渴望支援 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HWEpDc3h0c1pCbm9uaUxpRGFWbjNveXdXd1lWaEJqeTkzYzJYWFliWUk3bDdDcXF5ajNFUF9ldzFSRTZoYklOci16TmgxZkRwS1E?oc=5",
-        "source": "蕃新聞",
-        "published_at": "2026-11-20T07:41:00+00:00"
+        "title": "Arcfra AECP 7.0 全新升級，突破 VMware 替代限制 - 資安人科技網",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEg4ZE9hTkRuYldtdnhJajkyRnlUX3V5Z0xHRFoydmNqaWtYU0RqSi1jMmlfalAtYjZHVWNIaG1YbTVEWEVNWXN0VjNMMWl1cTBXa3NxNHU4VDI3TlpNajhvQjk4UUFzMGVMUVJ4M1htWjNobWM3TXU1aTNFcFNDWU1R?oc=5",
+        "source": "資安人科技網",
+        "published_at": "2026-11-20T04:01:30+00:00"
       },
       {
-        "title": "擺脫專家依賴、縮短 IT 交付時間，朋昶以 AI 打造自動化交付新模式 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tb0pKeVIyaFZYU3NfN3dZYWFZQ00xUll5X085N0lLRTNmN3l0eUJ2Z0JmVkRmejFtdWhYbnpTNHE1R3N6SU5HYzhUSQ?oc=5",
+        "title": "【資安日報】11月20日，VMware修補已遭利用的vCenter重大漏洞 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nQVZNY0M0dHhjcGpVdUltMk9kaE4xd0lWb3lxTFk2Mk05Q2ZKR3hEOWZXVFNWS2tVVUQ2MUZ4WFl4eV9EM3ZhZFZMWFVnQQ?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-20T03:49:39+00:00"
-      },
-      {
-        "title": "零壹拓AI服務商機，推JADE平台 | MoneyDJ理財網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92RzM0cUcxaGFGT3dJRzZKbmI5ZzlxYzZ1Uzk2LW0zbk5sUXI1RnZ6WWFEOFkwTkt0NjZ5bHBwU05KdU9CWWJwWmJpVEV5TGFRd1VJSjZn?oc=5",
-        "source": "LINE TODAY",
-        "published_at": "2026-11-20T01:43:42+00:00"
+        "published_at": "2026-11-20T10:05:42+00:00"
       },
       {
         "title": "全一電子集團導入Oracle Fusion ERP 以「資安內建」推動雲端轉型優化跨國管理、奠定AI應用基礎- 科技新聞 - PChome Online 新聞",
@@ -108,6 +102,12 @@
         "published_at": "2026-11-19T22:51:53+00:00"
       },
       {
+        "title": "擺脫專家依賴、縮短 IT 交付時間，朋昶以 AI 打造自動化交付新模式 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tb0pKeVIyaFZYU3NfN3dZYWFZQ00xUll5X085N0lLRTNmN3l0eUJ2Z0JmVkRmejFtdWhYbnpTNHE1R3N6SU5HYzhUSQ?oc=5",
+        "source": "iThome",
+        "published_at": "2026-11-20T03:49:39+00:00"
+      },
+      {
         "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元 - iThome",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQQ2gzOTNrbnpxTWFxQkZ0cG5fQ1B0N1plYzBucENvOHFFWnloMXE4dVZOMjRxX1dGMGczeFBjQUtTUVk2Ti1KWlJCSHR0Zw?oc=5",
         "source": "iThome",
@@ -116,16 +116,34 @@
     ],
     "finance": [
       {
-        "title": "全球經濟指標 - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-20T06:21:08+00:00"
+        "title": "AI泡沫隱憂疊加升息預期 全球股債匯市爆發拋售潮 - 民視財經網",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DVWNTelR2WkdvVTktZExIdWdvQklfa0cydDFPRG9TVU9kdTJNcC1VeUhxUmlCcmE4cE9FWE9fb01tcy1SLTJEYjJWUU5jN0tGU1ptd0RaU3pLUldNenpVWVdONXRXdw?oc=5",
+        "source": "民視財經網",
+        "published_at": "2026-11-20T15:08:25+00:00"
       },
       {
-        "title": "Anthropic 上市難救行情，日股暴跌逾 3,000 點 - TechNews 科技新報",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmtVeFJ0T3paeW05MGY0R2FWSFBCTjNzV1Z4RzlzX183WmFTSjVfTHNwOVF5SjJfb2JhcU5vMUpYOUFLOVZzaGJ1SFRvaklsMUJCcXRWU3NvTWlnTVBveW9VNFc1YXdDb0YxMUkydjRSS0ZmUnhuM0lGS2t4azg0SEp3?oc=5",
-        "source": "TechNews 科技新報",
-        "published_at": "2026-11-20T08:50:25+00:00"
+        "title": "美元化身全球市場拆毀鐵球 非美股市與大宗商品承受重壓 - 商傳媒",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNMmdfMVlwSmY0c3NRQkU2NkxmNWJiSmZjVzMwUlRRNFdsMWFMTHZfenRqM1pSaTI5NkZwMV81eU9hdG4xZlFNdWNLbUxvR3RTSk5fa0haRFRVS0tycEdjM3h2WkZ4OUZvT3g2YTVXSEozVDRLNm9lTWhSRVBzUXpVVVpzb2V5MktBZmYxOHZUX0NfdjlJUV9mZVU2XzRENHA4amMyWTZFYXQxdWJWZkNSenozcXFMLXh5UXA0NVJSbmtKdGN5TEY0YVNlWUd5c29WWVBnZ2ozcXJ5U1JfU2QtbTMzTy1GWnloLWZmOVBhMV8tMlp1bUdBRzJPU0pERDBseDZSOFVCZklTdDZobU5OeDRhR3JLdzY0cUFVYXZmTEJleVZieGtSeExhVjlHU19tT3RFaEZYTkJxMVo0QUpzVFdQbEdDaEdFUlZqNTNtZW1Pb19mY3FSQ25IQnJSS3F1b3VlekVTTXJWUF9rdUNVLXhLY2RpZmRwdWZQRVp3SEk5ME0wWEF0alF4ZkZjdmc?oc=5",
+        "source": "商傳媒",
+        "published_at": "2026-11-20T11:04:12+00:00"
+      },
+      {
+        "title": "台股連日暴跌 政院：卓揆傍晚聽取簡報 明續開會研商因應對策 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04Q0NaX0dza2djWFZEY181ZkMzOHFXbFRwakZ0ZmhQMjhETFZuVHNmX3FuZWZXbUhZYzhJbkpWTHZUaG1GNS1kbXVKUE1CTkdrZlFjV2Y3aXZ2VjRVN2tv0gFfQVVfeXFMTThDQ1pfR3NrZ2NYVkRjXzVmQzM4cVdsVHBqRnRmaFAyOERMVm5Uc2ZfcW5lZldtSFljOEluSlZMdlRobUY1LWRtdUpQTUJOR2tmUWNXZjdpdnZWNFU3a28?oc=5",
+        "source": "經濟日報",
+        "published_at": "2026-11-20T12:18:12+00:00"
+      },
+      {
+        "title": "行政院：明召開會議因應台股重挫國際情勢| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MUUxjOWRVRnVHdkkzWU03WlFRVm84VTdGT2NEaWNRcUVqUUtCSlFaWFNVcmI2cG5kaTM3d1YyZ0NLSk5JZW1tS3Z5bWJwTkg2TUJKWkhIb1UtNFU?oc=5",
+        "source": "Newtalk新聞",
+        "published_at": "2026-11-20T11:49:11+00:00"
+      },
+      {
+        "title": "MoneyDJ新聞 2026-11-20 10:51:43 陳怡潔 發佈 - MoneyDJ",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWhhMENLZ3plM092OWRXS25PcjVPWEJ4bVFJLTJEdHBMUnVKSUpnN0Y1Rm1QNEtFYko2M1BVOXNBYjVnMDduUUFlcTNtN3Y4d0tCSkZYMDU2VmpTNTV5eXRyQVdFdTFEdmpjLXZkQlZGQnNOUGR2elFlb3ZuMWVSWG5EcFotZnpqQURTVHhvRXEtcGs?oc=5",
+        "source": "MoneyDJ",
+        "published_at": "2026-11-20T02:52:54+00:00"
       },
       {
         "title": "Ondo Stocks 將於IPO 當日推出ANTon，支援 24/7 全天候鑄造及贖回- 國際新聞 - PChome Online 新聞",
@@ -134,42 +152,122 @@
         "published_at": "2026-11-20T07:32:00+00:00"
       },
       {
-        "title": "投資大師克萊門為何決定出清持股？因黃仁勳風暴觸發美股轉空訊號| 全球財經| 全球 - udn",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MYmtRdWdMUGduOWRid1FHaDNxTlNCM2ZaZUIxV3k0SUlhamc2Nk1rc2VyellIUVdsbnVDckRObm41Vy1Bc1BzU2xkLXAtXzJXcGpYQ0F1WW5DbUhYWEJnTkhVRmVfay1ueDlPWlVDZi1fYzRtZHkzR3pLcHY?oc=5",
-        "source": "udn",
-        "published_at": "2026-11-19T14:26:12+00:00"
+        "title": "本週台股市值蒸發25兆元　全球排名退居第7大股市 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tZzBTcExhZW1VQ3dISk1yWk9LQjR6M3FkYW5FVHJONzBOUmRTbkdrQnh6X3BzcE4yOVJWZGhJd1VBcGtISFBrc3RrUmthbnhMd2praFNhNXBlQ185X2Zn0gFfQVVfeXFMTS1nMFNwTGFlbVVDd0hKTXJaT0tCNHozcWRhbkVUck43ME5SZFNuR2tCeHpfcHNwTjI5UlZkaEl3VUFwa0hIUGtzdGtSa2FueEx3amtoU2E1cGVDXzlfZmc?oc=5",
+        "source": "經濟日報",
+        "published_at": "2026-11-20T09:54:39+00:00"
       },
       {
-        "title": "花旗校園徵才競爭激烈 預計整體錄取率低於1% - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41MXBhMVZ2N1NCSVRjS0NNejdiMW9oNWxRNXlSMzgxd2RhaXltSEVXVC10bjdYZU9IV3dtTF9CN3VnNDZDQjdtMjFIYmlpWkZt?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-20T02:52:21+00:00"
-      },
-      {
-        "title": "2026台灣周圓滿落幕！45場活動吸引近4萬人次參與 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZkxEQjdrUm42akZxcnI2U1h6RG5DRXVESC05Q3hUNlRnTzdEZ29XSmdrbXU3U25EX2owejQ1ZFM2RTVicVZ4MXhQNGFjVDg2Q2pjLURn0gFWQVVfeXFMTUZmTERCN2tSbjZqRnFycjZTWHpEbkNFdURILTlDeFQ2VGdPN0Rnb1dKZ2ttdTdTbkRfajB6NDVkUzZFNWJxVngxeFA0YWNUODZDamMtRGc?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-19T10:46:39+00:00"
-      },
-      {
-        "title": "限空令也救不了！這1檔ETF「跌破發行價」　一張不到1萬元 - ETtoday財經雲",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jVmwyS0VKaXRCRFY3Rkx0VVBaWUpNcmZsWXVISWMtYnZDVEVaeklPeUlhb3VucFVRMlJidTZ4RFlCcU9UMFI0SWoyU01BSThUZmfSAVBBVV95cUxQTlVzVktSSnNqT2MwNzh2Y3lOYjdkSU9XaDNBMUtObUZxN2lzSDVpQmFNdndQSlU0NjJScE1COUhQN2ZwR2I4UV9sMkVjbkQ4cw?oc=5",
-        "source": "ETtoday財經雲",
-        "published_at": "2026-11-20T05:09:00+00:00"
-      },
-      {
-        "title": "MoneyDJ新聞 2026-11-20 08:18:43 蔡承啟 發佈 - MoneyDJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdktrLUdUb3FvZ0pKTGx4OHdVQXRCZEpSWFBpWEtGdU54LUhsTm95U2MwSDZDSWhrdTFkejdVSnJDd18xQzZ2c1cweXozVWZRelhDZW1oY0EzYmsxcGdwOTNCcXVvdmtaS3dUbnRNZXRxWk9nTk9WMUJlc0RwajZEX1Fja2c3NUNVczB6N0hUMUpEV3c?oc=5",
-        "source": "MoneyDJ",
-        "published_at": "2026-11-20T00:33:04+00:00"
+        "title": "別急著抄底？限空令一出就是買點？拆解台股過去7次救市經驗，看懂2026年多空轉折點｜股市話題 - 永豐金證券",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQSzhBN1FjZm04MkJpWXVoc3l6YXJNal9ReGZWM3N3Y1BCNUdxMGlWcFctN1VobkRvQkNFNEF2N2lkX3Z0alhibnk0cWpNT0JvVWk3eXV6UVVCamVaZnhTU2RXOXJUMk4yMEVac2xqaERoS3lPV1ZsYWRHTFZ0eEJtNDB6NnMzcFRJMUxKUlNHWW5FTHdESkxnWk14cWEyWmlmTURISFA1NFZIb0ViUGdETEV3OE9Pb1lKajdWeklxMGZEZFYxdGU4TmhETW5BdWsxcnV1ekZ5UzBTQk5taEd5aEthUHJvQzJyYWR4MnhiWDVaWFNxbEU3a2VUdzRZQ3NEQzNLODZGR2xqaldHcW9DZm5hbmt2cVJubmt3cENxblJRQWhMNWZBdzB5b1J0cEFHaks3ZGszVFVQTFctZ3QzMi1MVU5VVmFtNkpDMGtqS2kxU1pMalFaNEFrd3JTS1g2aUZnaEJUN2NCMUFtVkV4VVp0RWN3OWVTTDVEM0tSc0FzXzJ3NVQ5clVna2JTMmhfcTdQUnhkZGdOVGh0NmR4WTNQRnQ2bjdXZlJITFJYLVdQVUpRakl6MHVqWkdXaFNVekhkU0dOaHpNVmNOOFNGa2tXeHYtcmNxMWgzNk1ZSUQ5WW9PR0hFcm5FOTNta0pVMjBHdjhlaUVFTUtCamVSdTdMMzJ6eU9MQWlVNzJ2THlwcXdILUlxSmpFdWZzREljZUZkN2lERk1QOVk2VWZRQXBSQ0l6NVdMU0pkV2E2WnJjZmF0?oc=5",
+        "source": "永豐金證券",
+        "published_at": "2026-11-20T08:40:19+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 47,
+    "count": 51,
     "points": [
+      {
+        "lat": 19.164,
+        "lon": -64.8121666666667,
+        "mag": 3.42,
+        "kind": "quake",
+        "title": "91 km N of Charlotte Amalie, U.S. Virgin Islands"
+      },
+      {
+        "lat": 63.302,
+        "lon": -151.14,
+        "mag": 2.7,
+        "kind": "quake",
+        "title": "39 km SE of Denali National Park, Alaska"
+      },
+      {
+        "lat": 36.5615005493164,
+        "lon": -121.178337097168,
+        "mag": 2.68,
+        "kind": "quake",
+        "title": "5 km NW of Pinnacles, CA"
+      },
+      {
+        "lat": -31.7842,
+        "lon": -72.1485,
+        "mag": 4.7,
+        "kind": "quake",
+        "title": "94 km W of Illapel, Chile"
+      },
+      {
+        "lat": 28.539,
+        "lon": -98.387,
+        "mag": 2.9,
+        "kind": "quake",
+        "title": "18 km ENE of Tilden, Texas"
+      },
+      {
+        "lat": 5.4441,
+        "lon": 125.2986,
+        "mag": 5.1,
+        "kind": "quake",
+        "title": "15 km SSW of Balangonan, Philippines"
+      },
+      {
+        "lat": 34.00633,
+        "lon": -118.1665,
+        "mag": 4.2,
+        "kind": "quake",
+        "title": "1 km NW of Commerce, CA"
+      },
+      {
+        "lat": 19.3073333333333,
+        "lon": -155.2975,
+        "mag": 2.77,
+        "kind": "quake",
+        "title": "16 km SSW of Volcano, Hawaii"
+      },
+      {
+        "lat": 58.846,
+        "lon": -154.35,
+        "mag": 2.9,
+        "kind": "quake",
+        "title": "70 km SSE of Kokhanok, Alaska"
+      },
+      {
+        "lat": -19.4364,
+        "lon": -178.0132,
+        "mag": 4.4,
+        "kind": "quake",
+        "title": "Fiji region"
+      },
+      {
+        "lat": 36.5681648254395,
+        "lon": -121.193496704102,
+        "mag": 2.52,
+        "kind": "quake",
+        "title": "6 km NW of Pinnacles, CA"
+      },
+      {
+        "lat": -24.6606,
+        "lon": 171.1906,
+        "mag": 4.7,
+        "kind": "quake",
+        "title": "southeast of the Loyalty Islands"
+      },
+      {
+        "lat": -24.7463,
+        "lon": 171.4327,
+        "mag": 5,
+        "kind": "quake",
+        "title": "southeast of the Loyalty Islands"
+      },
+      {
+        "lat": 36.4406,
+        "lon": 22.082,
+        "mag": 4.6,
+        "kind": "quake",
+        "title": "40 km SSE of Koróni, Greece"
+      },
       {
         "lat": 60.787,
         "lon": -151.402,
@@ -181,6 +279,13 @@
         "lat": 9.7949,
         "lon": 57.7485,
         "mag": 5.4,
+        "kind": "quake",
+        "title": "Carlsberg Ridge"
+      },
+      {
+        "lat": 9.7529,
+        "lon": 57.8408,
+        "mag": 4.7,
         "kind": "quake",
         "title": "Carlsberg Ridge"
       },
@@ -276,13 +381,6 @@
         "title": "8 km NW of Pinnacles, CA"
       },
       {
-        "lat": 33.4905,
-        "lon": -116.79233,
-        "mag": 2.54,
-        "kind": "quake",
-        "title": "9 km NE of Aguanga, CA"
-      },
-      {
         "lat": 36.6098327636719,
         "lon": -121.205169677734,
         "mag": 2.96,
@@ -292,7 +390,7 @@
       {
         "lat": 36.5934982299805,
         "lon": -121.220664978027,
-        "mag": 5,
+        "mag": 4.98,
         "kind": "quake",
         "title": "10 km NW of Pinnacles, CA"
       },
@@ -428,76 +526,6 @@
         "mag": 5.1,
         "kind": "quake",
         "title": "99 km WSW of Illapel, Chile"
-      },
-      {
-        "lat": -5.4474,
-        "lon": 154.2159,
-        "mag": 4.3,
-        "kind": "quake",
-        "title": "170 km NW of Panguna, Papua New Guinea"
-      },
-      {
-        "lat": 37.4558334350586,
-        "lon": -118.846168518066,
-        "mag": 2.98,
-        "kind": "quake",
-        "title": "19 km SW of Toms Place, CA"
-      },
-      {
-        "lat": 57.423,
-        "lon": -151.713,
-        "mag": 2.6,
-        "kind": "quake",
-        "title": "40 km ESE of Chiniak, Alaska"
-      },
-      {
-        "lat": 32.365,
-        "lon": -101.898,
-        "mag": 3.2,
-        "kind": "quake",
-        "title": "24 km SW of Ackerly, Texas"
-      },
-      {
-        "lat": 18.2296666666667,
-        "lon": -64.3001666666667,
-        "mag": 3.04,
-        "kind": "quake",
-        "title": "53 km ESE of Cruz Bay, U.S. Virgin Islands"
-      },
-      {
-        "lat": 51.6797,
-        "lon": -174.66,
-        "mag": 4.9,
-        "kind": "quake",
-        "title": "65 km SSW of Atka, Alaska"
-      },
-      {
-        "lat": 63.26,
-        "lon": -149.398,
-        "mag": 3.2,
-        "kind": "quake",
-        "title": "26 km WSW of Cantwell, Alaska"
-      },
-      {
-        "lat": 37.4536666870117,
-        "lon": -118.842666625977,
-        "mag": 2.75,
-        "kind": "quake",
-        "title": "19 km SW of Toms Place, CA"
-      },
-      {
-        "lat": -4.2965,
-        "lon": 151.8945,
-        "mag": 5,
-        "kind": "quake",
-        "title": "31 km WSW of Rabaul, Papua New Guinea"
-      },
-      {
-        "lat": -19.7086,
-        "lon": -177.7237,
-        "mag": 4.3,
-        "kind": "quake",
-        "title": "Fiji region"
       }
     ]
   },
@@ -505,14 +533,50 @@
     "count": 150,
     "points": [
       {
+        "lat": 36.36301667,
+        "lon": -82.7985,
+        "kind": "event",
+        "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee"
+      },
+      {
+        "lat": 28.762433,
+        "lon": -95.80795,
+        "kind": "event",
+        "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas"
+      },
+      {
+        "lat": 32.945935,
+        "lon": -87.347136,
+        "kind": "event",
+        "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama"
+      },
+      {
+        "lat": 43.0403647,
+        "lon": -88.3992015,
+        "kind": "event",
+        "title": "Prescribed Fire rx-Lapham Good Oak 2026, Waukesha, Wisconsin"
+      },
+      {
         "lat": 17.2,
         "lon": 84.7,
         "kind": "event",
         "title": "Tropical Cyclone Akvan"
       },
       {
-        "lat": -11.1,
-        "lon": -162.6,
+        "lat": 38.619383,
+        "lon": -120.50025,
+        "kind": "event",
+        "title": "Prescribed Fire STEELY MILL RX, El Dorado, California"
+      },
+      {
+        "lat": 35.050444,
+        "lon": -111.578139,
+        "kind": "event",
+        "title": "Prescribed Fire Elk/Clark Piles RX, Coconino, Arizona"
+      },
+      {
+        "lat": -11,
+        "lon": -162.8,
         "kind": "event",
         "title": "Tropical Cyclone Xavier"
       },
@@ -557,6 +621,18 @@
         "lon": -89.5974,
         "kind": "event",
         "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi"
+      },
+      {
+        "lat": 32.446972,
+        "lon": -85.653222,
+        "kind": "event",
+        "title": "Prescribed Fire TSK Compartment 6 RX, Macon, Alabama"
+      },
+      {
+        "lat": 40.31,
+        "lon": -111.2668,
+        "kind": "event",
+        "title": "Prescribed Fire Strawberry RX, Wasatch, Utah"
       },
       {
         "lat": 33.747313,
@@ -1355,54 +1431,6 @@
         "lon": -113.924333,
         "kind": "event",
         "title": "Wildfire Nature Grove, Ravalli, Montana"
-      },
-      {
-        "lat": 25.9427778,
-        "lon": -80.5444444,
-        "kind": "event",
-        "title": "Wildfire 22, Miami-Dade, Florida"
-      },
-      {
-        "lat": 48.870133,
-        "lon": -116.6247,
-        "kind": "event",
-        "title": "Wildfire Parker Lake, Boundary, Idaho"
-      },
-      {
-        "lat": 34.6253,
-        "lon": -113.10128,
-        "kind": "event",
-        "title": "Wildfire Campwood, Yavapai, Arizona"
-      },
-      {
-        "lat": 48.628867,
-        "lon": -116.660283,
-        "kind": "event",
-        "title": "Wildfire Silver, Boundary, Idaho"
-      },
-      {
-        "lat": 33.8381,
-        "lon": -100.9927167,
-        "kind": "event",
-        "title": "Wildfire Rustler, Motley, Texas"
-      },
-      {
-        "lat": 48.652417,
-        "lon": -121.4353,
-        "kind": "event",
-        "title": "Wildfire Electric, Whatcom, Washington"
-      },
-      {
-        "lat": 47.458917,
-        "lon": -121.052783,
-        "kind": "event",
-        "title": "Wildfire GOAT, Kittitas, Washington"
-      },
-      {
-        "lat": 42.961617,
-        "lon": -113.8483,
-        "kind": "event",
-        "title": "Wildfire Shale Butte, Lincoln, Idaho"
       }
     ]
   },
