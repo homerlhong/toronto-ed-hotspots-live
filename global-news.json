@@ -1,54 +1,72 @@
 {
-  "updated_at": "2026-11-21T11:58:09.280851+00:00",
+  "updated_at": "2026-11-21T18:49:43.690753+00:00",
   "source": "Google News RSS",
   "articles": [
     {
-      "title": "Donald Trump News: Breaking Headlines and Video on President Trump - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aSmtma1NveGJ6Q2xJUmwxempzNzE2WmxGTUxjMklLVkZheWJrcFNPSGNKX2NRNmRnSnZGNzlWaHVvSmVpTDZCZHFBQjdfTU1RVGVHNWx3RUM?oc=5",
-      "source": "NBC News",
-      "published_at": "2026-11-21T11:22:59+00:00"
+      "title": "Weekly Recap: BASF & Sherwin-Williams Top This Week’s Stories - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlBzLW82RnNaeFhKaVhnNHhhaDF5cnBadjR3Q3pkbjF3UkdfazQwYlg5OEdPX0ljX1lPazhTQW9qNURfUnN5QXZPcG41dTMzeFQyXzFLczYyTDZuRTZVMHdBUFRtZ3J6eTc2VEhHNEJpZWFJbUJvUXF3YjlaaTBQT2puNTJuZXNyXzR5UlZ5em5NNXREdlhOUERPYU55V3NYZi1NVUt1NA?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-21T12:45:00+00:00"
     },
     {
-      "title": "School of Social Work’s Faculty among “World’s Top 2%” for Citation Impact - UConn Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUJ3d2lfRlpTSnoxNGgyVkJ4QTIzdU10TDF5M1Q5N0hESVFOREpwRWg2Z3VJeDhqeklFZi1fRDdNZGdwdDZWbUU3Q2E3X3NoMk5vSVRnMDNZekxHVEVNSFItN1pyZzJaOVNlS2VubVpjSEtmeVBOTzZ0NWRtVHhENWpFMHB4Wk1LYUduSDF2TnVQcHdrUUJDWGN0WFgwRXFUbUdQODhETjd4SHFRc3JuSm45VQ?oc=5",
-      "source": "UConn Today",
-      "published_at": "2026-11-20T23:49:57+00:00"
+      "title": "Where in the World Is Mark Carney? Five Continents and 32 Countries in 113 Days - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcThrSFlsdEN1Q2dLakV1RUhJcG1lOW1UMXg2cmNjRENfcXFNemZIbzhvOHhnT0ctSUk1Nnh1bEgwSnFXYWgtRnEyZ0M2T0Y5Q1VnWDAtU1RBY1JFNmpSb3BPckhTbFJJVVpleXFPUi04YUFfQ0xMQ0hfbVhyUTNwTmxUYXB2SUlUM2VfZWJQSWRGakVBZVh3Tm1nWUpnZWd2VVN1ZGM3bnA0T0REOC1Sd1prbDYwZDVvRW9IWEdUcw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-21T03:00:00+00:00"
     },
     {
-      "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026 - Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43Qmd0ZnAxYmdlVl83cnl1R29fY3hOUTdoUVpnaTJhSHd6OW1XTTd5bDV4UlMxZjk4UW01WDRnNDBrR3JrbTlSTHk1aUY0bjdodGlDZ0JpMzFDZU1tNGpr0gFcQVVfeXFMTXdPdGJsSG9tZlF6Q3ZyVFZIeUpvQnU3WlAzbVA3VkJ6eDNoZzRRdms3UXRqYm1ubkRuU2pkbWVGN29TTEJIUkRqY1l5blI0cy1LbWhlMjF4RkF1TUc?oc=5",
-      "source": "Modern Ghana",
-      "published_at": "2026-11-21T03:10:00+00:00"
+      "title": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates - Variety",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTFlSXA0SkNpLXdtNFhXbFRXeV9ubEVWa21neDZKRWV4NWpsUzJHVGR5VTdadFZNRzREZmpHbkZfTVlVRXZYTlpDdmloV3JENVN1SHI1NmtpallHNUZPZzZPdURhMWd0aXJjN2lmMjJkTnZReGFPRXpPXy1TWGFDZUI0bnczdW9LczZvdVllRGxNaEx0Nk93?oc=5",
+      "source": "Variety",
+      "published_at": "2026-11-21T12:00:00+00:00"
     },
     {
-      "title": "Ranked: The World’s Most Indebted Countries Today – Visual Capitalist - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVBLUnhhLUEyNkx5Z0FJTWR6V1NtN2dJUnFvNnNmSENvSENWeVItMnU0ckFPVUZQU3l5VnhjemVTdVFFN196dVpGbzM1VkdZT3NKMG9pY3hDMHZ5YXBpUzU3bFF5eUE4a1pXbEgzSV9ZME9YQVRCNVRjakNIYTFlUFpHTjJOSTVDX2NtMmpONmNVV1FnczB6clpWZmg?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-20T22:24:32+00:00"
+      "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFpLRklubVpoUExoM0FURUhBQ0F0R0dsNGZCMXAtR25rZUxIN0M0UU1zcTZqbnd5bVJ0X2FUYjh2ZHlMU0Q3UGVVcUFRc1UzcDNhSWI5djdhdjZNZm05S3htdlpuSWNfTzN1a0dtZzFEYW9WTnNEd0hYcHZVaVZVaGRFYUcyN2xfNk5IVl9OQ19Vdnk3SHVIVElHdkJ6X3d2aUFvX1FNdzBHV2xFeWlEQ0VNUElqWm5zcVZB?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-21T10:00:00+00:00"
     },
     {
-      "title": "Trump's 'I WON' tweet inch away from breaking record - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkh2SHR2VnpfWG9laElvVzZ4cEdUWFhRalJVSzFQZk9Ec1ppVG1aemtFYjJlX3FldnRlcmh6Z3BoMVo1cFNlTnVTNDZZemlQaDBZbEp0M0ZpMjdTSGpoT3lvSHB3V0lZbEVHcG1TcDhtT0NIZ2o4alZScHpLaXJSeDhlanhPMG5jTFJoQURQVF9Bdw?oc=5",
-      "source": "Yeni Safak English",
-      "published_at": "2026-11-21T03:37:44+00:00"
+      "title": "Latest news bulletin | November 21st, 2026 – Morning - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWRONXF2ZjFBbjh3SHNYQ0JUZnVmWktYTTVGZTlraGVvZ0xuQjVsRlFNM3RGbWI1dWRRU2R0QlQyTVBqV0Z2aDFDOWpvS2dvb3VKTU52X1d2eXRZcVFDX2xrN3VPMldqaUJpOTg4TlZmeDVvQnVkU1NOQUJXcTYxcjVvYUF4ZUg1R25oV2JCd0ZhWHpLaFE?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-11-21T06:00:00+00:00"
     },
     {
-      "title": "Today’s headlines: Myanmar, Sara Duterte, Trump, Xi, & Putin | The wRap | November 20, 2026 Here are today's headlines – the latest news in the Philippines and around the world: - Top UN court finds Myanmar committed gen",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa0daR3BVLXNpTEF6Z3B3cVFkWTc5dUZ4emRYZWlCV2xKNlFRUmJES2JpWlRvSlREdjR2TlI1WlJvY3Ewc09BLWJkS0lQRG9KTzJSZGRTb015cll2QVlkUF9SZ280QXNtUzIwZDB3TEdyM1ByeVBBTzZoVFBPOTZYeHRvb0ttYVdoY1BVbkgyY1o5LUd5ODRrLWRUSWlrZDVlQUJKUlo3WG1tSXhSTl85Q2x4OTFJTmVLdXYyWHlXMDlPUjhBdlE4dFFNQmw5X3VxT0dhRElwU1J0enc?oc=5",
-      "source": "Facebook",
-      "published_at": "2026-11-20T16:55:58+00:00"
+      "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGt4TmhzWDF5M1FFTHBMb1JidDZTWFk1TURxczM0amNIY2NBOTZBUjg4eGg4UHJ5S01LUlVXXzl6LU9ja1A1U1FNZ252S1VsT19LR0lDTTlVNnZOU0lfcEZIdjVVX3hick03azh6cDF3QUlRUmF2R08ybXlRRUFFV0wzNDc0UXg4N0ZXdEdEZU54RXRaTV9Zb2t1SzJORHI5bHlRMHhQTkpoLXZyT3RpRHZyMzZMVVBuOUJGZWdUZ1A5RF9XX1E?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-21T14:43:49+00:00"
     },
     {
-      "title": "MLBPA rejects international draft proposal in latest volley in CBA fight - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm1kT0MydmVvX1NWYTNZLXVYZ3JETmJtR0kyTlkwRHUxcW1PVHAyZm05NU1Xa3U1aEhzd2xGMnJnWTQ1YjJ2TlhOLXd5aFBDVWc4bWZoaWNVS0U0eDZSVzRpdDJIZ3JtajVvLVB6U24tM1dNeXM4dDZpN1FyVG5kYmFzd1o1YVVyZ1RuRFMwLXkzVW5famc?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-21T05:10:00+00:00"
+      "title": "Tech Troubles and ‘Grand Theft Auto’: Week in Review | U.S. News Decision Points | U.S. News - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXpGMHNGQzI1RmJwcVRJQUdDVzdkU2g4NzRfZmxTTTlBeDR5LWM5WWVuamc5eklYeWxUazA4SWNNaWVwR2tMaXZTdGlfWlJDbmdGUkM1aVBuTlFRUGFiczZfOWlOQVJwcUI2cnBPcndZb3dXZlZscVcyZEtOZWlhMGpaLXdjMkRBUDNwLXZvU2JWdlBLUGlLeEJHUnhhdzBMRlFqZXBTaXFVQ0FSWjZPbFBaVXp0V2NObms0WF9SRQ?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-11-20T21:06:31+00:00"
     },
     {
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MQWU3M21LcmgtNFU4MmVaaEw2cnIyUGJVclVsc2JIWGZhcFVFMXE0SmJqaG5MQnpWN3BRLWZuWmh6cTRudTl0Nzc1SlJ4WVdQamZlR0hFMlRtTy04SEhhVVVsREp2RktrY0ZwUDFkcmpnaXM?oc=5",
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-21T04:50:13+00:00"
+    },
+    {
+      "title": "Stand Up Straight. Eat Pizza With a Fork. This Is Butler School. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOU1RajctT0VjTkNkVmVob3VsZld6T3pyX1NwUWQzLUVWTGliMW91SDByUzc0cnc3cUt6cm5Zejg3ZXktLUZNR2Zoa2lOazlKNURyUkx6WnpRUXl2RHFwSjZoUGp6MG16YXU5SW5KX2pXQkQzQ0kwcFAxM2VYRTNKUC1KcG1WOW9BRml2em9jc3ExSmJvVEZrQXZvdV9UNVE4YXBYbHNYUEtCRVk?oc=5",
       "source": "The New York Times",
-      "published_at": "2026-11-20T13:26:00+00:00"
+      "published_at": "2026-11-21T10:00:54+00:00"
+    },
+    {
+      "title": "Video. Latest news bulletin | November 21st, 2026 – Evening - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzdrRTZzNjdaTk15Tm9lOGVQdlg0THdHd25BZHBwN1NQcGp1emE1YVRXN2RzdmppbkNweHJZNUJVdmJReTZtSnJVLUlDR2FZUGhZN3hRbzVvN1NvMUQ0bnY4MlN0NGNhaW9aempwLTFpaWdOOW9EM09HMnhjQllFQjhjNWpnczBpbzlYb0xQMnV1c28?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-11-21T17:00:26+00:00"
+    },
+    {
+      "title": "Middle East and north Africa - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-21T16:49:06+00:00"
     },
     {
       "title": "2026 film festivals and markets calendar: latest dates - Screen Daily",
@@ -57,52 +75,70 @@
       "published_at": "2026-11-21T10:18:31+00:00"
     },
     {
+      "title": "Mexico Detains Top Cartel Boss 'El Chapo Isidro,' Setting off Burst of Violence in Sinaloa - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1N2dW9hODNGdWprWFAzYTBGQ0kxSVdwSWZDSGdNNk8wTUY1VmQ2Q1RVY0VDVVkzcUUtaGY4Z2dGc09aSDBKVXpYa19FTUIxbE9rR0pLUjBzMlY2RWFILXVqbzgxOG9XMElVRDVLOFV1c3FLUkxicXB0Z1BZVkZLdmVnYXNXR0RqaWRUeXVoLXNOR2wxWmpJVnczalFuOEdDUEdGOElLdXpTVGpLTWphR0VxMFc2VFNKVVNFbm1HRkZJSGxqclo3b0UweVJJTFMzMjV3?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-11-21T13:23:00+00:00"
+    },
+    {
+      "title": "Britain's Princess Catherine reflects on life after cancer diagnosis in a new documentary - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUtoOG9mMUx5dlJVQnJSNlBjZ1pBSDQwOXhRTk05b3B5X2Z3V0hEVzFvbGF6ZlJvNWswM0FJdFNVSDZGenZpbHlTNHJyS0JsVzBtTG55TlhhS29HZEZFSWxtbXFBcEJiS0R5ajBhMTJuc2UyTDFraXNzbUpONzROb0RYbzI2dnJrTUtPRm5vcDdzTVJ1ZHBrMWtwOGRYTGF3MEtHck9EeTRSdGp1WmxkM0w4QkxaNmcxanlXdVFlUndHYUJ6LUdZZE8xamV2LVdUYkE?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-21T13:37:58+00:00"
+    },
+    {
+      "title": "Video. Latest news bulletin | November 21st, 2026 – Midday - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXVPUm9VLTVHbHBFd29iLUhOS1psMUlNSXJvVlc2bE00UldHOGprTnRQN1hQZktYZUN5S3pqbzlFN2kwQWZUSzF0QVYyWS1hSFpBeTJRTUpzdk9oaTNZOTluVFZsMllKbVVqSzZXeXFINklBOHpwcEFpRlhwcFdQWkp1MlJpZXh3TWI3QjB1aHNiQQ?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-11-21T11:00:15+00:00"
+    },
+    {
+      "title": "“TOP WHO?” – NBA World Scoffs at Kenny Atkinson For Calling James Harden “Top-10 of All Time” After 51-Point Game - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkFaX2lwRTZFRFFnMjJCRUNXVFhVd1dDUXpXdldKWWU0enBtdEtkQTdTVXFjdzNvaVZ0OHNYR2pHWmUzdmtGNWNIb1dtdi1iVzJxQ3B3eHI0TnRKd1lzc1ZrZUFMVXF3MDAzbENSYXlUN0toTk1QNXNkaUl0YWNYSg?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-21T10:14:59+00:00"
+    },
+    {
+      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG9CVlBkd1dHNzJ1ZEVieDBzMW14S3lTWG85VXJoWmRPbVZMQ09tMk12NERKSUpDQk85dWhlekp0dnYxdlh0V0VaU0l3WVNiMlZybkhpMl9DX18xSHpEbE5zUTFObFV0U3plUjdEMTk4cWE3YXFMbmNUdUVGbTRPVElPSElnVUMyZWoza1NLZlBoVEhKRDB3dVdIemJUNTdMNHJBX3l2OWlFTWdqaTdlTEV2amYyeWowQktseEJ3WXdRQ0hXdXFFN0JLMA?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-21T13:23:36+00:00"
+    },
+    {
       "title": "Head of a Canadian security forum warns the world can no longer count on US leadership - News4JAX",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOWZjRENMQnVnejc1Sm8wVGpfaDdXZGdpMFNZRDNDMUp0ZzQzMHZ3ODcxajJGd1hwNjN3RjdWM2pkOEc3N0ttTXczbGRXeGlfNmkxeTllOVZ3cFl4U1JKZHBhTHZaaXRvcTIwanZNd3pqdVRQYVAxNDlTZUxLeGlPdU1CcnF1UE1KUTdCUzZxendTa2lMb2kxdEFDanN6T3JvMS1WZVVtRVJwSXh4al8wNWFXZ2t5aGg0dDF4cWtvaTYyUk9ZNmROOWxtQThCN3c?oc=5",
       "source": "News4JAX",
       "published_at": "2026-11-20T20:49:32+00:00"
     },
     {
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-20T21:47:00+00:00"
-    },
-    {
-      "title": "Will MLB copy the Brewers? Their World Series title could reshape hitting philosophies - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ1FIYU1BanlBT1R5S1lsY2hLTDF5OW10cGg0QUp2Q0g4akZTMG8zOHJHbjBVc2xQNEdXMEdoTEpRd25ISUxuWmVvRXZNZ3hKeExuM0p6SUVEZ012UnpQX21leHRIaFBlR1ZfOEFKakQtMEFYYXhkcTlDNUEwenB1djRlZG1Ic2FnVTRSUFBkM3hiWTVfTVg2ZGFXeWlndnJ4d0czV3N6ek1sbXFJSzhyeTdVbS1yVmIyNHdhZE5uWl9sdm5sSTZvd1VIR2FlUjdyWThJ?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-20T17:44:20+00:00"
+      "title": "Meloni expresses shock as Italian ex-police chief found dead as he faced inquiry over 1992 bombing - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa29qUlQ1M04yTGNVeV9DYjlQdElkdjhHUWdxNm9MVVEzN0hqVDd6OGNINEJfZnB2cndMblJzWVA0R0lKUlhZeFBxa25wV3ZXLVpjdWh4R2RRdXVsdTVQQnQyVlNxcDBJRldLaE0zWjRfbEMzUklGYWlmenBoemhrQnlObC1fckpmTUs4WEFHLV9oMFhjZWo3a25UUjI5RDg0YmhzZVNEOTJBV1lPWEtTbVZtVEhJVW5fSWs1ZFRMdHRrX1N3c3FtZXkxcVJKOC1jMDJwQkdSaDVwb3JVRDVN?oc=5",
+      "source": "News4JAX",
+      "published_at": "2026-11-21T14:58:49+00:00"
     },
     {
       "title": "Hohhot Shengle International Airport Set to Open - Breaking Travel News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmFaSmkyaFZjeDdmZTVpVTAxZmI1anZDandTTjJSV1E5UWtNMjhoSnBTZDNIUE5JYlZmMHZkTGNSS21lTkZQZTFXRUR5VkZ0ZUIyLUJ0NVN1NG1KdENXdGZHb3k4cU92Tmg5V3o2NHhQZUhFLVM1TFViVjVqLVZ3VUZBLXhZM2dHNkhudURMRHcxSU5zR3BPMDB6NnMxdw?oc=5",
       "source": "Breaking Travel News",
-      "published_at": "2026-11-21T08:14:49+00:00"
+      "published_at": "2026-11-21T08:18:34+00:00"
     },
     {
-      "title": "'Last in world' Burnley mill should be heritage site, historian says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wWWxFZDQ5bzh1emxTUVNjUXB4WHBXZWJqa0VnZXdBbGhNaUhuNW1FSlpxejhUNmpzUVdBNi1nSncxU2pPRDE3S0NOa1RwZ2xpUVZ4ZGJLRkhGMlk?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-20T17:08:52+00:00"
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-20T22:15:33+00:00"
     },
     {
-      "title": "2026 NWSL Championship between Washington Spirit and KC Current exemplifies growth of women's soccer - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjVNVXJmQWU5a3lYRDEza3R2MUxEdEcxTmtNbE94d0h4REdSbklIVVNkMXFxR2hUWGluRFFMb0VwNUpIQ3Z1eklGbVBGUURva25WNFV3bmg3MGNvR3NxQzVmYUM2QUZmTWZpeXl6ZGNuWVdydm9mOHRLREZRdkFTSy1RV3NQaGFMMy0zR2szdDFsVnFFODZIdWdMUQ?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-11-20T17:06:50+00:00"
+      "title": "Tarik Skubal rumors tracker: Latest news on Dodgers, Mets, other potential 2027 landing spots - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1BIcWtlcXhURTJGdUYtRjZfbUFMNEJpaExZZS16U0p2RW01NnNKNG9PTjdZd0E4WDM2emxUVzNWQlR2dTAtVWhnNkV6QVFWVXdoSUxlcTNPQWV5U1owTWxKSk5HQkgwSmJ0UHNxUUFPS29KczdpZ25nQ2VJU3ZUSFpCQzJyZEExZTQ4?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-20T21:10:00+00:00"
     },
     {
-      "title": "Prince Harry, Meghan Markle face security unknowns as world marks anniversary of Princess Diana's death - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3U0Ykt4WG5GVVBXd3Q4bllYbVlHbzk4OXZLSXVRR3dNMlE5UnJvQTM0VGFFRmRZQ21BMTRSN3BiMzN4VXF5bXlhYVRCWVViaFJ3Ry1DMkt0MW1VcGNaVERQdkJJTUFPQUJsSVJYbk9NanNmR080V1VEcjNWZHMxVDFHb1RSM21NbjJsUDgtRmpmOWswd0pGeDg1UDZMU1pqLW5WWXYxWl9Ld9IBrwFBVV95cUxNMjJxRG5kNTdLZ2RpS0NndS1qazFxWS1raVNiQWQxWFRiRUdaOEZhWEZYUmExZzJwUUJtWjRwbFRIN0xMVWtBMGlNbFhLaVNfamppb2ZTd1poZ25qNEpVMnB6SXU0MHUxSXJ5cFliakJXMzhlakhZc05UcWFoYTliRkRlMFlzOGMtVDd6WjZQUjViUk5JQlFwR0N4SkVpYXhRV0o1RjFvNldHc25TLW1n?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-20T18:26:23+00:00"
-    },
-    {
-      "title": "China’s intelligence agency touts ‘common international security’ after summit - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUwyUzAyVmIzR29iZHR3SHRMTTI1MFhnanIyeVBIaVRYTmFITWdsaW8zeFRKeWxVMS05a2RIU0tVdjg0MlNqS0gtRnZTX08zc1RkYVlKVjZkQTBOckZBSHdTZ001WUJBZ25kZ01lNklsU1U5LVREN1p5dEFBQkJQTVpVaDZOQTRBdVF5d0JNWWljMmlTbEdGcUROSmRjV3RTTjlRVmJMeWpaWTh2dkp5ZkJ5QUYxdWRxY2dXeE1RUkZGbDRTSmJ6dmcxaEo5RjdkdWfSAdIBQVVfeXFMT1NoZDdZdzZ3TzUxUGxRdmh4cTQ2VEdMdkg2bUpFUmJDSkZTa2JMRmt5VWQwZVdEVWFXQkwwQk1aM0NFbWpxZmZWMTdnaS1iLTNkSFc3aFRzV3QydDlYMjRkZHdHeGdPcllIVkhzcU1YR1Y2cVl4U3Z1MW5IZkZ6Qm40U3p4XzhkTlNUbGhxQ3FDc3pCY2NNRE81Y3hsYlp3ajZDSGk5MkM1UXBzMkx0ZkhXekFaMXY1QmZTU2dfamRlVUl1THVyZi1LbU9nS1NqWTF3?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2026-11-21T02:00:08+00:00"
+      "title": "‘Everything from industrial to scruffy to decadent to dangerous. We get to design all of that’ — GTA 6 devs share the process of crafting every individual NPC and the world they inhabit - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQem16ZGhPX2QwMEVJQy16eGlsVUJaSnR3ZWJwenFKQjlqTEZHYWtHNFdFUmJVVUF6MzFRdlJQbkxtLVdOcTdvR2tEemRNSEUyZnFEMEJLNTFDSm13ZlNXcHAydTZRbTN6U09JUzNMZnN2dC1jWTNWQl8xTnB0NFFXVl9SSWNNNjlCejZOX2VvdHVmbllOMGFYSlRvc25wTkIwejdlbmJXYlBBMkRtSFQ0Wm5Zamh2Nldxc3N2OUJUbjd4ZWhkZ3BFUGpjbjQtT0ttd0wzVUdXYmd6R1A2SDdWazktS1FUSUwwbnBIaHBYblEwUkpmczRJczRjdnI3VjVSWllmSllIMXQzUUVRc3ZoQnBNZ05lRmRBQXdjYmZlUElQN0Y1MzlPZUdZTlNfS3IzcUphN25tVjQ?oc=5",
+      "source": "TechRadar",
+      "published_at": "2026-11-21T16:00:00+00:00"
     },
     {
       "title": "U.S. Senate Passes Sweeping Legislation That Could Weaken Endangered Species Protections - World Animal News",
@@ -111,106 +147,22 @@
       "published_at": "2026-11-20T19:37:31+00:00"
     },
     {
-      "title": "MLB rumors: MLBPA suggests international draft in latest CBA proposal, but is league interested? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFdkVmF1TkFWWkpUeTJQWDBjXzZfcUREcWZlbG9NQ1NXWFFBVGNabHMtZ0I1VkRvUkNDanVjSFNTZXcwTHFNdy1JVmhTWjdzQm9TU1FZbFlXdVd2N3k3cTNNT19MOTlCUnRndy1uUzZiWXdLVzI3UWl1SDMzMnYzQnpPbjNNX2NFb0ItbE5DaG8yUQ?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-20T23:00:24+00:00"
+      "title": "Weekly Recap: Siegwerk & FPA Top This Week’s Stories - Ink World Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEkxbUdyMTFmd2VsSlhRTU5XVUhIcDhxV3p1eWRsclM2eWxwZlNCXzJfRmxkSlBPdlJXMDVQOGNVNFJXb290LVF1b3NVRjh4czhLYW4tb1RXeF9sZ0FnZXdSMlhTMXpQdnJmbFdGSjd6cnc0LXQ2eURuOWFlTnhIM3c5MFcwV19lWjdWOXRJcVZJUmZTTDh0eFpYbng?oc=5",
+      "source": "Ink World Magazine",
+      "published_at": "2026-11-21T12:45:00+00:00"
     },
     {
-      "title": "Larry Ellison No Longer Among World’s 10 Richest Billionaires As Oracle Stock Plummets - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFJwOExqMy1rTS1SWW1fUXFWZ3JKR1FuTjYwZnZYRGNKZU5SaU10WW42dnF0U3djVENwcHpKa1FRVEQtQXlpOUZOcDNzRVhkeFNRM1l0YkNObzVBZnIyRHl0NGNwVDZkM1dhcEFjbXFRQkJHMzctZEtYRHRKV3V2MjNZd2MxWUdONHkwaFJkTmZwdk1DT0N3c092UkZjNV9HVUJBZ1lxR1hjenlFRTJfQlVqWmMtekQ1bHpLWHUwYnZuT2lfTnIyMUJ6Vm1xbTJaaXlDUXMxZ3JOdlVIV3c?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-20T17:23:07+00:00"
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5",
+      "source": "Sky Sports",
+      "published_at": "2026-11-20T21:16:54+00:00"
     },
     {
-      "title": "Brewers Rookie Shades Dodgers Fans After Winning World Series - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUNLZy1PZ01USXBFY09PdHBRZFF3QVluTkNjMVl0dzVaS2JfZ3lJb1JFTGhiR25QZW9rZUNpa25uTTBONTRPMVhPRk1DYVNNdHpsa0FLclR1VHhLNklsLTFOZXdVQUtQTjNGalRObDNEVEFuOUhodW1icWlPN3BfMkdEbXR0RE9ScFU0?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-20T19:00:26+00:00"
-    },
-    {
-      "title": "RANKED: Who Uses the World’s Coal? – Visual Capitalist - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc05xOG5wSDZrei1pdmpTbXRFaW1Cc0ZXRzVUTjlxclA2MVdvcm4tdTNEMElhY3h6MEc3UzdwYmZaYWRvXzQ0ZVpremJWdDF0QVpNZ29HZGJIM25obXZoYl9RWGo3b2NiLTZLWkthTEZYYXBfU1U4Y3ZHN1BXYXRtSkROTENpYjQ?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-20T21:57:57+00:00"
-    },
-    {
-      "title": "Dallas Retirement Village receives U.S. News & World Report top award - Polk County Itemizer-Observer",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkFMVGo3cS1seTc4aXRic29Hdll0MDFaZXZsQzR5R1BlWTRFdjJfbG05M2ZmMzZ4V1d3Wmt6SXlPZGs0aTNCd2o3MlQ5T0VsbzQtTk53aXpkYUF3OW1LdVM5RzZYZnBSTEllNzhtcmJSTzhMRU5HaEc4azlXR2JwYTd1RVJZMlpWNEpEMTFheG50QjNBX25OblhRb0wzNm1idXhGNzFKNmVaUEZJMGxyeEI5eUU5QnI4eHc2RGhqWUM4SnljUWJQTmpqZFNCS19MREdvQ0s5Y2gwX3Ns?oc=5",
-      "source": "Polk County Itemizer-Observer",
-      "published_at": "2026-11-21T00:00:00+00:00"
-    },
-    {
-      "title": "Jannik Sinner Injury News Gets Devastating Verdict From 7-Time Major Winner - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlowbHZSd0pseDBNYnhGV0pCLXVnUGU1ZEx3SDlkSkNpZEdQYjRlWHhsdXp6YVZxeXMwVmpPSkNrVXhTbnlHZGtFVko3LW5fdUZDaHVZWHN6YjF5ZFVOSDFEV1BFbHNRSGxwc09DQWI1VXRjbE5wRUlqTE56dVlyR2diX2wyQQ?oc=5",
-      "source": "Yahoo Sports",
-      "published_at": "2026-11-20T23:02:31+00:00"
-    },
-    {
-      "title": "World Energy Outlook examines how current global energy crisis could reshape landscape - Daily Energy Insider",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTRoeXNRbFhWRVZINzVIMkhLY1R3X1Zoam1WZjlXaDhNRUw0eUVEeTZrUW15d21vNnVNZXA1UG14S2lkVmx5cWZjOUlXNkxWTE9NbDVQbVVQR3hYRzN0Y2ltZ0lBMFlORFhrODViWEpqN2t2anNvUWFqdU9jU3ZGMnd2Z0NiaDNaRmpnenNTY1lBY21ESzNiMUJZekwtM1BxU1JITXJ4NUtoUFNDTnpETjZpWENFWW1DWEhJbml5TzJhZ1U2UXcyQkZFU2hjUQ?oc=5",
-      "source": "Daily Energy Insider",
-      "published_at": "2026-11-20T12:39:14+00:00"
-    },
-    {
-      "title": "YouTube latest contender to bow out of 2030 World Cup bid - Awful Announcing",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU0xsX1RfVUhLRG8wcXBOcDJtbDAteUVoWUxBVHgtR042U3ZCYncySWpTVnZXNHI1OHlRZDNkYjFCLTM3RXJ6bkxjckh3M29sQmdjUU8xWlZCNktJYTdSaDYzQVdLMllZWVpTWmNkSFFwRGVEYS1reGNSTHlyOGVadldMaFRub1hZZFRXc2FjNUJXNFQtOHQ4bnV4SmxvUQ?oc=5",
-      "source": "Awful Announcing",
-      "published_at": "2026-11-20T13:52:48+00:00"
-    },
-    {
-      "title": "Synthomer Appoints New Chief Financial Officer - Coatings World",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRzUDRoazl1UXoydTBfSHhNWEZKeVNrelUwa1g3M3hOUkoyRkhQd2RjN2xpVzhYdEFiR3NYUGNaME05ZGstN1JueENWWDNxYlFDWkVOdlY2WEtjeEZhQTV0d1g5VHRRZGl6dENDaHo1ZFMzRHI1TTJtdlFBRkxSeDhjY3JmZlA5Y29FLVlVRTlSYkxiRGc?oc=5",
-      "source": "Coatings World",
-      "published_at": "2026-11-20T14:11:00+00:00"
-    },
-    {
-      "title": "Excelitas Launches OmniCure AC7+ Series UV LED Curing System - Coatings World",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEl0YU1oeUtnUEVOdFZzcUdaSGxqUUlwQ3l6RUZQczlHWmdtYndpTEVSMmZkX3lpOW9NZzh3ZENrWTVzcTRoVElCNGo1OTZpZTRTY1N1QUw5OWttaV9zaG1mTU1VRXFjWUZOeHVJM0RWdEw1LWJSa0FvUm5IeGZXSXJjOHN2Q0FyaGRpU3poNmdPQ25xc25ob1Y4cUhpd1RjZDhqbjJXVQ?oc=5",
-      "source": "Coatings World",
-      "published_at": "2026-11-20T13:27:00+00:00"
-    },
-    {
-      "title": "World Record Shattered: ClubWPT Gold Freeroll Attracts Over 420,000 Players - Spadepoker",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkZ6MXl5TXUxenV6cjk0VmtPTUhZM3F2QkdXNU5Gc0xFUjZrblpuaTFGMGRHbzduUm80aFBtYTVSTllNRWZCbFJ3OThSUndVVXF4eVR4WDZaQ1V2NnpLSjlBVFVQclp5Vm1yX0dlUFJlUkZOZkV6ZlQ1bVIxMFBpMTJFSTlLYjdZazBlM2Zmc2drNDVrVkxYTUZ0MUdNQlAtUHZndmJRUVBxVnM1SVE?oc=5",
-      "source": "Spadepoker",
-      "published_at": "2026-11-21T10:47:14+00:00"
-    },
-    {
-      "title": "6 Pomperaug Students Among World's Top 64 Debate Teams - Patch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXZRM1VaNS1BN3NUUmFqVjhva290S21nTTl1WW9LaFQ4ejdCZGd2UHJXTmJTT0U3alBZeTgzVy1fNGJGQnpZN1VQS1EyWVJxcjQ0Zy1nakNsZExCYk5QTGRqN2pUODE0RlJ0TEE3Rkl3ZVJXNEItaWhpbGVkZHRST25FcnlvM2hPRDc3QlIweFhiOXVRNTAyatIBqgFBVV95cUxPcU0xdU1GZ3dkWURfR2dUOE5qMGU3NmRzdER0cUlSRDUyaDF4RE9wRGFQUjVHLWFYYUtVVXk3MnVjMjZfU1ZwazZJQ1k0ZGFoVFFjRmNGOEtSLVpoXy1jQ1JEakJMM25wZWNHQ251ME9qbFNZTXlJdmx6TktsNWp6ZUg2cExtVTc3ckZIZEdaNDBsOTFDejdva1N5MEwwSWpySlkwNGJSeXZXZw?oc=5",
-      "source": "Patch",
-      "published_at": "2026-11-20T15:57:08+00:00"
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10M3Q5MDhtNFdMQTAyNXJzOHFsaUZXYlBxWGpDOE1IR2luaGc5bXZUY3paOWJRZHZWY19GM3RxZXZFZGVSWFRIRFdLZkhOeEQ1Q2t4RThhNkRNbHM?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-20T15:14:01+00:00"
-    },
-    {
-      "title": "US Navy plan requires $53.8 billion annually — Breaking Defense - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjJWbHZVM2Y0Zy1XMENtLTZyN2tVT044Y3M3RnV4NG9Kd1dwN3FRd1BWS2ZvVU1GYTd1RVFmcUhHQ2FTRFVpb0ZPWTZRZHJQb0FhRGIwd1NIekNLckxZWHNQTGNtNElzT0p4SjJJbGNRMVhuN1pHUVU5THpXRVVyUVhfaHpaN0U0cmNncFV2eGhEb2VXeFl3Mw?oc=5",
-      "source": "UA.NEWS",
-      "published_at": "2026-11-20T20:03:55+00:00"
-    },
-    {
-      "title": "96 UCC researchers recognised among world's top 2% scientists - University College Cork",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGdMUWxDaHpFTUplcXJ5ZVRNU3daYTJ5RlhCeTJiZDJJeWJjY1NfUkQ3SnVuLVhaQWNBMGRweGFUMmhfajNuZFdTTWwyYW1XY1l0aFhRMTBvcDZtVVBJYUFHY1NlbGhpcktMMWRDVHZBbi1KQl9CYml1REN3UTkxVlZiakFrS2JPNWpNaU1oNHBwOHlOTGM5WUU5aWI?oc=5",
-      "source": "University College Cork",
-      "published_at": "2026-11-20T12:49:34+00:00"
-    },
-    {
-      "title": "School assembly news headlines for November 21, 2026: Top national, international, sports and business news - Education Times",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeGVURmJJMHBpak1neE9TZGhHZjBwdzZNaUlpVGQ2UnJQM0JtVW9OdC1kYnp4cnUyeW1MaVpfMW9kS3VRNnd6X0hiZXh6MnY4S25TR1FIbGo4VFRIM2JpNHkzNE0wM1IyekxmT2NtYlotRGZNcDBxNUN4YXd0Tmd4RWpacHhNNEJJaWJ6Yy1YbHc5NDVjRU1icHhsRV9QQTdrMFZaWUg5TVYwNFBOT2VWUDBYS2tNZFZrazJkWnhLeXlJM3VUM1Z0emxfMjNtSnZlMTdHN0UxajRtNHBIclJVcUxUQ2NBOEVjVHdBU0t0eEFBTGdsa2UyTg?oc=5",
-      "source": "Education Times",
-      "published_at": "2026-11-20T14:32:00+00:00"
-    },
-    {
-      "title": "Last French survivor of Natzweiler-Struthof dies — Der Spiegel - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmFOMDJvSW5nWkx1Y0d0QTlsRjlsRlJ6T1owN01SU0tvVGM1R250b2lJUnZ1SnhJRzh1bGJ5bnpxTzZBZXdYNmdBaGZFN3dFd0VyXzI1Z05JMldJZU9rbkNXQkJGX2pnUWs5REhxVkFEczBLY1NJSmFKaWFWVUIxYkhYZXo0RTdRcS1VbFZoVDF4TndmLV91bFc1cDA3SDZRUWduZnB3?oc=5",
-      "source": "UA.NEWS",
-      "published_at": "2026-11-20T17:15:12+00:00"
+      "title": "Tiger Woods Dealt Unfortunate News Ahead of Hero World Challenge Return - Heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRW5sZEZJaHJoXzZhczNaMXd3RTNNNi05T1dnN1Y3UXFEY081TUNDRWJ4TVVNZTFPa05VeUJmRDgwSzVMMlBLdFRWaXB1cDV0eHFGaEVsZC00bTVEYmZiUV9QckdDMDdRS0VTUTJ0NkdwMEw1Tkp1YnBzYy00UFFvTnlR?oc=5",
+      "source": "Heavy.com",
+      "published_at": "2026-11-21T16:37:39+00:00"
     }
   ]
 }
