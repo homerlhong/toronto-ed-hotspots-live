@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T08:48:08.005557+00:00",
+  "updated_at": "2026-11-22T17:05:24.874574+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
@@ -16,6 +16,12 @@
   "news": {
     "politics": [
       {
+        "title": "COP31閉幕／專家：4面向政策 台灣得跟上 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzampsOTFURlBQMmNlSnNOYlRyeDRPVW1nSlpweVFVMmJkQVhsLXJnVXFKcV9KNi1kNGlvWGVWUTV2b2VlS0FfR05SdEdVMll30gFWQVVfeXFMTXFoV1FBa21peWNCaGpWNVpqR0RSTV8wbjlHa2xremdxSEdxVnBwWGhmdllnMTAzOFIwYnBNeV9aRzN2Vk5aLTA1WkxhZDBZcjh2WFBVVWc?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-22T16:00:00+00:00"
+      },
+      {
         "title": "自由開講》蔣萬安，你為了選票，究竟可以和誰站在一起？ - 自由評論網",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hS1lpRDQyeHl4LXp0bi1FQUlhZGpISWNFRkZVVm1xb19JeGQ5dWZUbkxIa2RMTWNsYWR3azdRdEpua1V5SFlnWWVzdE8wbnRsSlhoQmVFWFRYdkx3cVB1MDVjVi05SWPSAWdBVV95cUxNYUtZaUQ0Mnh5eC16dG4tRUFJYWRqSEljRUZGVVZtcW9fSXhkOXVmVG5MSGtkTE1jbGFkd2s3UXRKbmtVeUhZZ1llc3RPMG50bEpYaEJlRVhUWHZMd3FQdTA1Y1YtOUlj?oc=5",
         "source": "自由評論網",
@@ -28,22 +34,10 @@
         "published_at": "2026-11-22T00:29:40+00:00"
       },
       {
-        "title": "11/22國際早報｜台灣外交次長示警加拿大靠攏中國「我們很擔心」、黃仁勳與台積電做生意約30年沒簽約、墨西哥毒梟落網激戰11死 | 國際中心 | 新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RUlVmQUQ5NkNPX0hJM3FKRWdhc2Rqcm5FTU84RFVEVGFwcEdwTWxFNTg1WXV5cy1TdW1UUDFTb2htUWJsclhjek16UTZIZw?oc=5",
+        "title": "川普到底對台灣怎麼想？紐時白宮特派記者桑格：他顯然思考很多，但講出來沒多少，「一支湯匙」是重要線索| 劉煥彥 | 新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93Mk1PQzMtcmFET0pVTi1FMno5eGVKZEo4QlpRQ2Q0Ulc1MFRDdkNJYXdUVmh0WUVOOXNrSnJzbUROSldGSGU1R09GT2I4dw?oc=5",
         "source": "風傳媒",
-        "published_at": "2026-11-22T00:46:00+00:00"
-      },
-      {
-        "title": "台股今年7度殺進史上跌點前15大！11月就占5次成重災區| 財經 - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84djcxb1ozRnFpcWdZX29jelI1dzhYWkpSd29RTkI5bFVYeGd4N19WcHJLRWtwZnZyNHJqRTR1S3FlTEQtdHRNN3BDN3MwYm9VU0tpdU05MHp6VlU?oc=5",
-        "source": "Newtalk新聞",
-        "published_at": "2026-11-22T06:41:27+00:00"
-      },
-      {
-        "title": "一場APEC照出中共外交的兩張臉 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVEN0N3pBUGg1ZWE0dUh1SFdVbEdZVGd5ankxYjJ0OTB1eThTelNxVkZqYnBCeVpZRWZQQUJvUzdzRUN3bGNlUk5yVmM2S2hmM0N3V3dROFkyZExIb1VIOE9hUdIBaEFVX3lxTE1sdXM4dHVVSXdQSjRVeTI2QlZxLUxBR0tLc09xc0c0RWJEMzR4a1o3VVNUODMtT1BMN1M2RjE0TkNXSzNtUXVVaHM5Vm9rZlltMHNJaTdkeUI1dVJXOGJzMUZNMlg4OVdW?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "published_at": "2026-11-21T22:30:00+00:00"
+        "published_at": "2026-11-22T00:30:00+00:00"
       },
       {
         "title": "川習談妥軍事AI人類掌控原則！貝森特揭重大軍事行動不得交由AI自主決定 - 梅花新聞網",
@@ -52,24 +46,42 @@
         "published_at": "2026-11-22T02:10:00+00:00"
       },
       {
+        "title": "一場APEC照出中共外交的兩張臉 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sdXM4dHVVSXdQSjRVeTI2QlZxLUxBR0tLc09xc0c0RWJEMzR4a1o3VVNUODMtT1BMN1M2RjE0TkNXSzNtUXVVaHM5Vm9rZlltMHNJaTdkeUI1dVJXOGJzMUZNMlg4OVdW0gFoQVVfeXFMTWx1czh0dVVJd1BKNFV5MjZCVnEtTEFHS0tzT3FzRzRFYkQzNHhrWjdVU1Q4My1PUEw3UzZGMTROQ1dLM21RdVVoczlWb2tmWW0wc0lpN2R5QjV1Ulc4YnMxRk0yWDg5V1Y?oc=5",
+        "source": "鏡週刊Mirror Media",
+        "published_at": "2026-11-21T22:30:00+00:00"
+      },
+      {
+        "title": "川普回應稱普丁是朋友：自己與普丁一直有著良好的關係，俄羅斯作為世界上第二大核武器擁有國，普京為美國提供了很大的助力 - 鉅亨號",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpM0gtLU5WR21mTlZfQzJBUEFyMVBpaFdPakFmdHBpcy1RX2pSX1R1UzR6aUtMT1duVVFzSUVvc2QxQkdBd1cxQg?oc=5",
+        "source": "鉅亨號",
+        "published_at": "2026-11-22T12:59:16+00:00"
+      },
+      {
         "title": "周末精選｜一場峰會3種心計！川普APEC尋外交突破 普丁重塑地位、北京冷靜控盤 - 知新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44Z054SUt3MTgzV2NzTmE1dFZGUVc3bVZ5U3hLbFVab1YtUG05S004SmpjYkZiREpkUlNoS0drdHJDd3R4RXcwZ01JeHpoQ28zcllLenBkMXJpTTFyUHBOWm9kcGY2eVZrQjNfeXlodw?oc=5",
         "source": "知新聞",
         "published_at": "2026-11-22T06:30:00+00:00"
-      },
-      {
-        "title": "日本文科大臣爭議延燒自民黨暗示可能換人| 國際焦點| 全球 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMkllNXF3amV2dVFBcmllN2FHdE5BTnRVMWZUVHhXTVExVF9OUEhDQlBLUnkxUmlYUWVjcFlDb3JNblY4RjNfR2VNb0F3aFIz?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-22T04:25:08+00:00"
       }
     ],
     "technology": [
       {
-        "title": "網擎策略投資微智安聯，臺灣資安業者攜手擴大產品布局、拓展海外市場 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KTERiSXZnU1RMemxMOS14M0UxVnIzODM5UFR1VXduczNfUkdmRjhoZ3V5ZmktazdBQXZXa2E2LS1vUTZLM19MRzk0YVA1UQ?oc=5",
+        "title": "普鴻資訊與財團法人資訊工業策進會、政治大學資訊安全科技研究中心攜手合作、共同發表《2027臺灣金融及關鍵產業PQC 遷移實務白皮書》 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iM0FJcjFKa2RlWFROMHNoRWJTd2FOQzV3WTF4bGJlem9QdTNNeno3RHNwVTU2SlVhc0FhOG04YjZvLVV2RHBYdW92Yw?oc=5",
         "source": "iThome",
-        "published_at": "2026-11-21T17:35:27+00:00"
+        "published_at": "2026-11-22T16:10:16+00:00"
+      },
+      {
+        "title": "MoneyPark case study - Google Cloud",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XaHdjNUFkN3pXQ2JhUkh3M3dKRzdlVUk4YW96Nll2SFB5am5hTEhyVURqS2MyeE5SbGpVdWpYaTk1emdtUmRWU2sySDhHaWZiSENWTHVUbE1tTFV2anNKME9acw?oc=5",
+        "source": "Google Cloud",
+        "published_at": "2026-11-22T06:09:44+00:00"
+      },
+      {
+        "title": "台股測底還沒完？ 冠軍分析師亮出5檔抗跌股雙主軸曝光- 財經 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjWkhUc2Z2cUhyU2tZZzJza0k0a0oxSXdoMGlvY3hrSTNMU2xzd1dqWWFJNnRMYmR4NmJ0d2RmSkxWeERQVlRuclh3TzVGN0NqcVNhcE9PY1N0NDlwejRUSDRFWTdoRzlJdW5QOXVB?oc=5",
+        "source": "中時新聞網",
+        "published_at": "2026-11-22T11:23:52+00:00"
       },
       {
         "title": "日本企業逾九成擁抱MSP外包資安 AI防禦成最渴望支援 - ENN台灣電報",
@@ -78,98 +90,142 @@
         "published_at": "2026-11-22T00:31:48+00:00"
       },
       {
-        "title": "影子 AI 繞過資安防線 專家警告多個 Agent 勾結恐釀數據外洩 - 商傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUHZkdl92VDNIN2RFU293NFYwcjlCMk90RjhDRjE1MmtYMnR2UXNHTHZSZ281THR4UDFKUGM5UTJVVkF1d3hadkhFb250SnV6Z3QzRVZ6RHYxMTBhOHN0NHE3a3JPb0l1amZwNWd3cFhmV3ZCd2JXY0MyNGNlS3pNRllLcTZ5N3M1cmV5bi1pdDlEQjFqakxxYXFmdnI4UXJGSk8zeUxVSUNrNkVPMW9oQk5UMnFqdHpfSm5TT3VvN24xNmFxR3QxT0JLTDdRZkQzQld3LWl5RFlJbTJvTjVYVFpHdk1ycGRxcVpqZkd3aVFHTGZNSERscWhJZ1ZyVmpRemNOb09oamJfd2FuN3BPSGJtaURsRE81Uk00aHRxRUx6TW5fUGZjYURQclIzNDV4M25CY0M3ald6VktDTGYwOGdKODZOTmplV1oxOEFRY3pxaGRwVVphU2J1QnNWMEV0SGlRLWE2Z1VsU2dyWXQ3bk5aWmR2cHRHWDZNYUtZX0lXczJVUDBqRw?oc=5",
-        "source": "商傳媒",
-        "published_at": "2026-11-21T09:16:52+00:00"
+        "title": "網擎策略投資微智安聯，臺灣資安業者攜手擴大產品布局、拓展海外市場 - iThome",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KTERiSXZnU1RMemxMOS14M0UxVnIzODM5UFR1VXduczNfUkdmRjhoZ3V5ZmktazdBQXZXa2E2LS1vUTZLM19MRzk0YVA1UQ?oc=5",
+        "source": "iThome",
+        "published_at": "2026-11-21T17:35:27+00:00"
       },
       {
-        "title": "Meta’s Tamagotchi-style AI device \"Muse Charm\" reportedly priced at $300 with a year of free 5G - Mashdigi",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdFVUcU5ISlZTZ0lpM3VORDFnR01sOGpuNWcxSEtPelpqNjM5c2RPZngxVlN3MzVWMi1vZjA2U1hnTHJ1WUg1LUNYVG1uZk90VUlhVU5tRkZEenhvNVlJWFU5SjhVM1Q3LTRmZkl3?oc=5",
-        "source": "Mashdigi",
-        "published_at": "2026-11-21T15:12:42+00:00"
+        "title": "ChatGPT認領商家怎麼做？本週AI影片精選「4支官方教學」 - TEEPR 亮新聞",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GTnptZE5IYnFWWDhhdlJNU2kyLUZvOVVKbWpXSUtBajAwVlFzeUlLMW1nZUNYNFZTT2pBalFWUGlnQ0xoWkdUWnY0M2w1VWJieHdRdTNONUI3ZU1WRXVLNU9RbDRHLWR0Q2ZtalpRenl4U2lHVVE?oc=5",
+        "source": "TEEPR 亮新聞",
+        "published_at": "2026-11-22T08:46:24+00:00"
       },
       {
-        "title": "AI 讓詐騙信件不再錯字連篇，資安防線轉向驗證流程 | 科技新報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ESHgta1NUVk1XeTBqdkx2MExTdEF3Qy16VHUtN0FtaVhtRnFxV1k4WXpBaG11VVA4OVJKSk1kTHNvanplRjJsRXM4NkhSdTdlRC1URDY1WFpDQ3hYQnM4V2h5eWJhenlGVWNSLUdrY0F2N2Y1NGJNQzltRUxuZw?oc=5",
-        "source": "LINE TODAY",
-        "published_at": "2026-11-21T09:37:04+00:00"
+        "title": "瞄準IT維運人力痛點 託管AI Agent方案問世 - 民生電子報",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tTkpudm5FTEhDSzk3ZW5jZDJUUnVRR1l5cHNYY2FGeDV0Y3pTQzVoMkdYRW9BRHJ5djBGX3BiV0NycDg5?oc=5",
+        "source": "民生電子報",
+        "published_at": "2026-11-22T05:38:21+00:00"
       },
       {
-        "title": "合約存續率逾9成！藍新資訊服務逾400家客戶　AI業務放大4倍 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2dU9qRGNVQzlVOE8xcVNuZFdCM3pqa1VGZjEyZEdZNXdwVlJaQnVTV3pLZDF5LW1xdXdEZ1dZT0tlX0MwVG81Z9IBTEFVX3lxTE5KLVhOQ1NQM0Z5RkdIRy1pNG5zblRUSnVBSlBYU2VadTFYVm1Tbi1GYkVEVkFfODR5ZEJ4V0FJX2NsS01ZODRtQ015YjY?oc=5",
-        "source": "三立新聞網SETN.com",
-        "published_at": "2026-11-21T09:25:29+00:00"
-      },
-      {
-        "title": "日63歲IT社長爆「父女戀」不倫！豪華遊艇激吻女星 全網瘋肉搜 - 自由娛樂",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSnlhMUNTc2pBWmFLMldFQ0JFTEkwVEM4cVZTSG5FaVBsNDRhd2dYUXhSc2xiNlpkQndHMlNDel9ZYUxnaTRZNFR2eEhyLWVfazZSRm02cnAta0lz0gFiQVVfeXFMTTJiMHFOM0tlMmdiYm1EMDhaMjZYQ2Vyb0FnX0RzWXdPMFVOdU11d1RRVWx3dnliblpYZXNwc0cyUl9ZODVsRzhiei0ydmF3Y2ZvYTVsV203b1NscjdIb1NLRnc?oc=5",
-        "source": "自由娛樂",
-        "published_at": "2026-11-21T23:30:00+00:00"
-      },
-      {
-        "title": "混合辦公成為常態 企業資安與AI管理需要調整的環節- 生活新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM193VDJYZXdteGdjZkJBWFhMVVpoTVZTckR0RkM1dUtXMENqQUswblVFZzkybFQ1OTRzQlhoYXJaVHhxalQ0SUxKYWN1SEZCaXEyMHdnS0JUdHI1LVZSckZYNUkwalpEdGM4QjI5R0xLUG94SnNRY2c2UlNYMWlUT0hsWEpWQWR0Y09kSDF3?oc=5",
-        "source": "PChome Online 新聞",
-        "published_at": "2026-11-21T14:14:54+00:00"
+        "title": "Intuition Robotics – 為高齡者打造的 AI 夥伴，主動對話與健康提醒 - quasa.io",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMVZZbHh1NEFYMTFOREpZanpuanNWSVdUc181elJldHhRMEUwTnZFRjZOdDN4SUFKdmRNZHhuUFUwQWVXOHhWanFsUE1WU2gtWkk0dHF6UWNXeXpmVDVKc3A5VEFUOVpvcTZHaGcxZjhUWXFLV3FyWGRLVm1fSVlFRUNsRTNTeXpXT2U2R200ek45dlZaZWs1dGtaNWpXeG50WU4xRllKWmNocGxmT3dQckNNN1V5NzhXS25GN0NiUlA?oc=5",
+        "source": "quasa.io",
+        "published_at": "2026-11-21T18:38:54+00:00"
       }
     ],
     "finance": [
       {
-        "title": "2027年亞洲股市AI、製造業及內需成三大支撐 景順偏好台灣市場 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4Z2hQQTk1dWVKN1VOTFJPYl9RdnItcm5VUkp5MTlQdEhFb0tNVWN3SXBsOEhjY1Mzb3FKejZvUVJ3V0JBeS1sZUhNenVzNmxM0gFWQVVfeXFMTndkTm9sMFV4eWJINW1nVjJyWEJrN3Zuc05jY05JUndlTlUzS0x6YTV0RFdtbmJEdXFIM3J1Z0pXTUhoZ0lodkxPQUxleHp6Ymt1ZFBMZkE?oc=5",
+        "title": "南韓防股災準備啟動護盤基金、放寬庫藏股、嚴管放空| 全球財經| 全球 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtTm1jYm4zQWJVUmxRUFJGaWVyR0FhWHFndklCLVZqNUYta3FuRVdoQUhUbzZ0WnRKVUtCZl84NmZTQzN2LWR1Z3ZjNUEtemlwQXViS2NKM3BWOWxyNlhBQ2lvNDhRbUU5c25ac1N2Wms3RFF0T290RF9xOA?oc=5",
         "source": "UDN",
-        "published_at": "2026-11-22T08:15:24+00:00"
+        "published_at": "2026-11-22T14:40:38+00:00"
       },
       {
-        "title": "瑞銀提出明年經濟走向4大情境　標普指數樂觀上看8200點 - ETtoday財經雲",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQTdnR3RJc21FdmRqSzZ6S1l0TTJDRTE0LTJra2tDTmE3LWZjMTNDVXFLVUxHblpwaTFyWGxZV3NUemVNNGc3OWRzV2lScmV3NnfSAVBBVV95cUxPcU1EdHNSY3U1Ry1wQlVGVWd4YnEtUVRXMEZfTEVkR3dpZ0daUFRTYzhSbDdkazFlcy1ieXo4bFpXWkFFblFUaFAzbnlSUHJRYw?oc=5",
-        "source": "ETtoday財經雲",
-        "published_at": "2026-11-21T22:05:00+00:00"
+        "title": "救股市！卓榮泰明邀集金融科技業代表會面 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81cW1UajQ3RGJEczM2WDJveGdtWTJFSFRvOWxaVWxJTUQ0V3dCQXBQZTVYYVBzMFNZSXNlVEtEQ2dHcDFzQXkwZWgwN1pNS29WNjBvYWRn?oc=5",
+        "source": "LINE TODAY",
+        "published_at": "2026-11-22T15:01:03+00:00"
       },
       {
-        "title": "「股災還沒這麼可怕！」專家揭暴跌背後藏全球危機：恐擴散到全金融市場 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxORDhlZGJydXlSaXB1NVFJbmFCQkxhWHlOajFXeUVWV3k1blMtYndya2hMVHhITjdiMkphcmVlRDRwMktKcF9LM0VFcjJJQ2l4dlQxcERlOENCYUFqUHZEd29vNXJxMnVxYktRYzdqanJhdjRDcUdENG94SkhTcmZhUGp2TWV0d3pkUXJxT2NudGpvSlRJUy05bHA0OXR2cms1Z0VLVnM0UGdwTWFua3dBb25hU241cnRXYmJoZUN1NFd3VDJIR0JuNkpmaUNPMU5DSDFaejliVWFVSTRIR08yU0FBMVhCNVhYbldnNjh2d1RRamJpaEZZNW1hRF9qWlZIaC1UTnNxUDRqanJDT3E4X0VYc2NVUEtXUmxNWTk0WkdlZ2Y2Qk9Zc1Z2VlJqQ3lZbk9OSnFWZUlsTmIyOWtfYWNZRVYzZ0hUM3RkWGJDdmZKRHh3QmRILUtnVC1xbEFNWjJJTlhYZWZKUmNNQklRaV8td0dFV3N2Q0kySDRfQUhDdjRvLTN5bGctYWphY0JhUHFVbDVUbXE1cXVMeXgzOVlkSTlxUXUtT01jQUg1RGt6Zw?oc=5",
-        "source": "Yahoo新聞",
-        "published_at": "2026-11-21T15:30:00+00:00"
-      },
-      {
-        "title": "經濟部：企業營運接單有信心 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEMmZvNElITk5ZdTB0TUxsanFYZmdRSVNoZXlrYnFuNy1fbVZ0NDZLTE8zRE5GTmJ2cnREbi1Gams1Nlo0cUpGUGJiYmd5LUVISWMzYlRSUDV5YjDSAVtBVV95cUxQRDJmbzRJSE5OWXUwdE1MbGpxWGZnUUlTaGV5a2JxbjctX21WdDQ2S0xPM0RORk5idnJ0RG4tRmprNTZaNHFKRlBiYmJneS1FSEljM2JUUlA1eWIw?oc=5",
+        "title": "台股連日重挫 卓揆23日將與工商團體座談 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMTBrVk95aTRNZi1FZDBCQ1lJMFdiOWRCQld4SGJSZlkyaF83S2phM3VhMVVPaUZySjFwd2VUb1htVWM1SUVZY3A1QmtmSV9wTVB5VnFwd1ZzZkdfV0pB0gFkQVVfeXFMTmx1NE9ZTVYwck5aeDBoNjRjVzdxMTdSWnA2OXN6T0I3d0hvUTFQb1BBREI3V0I5bzVQVVBmMnRwRWFoWW5PWTZpNGpkeHVIRG9yZE5vRXhYSGdwR00xa1VmNmtaZA?oc=5",
         "source": "自由財經",
-        "published_at": "2026-11-21T21:30:00+00:00"
+        "published_at": "2026-11-22T12:35:03+00:00"
       },
       {
-        "title": "台股單月重挫22.03%遠超美中日韓！專家示警：台灣已成「高Beta經濟體」 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13NzJEYkRLQTJEVENKbVJHZHEyajJhQzRJTWt0bWxhX0NoSnZYLUZ3MGw5NUs5cXY2YlZCdFd6ZlRxWHVtZmY1eUJlUQ?oc=5",
-        "source": "三立新聞網SETN.com",
-        "published_at": "2026-11-21T17:01:42+00:00"
+        "title": "怕黑色星期一！韓國假日緊急開會救股市 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TamNrR2YxWVNEcU13bmZkVjMxWGw2dzItejNjY2pFemNfSjRMRklLZENJRnRZdnNMc0tPVmtaTzYtNWJHZmtOdXVTd1RzcUdlNTVvdy13?oc=5",
+        "source": "LINE TODAY",
+        "published_at": "2026-11-22T12:55:29+00:00"
       },
       {
-        "title": "費半20日重挫逾10% 卓榮泰4點裁示穩台股 促強化融資與國安基金力道、緊盯匯率 - Taiwan News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NZmRTSnhhbGJ3LTRkVFlUY3U3QW9WYkpGalhtVlFQdkNjSThYSkp4ZmEtaF9lVURDenh3SVdwVjVJSS1oY0dBUmdVQnVxaWRnTTFjTXlNb0o?oc=5",
-        "source": "Taiwan News",
-        "published_at": "2026-11-21T11:44:57+00:00"
-      },
-      {
-        "title": "卓揆4裁示 穩定台股挺產業 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQWJkSTMxSlNYX0VpRUNBU3RlOHNIUE5ELWJpN0NsSUhNVFhJS0RCS3Mwc2EwcWs4dUVUZUw0cncyajRFRzJmbDdEbWZBUVhZSHBHOTZR0gFbQVVfeXFMTk9YSF92bWN2VF9xMmhza3o5M09FRHRCWHgzdGtrZDdCNlAxM25mT19oTUFoOWRoRjExczUzcFZvOXpLaW54VHJjazBwbXFxYUNxTXkwZm1GR3VXMA?oc=5",
-        "source": "自由財經",
-        "published_at": "2026-11-21T21:30:00+00:00"
-      },
-      {
-        "title": "搶救台股！平盤下禁放空 國安基金喊話「已進場」 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zYVgzVXBOMG1oSFA3QklHOGJkTi1zbzBHRmR1Qm5kbWF4YW5ybVFCTmJGYTloWlBqdWtHUzNlUXdwdnJTZk1jc2NmdGdiQTk30gFWQVVfeXFMUFliYUxlczl3emc5YVMweGdxT2paeVUtVmNoWVowU3hiQVEzWkNIRmFMbWRnYU5UVVVNWHh2RFpxVlFjSTRQdkp0dG5XS0g2Z250X3ZjcFE?oc=5",
+        "title": "這波美股重挫何時休？ 高盛：可觀察三個觸底訊號| 全球財經| 全球 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RWllhWVlVSUtxUGx5cm9kWF9xWjhyMjJmbGdDOFl0ck5Dam81Z0hfWTVVWnFEbzZ3TDc2WTRhU1RERlQ3aXNVOEZJaFA1OTNx?oc=5",
         "source": "UDN",
-        "published_at": "2026-11-21T16:23:32+00:00"
+        "published_at": "2026-11-22T10:47:08+00:00"
+      },
+      {
+        "title": "跟隨台灣南韓準備推穩定基金救股市| 全球財經| 全球 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4OEl6TlFzR1J3V1lRZmJMN1RqX1d3eGt6OEl5Z1FlcjVaZHZ6NDV6TlpQb3VfTXNSTm41Uk5IWjRyMzkzT0xIR2JuWUpaVUM3?oc=5",
+        "source": "UDN",
+        "published_at": "2026-11-22T12:02:00+00:00"
+      },
+      {
+        "title": "TWA00 加權指數- 全球金融市場拋售投資標的物現象- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lWEJzRVNXQkVfanktVzJqVnN0S0M5ZVB6Vmprc21MaXZRbkZJVnktNVVnOGxadDc4SWcwamNMb1FCVDRTN1hZeXBLNm8wRGtERHNFWDZvajA?oc=5",
+        "source": "CMoney",
+        "published_at": "2026-11-22T09:37:37+00:00"
+      },
+      {
+        "title": "韓股今年熔斷11次！韓國跟進台灣國安基金　18年來首度出手救市 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYnB4Ukstd3libm9hekxQZElZYl9lRlpuSUZ4R2tyTHBvcE0zTzZLWUZudG5hdDhQNndKYS1JZjNQaXFwQlB1NXowYnFUX1JGM3fSAVJBVV95cUxPV2JweFJLLXd5Ym5vYXpMUGRJWWJfZUZabklGeEdrckxwb3BNM082S1lGbnRuYXQ4UDZ3SmEtSWYzUGlxcEJQdTV6MGJxVF9SRjN3?oc=5",
+        "source": "NOWnews今日新聞",
+        "published_at": "2026-11-22T12:36:28+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 38,
+    "count": 30,
     "points": [
+      {
+        "lat": 59.508,
+        "lon": -155.452,
+        "mag": 2.6,
+        "kind": "quake",
+        "title": "32 km NE of Igiugig, Alaska"
+      },
+      {
+        "lat": 31.67,
+        "lon": -104.182,
+        "mag": 2.9,
+        "kind": "quake",
+        "title": "53 km NW of Toyah, Texas"
+      },
+      {
+        "lat": 60.003,
+        "lon": -152.657,
+        "mag": 3.6,
+        "kind": "quake",
+        "title": "52 km W of Happy Valley, Alaska"
+      },
+      {
+        "lat": 36.0126666666667,
+        "lon": -89.507,
+        "mag": 3.07,
+        "kind": "quake",
+        "title": "11 km WSW of Dyersburg, Tennessee"
+      },
+      {
+        "lat": 19.0438333333333,
+        "lon": -65.317,
+        "mag": 3.07,
+        "kind": "quake",
+        "title": "82 km N of Culebra, Puerto Rico"
+      },
+      {
+        "lat": -24.3316,
+        "lon": -176.3814,
+        "mag": 4.9,
+        "kind": "quake",
+        "title": "south of the Fiji Islands"
+      },
+      {
+        "lat": 59.166,
+        "lon": -145.661,
+        "mag": 2.9,
+        "kind": "quake",
+        "title": "153 km S of Cordova, Alaska"
+      },
+      {
+        "lat": 43.4743,
+        "lon": 87.9381,
+        "mag": 5.1,
+        "kind": "quake",
+        "title": "45 km SE of Ürümqi, China"
+      },
       {
         "lat": 3.0314,
         "lon": 126.3861,
@@ -323,118 +379,6 @@
         "mag": 4.5,
         "kind": "quake",
         "title": "0 km SSW of La Colorada, Panama"
-      },
-      {
-        "lat": 59.206,
-        "lon": -145.629,
-        "mag": 2.6,
-        "kind": "quake",
-        "title": "149 km S of Cordova, Alaska"
-      },
-      {
-        "lat": 50.933,
-        "lon": 179.502,
-        "mag": 3.6,
-        "kind": "quake",
-        "title": "288 km WSW of Adak, Alaska"
-      },
-      {
-        "lat": -22.8557,
-        "lon": -68.8598,
-        "mag": 4,
-        "kind": "quake",
-        "title": "44 km S of Calama, Chile"
-      },
-      {
-        "lat": -6.5369,
-        "lon": 127.8223,
-        "mag": 4.1,
-        "kind": "quake",
-        "title": "237 km NNE of Lospalos, Timor Leste"
-      },
-      {
-        "lat": 19.1909999847412,
-        "lon": -155.487335205078,
-        "mag": 2.87,
-        "kind": "quake",
-        "title": "1 km SW of Pāhala, Hawaii"
-      },
-      {
-        "lat": 19.21266746521,
-        "lon": -155.477493286133,
-        "mag": 2.84,
-        "kind": "quake",
-        "title": "1 km N of Pāhala, Hawaii"
-      },
-      {
-        "lat": 18.3416,
-        "lon": -68.8265,
-        "mag": 4.6,
-        "kind": "quake",
-        "title": "18 km ESE of La Romana, Dominican Republic"
-      },
-      {
-        "lat": 33.65133,
-        "lon": -118.26217,
-        "mag": 3.31,
-        "kind": "quake",
-        "title": "10 km SSE of San Pedro, CA"
-      },
-      {
-        "lat": 55.15,
-        "lon": -153.936,
-        "mag": 4.2,
-        "kind": "quake",
-        "title": "200 km S of Akhiok, Alaska"
-      },
-      {
-        "lat": 32.40217,
-        "lon": -115.21833,
-        "mag": 2.62,
-        "kind": "quake",
-        "title": "6 km NNW of Delta, B.C., MX"
-      },
-      {
-        "lat": 37.1958,
-        "lon": 96.6398,
-        "mag": 5.9,
-        "kind": "quake",
-        "title": "238 km SW of Yanglong, China"
-      },
-      {
-        "lat": 36.5599,
-        "lon": 70.9787,
-        "mag": 4.4,
-        "kind": "quake",
-        "title": "36 km SSE of Jurm, Afghanistan"
-      },
-      {
-        "lat": 34.0109,
-        "lon": 140.2109,
-        "mag": 5.2,
-        "kind": "quake",
-        "title": "112 km SSE of Tateyama, Japan"
-      },
-      {
-        "lat": -7.7324,
-        "lon": 127.5407,
-        "mag": 6.8,
-        "kind": "quake",
-        "title": "105 km NE of Lospalos, Timor Leste"
-      },
-      {
-        "lat": 36.5934982299805,
-        "lon": -121.223663330078,
-        "mag": 2.67,
-        "kind": "quake",
-        "title": "10 km NW of Pinnacles, CA"
-      },
-      {
-        "lat": 18.0755,
-        "lon": -64.3988333333333,
-        "mag": 3.22,
-        "kind": "quake",
-        "title": "48 km NE of Christiansted, U.S. Virgin Islands"
       }
     ]
   },
@@ -484,8 +428,8 @@
         "title": "Prescribed Fire Elk/Clark Piles RX, Coconino, Arizona"
       },
       {
-        "lat": -11.9,
-        "lon": -166.8,
+        "lat": -11.6,
+        "lon": -167.6,
         "kind": "event",
         "title": "Tropical Cyclone Xavier"
       },
@@ -1352,39 +1296,39 @@
     "cities": [
       {
         "name": "臺北",
-        "temp": 20.0,
-        "cloud": 1,
-        "wind": 15.9
+        "temp": 18.5,
+        "cloud": 4,
+        "wind": 11.9
       },
       {
         "name": "東京",
-        "temp": 11.0,
-        "cloud": 33,
-        "wind": 3.1
+        "temp": 5.8,
+        "cloud": 3,
+        "wind": 2.4
       },
       {
         "name": "紐約",
-        "temp": 12.7,
-        "cloud": 100,
-        "wind": 4.7
+        "temp": 14.7,
+        "cloud": 98,
+        "wind": 10.2
       },
       {
         "name": "多倫多",
-        "temp": 4.8,
-        "cloud": 100,
-        "wind": 3.0
+        "temp": 10.7,
+        "cloud": 27,
+        "wind": 5.4
       },
       {
         "name": "倫敦",
-        "temp": 6.1,
-        "cloud": 36,
-        "wind": 12.2
+        "temp": 8.4,
+        "cloud": 100,
+        "wind": 11.2
       },
       {
         "name": "雪梨",
-        "temp": 23.9,
-        "cloud": 84,
-        "wind": 21.8
+        "temp": 23.5,
+        "cloud": 99,
+        "wind": 8.4
       }
     ]
   },
