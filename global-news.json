@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-11-23T09:24:26.183880+00:00",
+  "updated_at": "2026-11-23T21:36:06.971907+00:00",
   "source": "Google News RSS",
   "articles": [
+    {
+      "title": "Minnesotans lead U.S. Power Soccer team to World Cup Bronze | Good News on WCCO - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTNHT2g4Nkdhb3A4S1RNR0NuRlp0Vk9CNVd5b2t5UG9UV1BIallnUlpTMUhnMVR4V0wza19JRjJMOHo5NUE5Qkx6endWcklKWUtoRzFJdDdQVVJaeGpUdjBPMnMxZ2Fra2h2SFZjVWdKVER4ZXg0WUU0WUZDcUZqMWtYQjJVZFZJdDVJYlhiOV9ERnpxSV8zZXdneFRqVnplMndCaFpoZklEYnVTSTZ4ay1OWQ?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-23T19:39:00+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-23T18:46:26+00:00"
+    },
+    {
+      "title": "Idaho man skates 19 miles while juggling to break world record - upi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHloOFN3cVVIb19JbE5TVlJ5V1FyMjdtMVFfSjhfOV9rVlZNUmlySFlSS29QYWV3TU1YYUhtSi1lUkxaOFhvYjdmdnlMZm1JdGNCMTN1cmYzWFJLWnVDMnZaTzktVHBpcjdRSFI0bG1aRUVVd3phUmFGRElCNzJkcDA5S1oxWFZEa0JYRU1xSlZhNE5xWGxoOGtmemp2b2t3UzdaLXlLd9IBrAFBVV95cUxOanpwRmt3Q1RZaWh5MUxiV3lqWUxFUHVUdVM5OXRiWDhmc01NNGhNMzhTWWMzeHYyV3NJa0UxeVV1MXFjSnRFTlZpUkItdUJhUExNUmJyTU80WHRjY21OY042ZzFuWDRwVGQ1OWpRVXVzaHg2N2d0ZUdUOXpEM3QzQnRKekNfMDNDei1aV2ttRGFFOVpXYUhIbFdMZ0dCaFVFQ3RXX21lM0tWdWt0?oc=5",
+      "source": "upi",
+      "published_at": "2026-11-23T18:14:01+00:00"
+    },
     {
       "title": "Laser Focus at the Top of the World - NASA Science (.gov)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlZMdC1ISldJSUF2SGUycjRjNlA3dDdEVGRYYlppemVjaU8yLXBRNFlWdFNmaktYWERGRDFzNEVtOUNfdk5JVFR0cGFkM3huRElIU2lXR3Q3NnF0SDNHanFjYVA0R1RZRjhoS2NMRWRPRXZzdEpKRUJuOEN2MC0xSlpYUzh0UTJEbldPUXF3?oc=5",
       "source": "NASA Science (.gov)",
       "published_at": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-11-23T20:04:35+00:00"
+    },
+    {
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-23T15:55:41+00:00"
+    },
+    {
+      "title": "FIFA selects US for 2031 Women’s World Cup - WHIO TV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHFjb3pMZmQ3eTdfY2M5VzJnNUwtaThMeDY1R1o0QmVJVlNNcGNIM0VfUjVpRnVacGZqRkJZOVRzdHNMc2UxQW9xY1l0dVFRNUt1eXlGX2s0clFxRXhBN3NuNmQyTXBIcDJCS2hsdjB3Ynp4eHc2Nzc2WGk4bkhVaTBwUi1Ld3JKbEt3bmRIUkd4akhhZkpLRlJTOGhyektVNms1TEdhNjJXbmtzaWoxWG1CRUpid9IBtgFBVV95cUxNWHFjb3pMZmQ3eTdfY2M5VzJnNUwtaThMeDY1R1o0QmVJVlNNcGNIM0VfUjVpRnVacGZqRkJZOVRzdHNMc2UxQW9xY1l0dVFRNUt1eXlGX2s0clFxRXhBN3NuNmQyTXBIcDJCS2hsdjB3Ynp4eHc2Nzc2WGk4bkhVaTBwUi1Ld3JKbEt3bmRIUkd4akhhZkpLRlJTOGhyektVNms1TEdhNjJXbmtzaWoxWG1CRUpidw?oc=5",
+      "source": "WHIO TV",
+      "published_at": "2026-11-23T15:30:35+00:00"
+    },
+    {
+      "title": "Sun Chemical to Raise Inks, Coatings and Adhesives Prices Globally - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR092TWU1d3ZkaEJYLXpmTlZCVmlHSnZadGROMDM5NFNSYkwxMzlhZmlGcHVCVmtGdHNXb2NyTWtYNGtYeG9qRnJFWlhsRDZFeEU2Uk5DR1c5UGJyWjVoUGNaSTJMbFUxa0RiSEs2OUhkVHJmZGExWnNPcDlzaFZONzFzbnhPZGxtcjRfX09lakY5NlRPQ054VHp2OUp4QW12LVZ4NjBQOFhYRmhxalhB?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-23T14:53:16+00:00"
     },
     {
       "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border - Fox News",
@@ -15,166 +57,88 @@
       "published_at": "2026-11-22T22:13:15+00:00"
     },
     {
+      "title": "Registration Opens for the 2027 Women in Finishing Forum - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZaLUhNeVdISFowR0xoQTA5Z2NiMzRQNFM2WGtEUllsYlNFcVhCc0pXaDNtdFVHMThqNHZlVDdoWWZLZDVsQ3FYQUs4U3dNUG5yWWdsV0NHNTdCcDNGM2V4YktLWWJvaXhFVFdYRnl3XzdLODJhdDRWNERQRHlHRG9iNmV0bW1pUE02UFoxcXpQcmg0dkVoSWd2T1ZCZUV5S05n?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-23T13:18:00+00:00"
+    },
+    {
+      "title": "The Mets’ ridiculous Tarik Skubal contract is the last vestige of MLB’s old world - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFVId2tSSnA2RjdKUmpaR3ZkOXJUeFVsUHBTdXl1OFJmSHBwNFk5VUpuTjRBNWRzdm55UkpiU0kyMk5WazRCOWEyTE9JNTdqZlhhRTJnd0FEcXNwWDJYMWdOZVA0eTllTXhJaXdFeFZkdUVPME1rdHZFakEyLVFvSkxrQm8tR2xpZlRMMVBQVQ?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-23T17:06:53+00:00"
+    },
+    {
+      "title": "Latest news bulletin | November 23rd, 2026 – Midday - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzhpOGZtSHY0YXRHeXFvSjdOTVU4ZFQzYUxXNkl1WkU5NnNiRU8zVkozVzU0NVhkcFpoczFwaGRTdVVnNGRUU2k4U3JqcDFIMlVuMTRXTmluZXpoN3pGZ3NYVUhhT193UGUtQWlQZnRMSUktRzJpUktQYV9OMUItNmVaQlZNZnRnd2FOb2R5eWhaX1VTNXc?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-11-23T11:00:15+00:00"
+    },
+    {
+      "title": "Olin and Huntsman Announce Business Structure for OlinHuntsman - Coatings World",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjV3LVZJTkJCNGs5Z3JudTJZMHNzVl9EdTRJZ2UxRUdRVTR4SVQ5YXFjSlFBcWQ2N2owQmZvbU9hdHlxWm9iZW1wLXNQMVB3NXZwSi1PdW1KZV9icXJjLVpuZGNtdVdObkpiLUh2a3l2THl1d2k1VFozVHNWMDh0TlJxZkdkSlFrYzZrMkhiSGtjbUxxMkFrTUhnWlBwbU5CNjYzQUxJNnRCUk0?oc=5",
+      "source": "Coatings World",
+      "published_at": "2026-11-23T20:15:51+00:00"
+    },
+    {
+      "title": "Spanish Court Removes Last Hurdle to Catalan Leader's Return From Exile - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzY4YVhsd3RDNFlSU2xPenJBMDRiOW1BaFVwR1dDdkp5UmY1dk15NTlUa0FrUXBsVkVzSDZwSXM2dmdwMlpHRFZJa2tOUkRHUDBkNEpRMGxZOUNxYUxraUhxY3NSRnlQSFVYdHNQRW5DWk4yTlBUQVdPLVRGVkgtUE5Sck8xX1NMc1BQQkpOdUh1c0VMMV9mMHRTNkhYQ1FGSFFPQVdCTGxEMkdGWS1jM1VqUEJENUl1aHdpeVIzY1Y2Zw?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-11-23T14:03:00+00:00"
+    },
+    {
+      "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3lwZXZZSHFHcVZxOFpYR3ViYUFHaS10b2NoWGRwTXotdHRQUWRiWXBXc0IyTHozbFJTc3lXY00taWFLd2FERjRIbDNIbzZyVmppcEVPTm1ZWHpIZXZpX0F6ajYtYXJrSTVFV3VZS2hWbmRKQlhiUEdpMHhlLVppcXAtbFhGUkQ0a1RrWW5HZ0kwUzFudnZXR1JJLTctUFlHeWhHa3JEUzFkQVdzOEpZdGpCTVpfenc2?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-23T18:41:32+00:00"
+    },
+    {
+      "title": "Video. Latest news bulletin | November 23rd, 2026 – Evening - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX29TNHREcE1Tc2dmeXBsYW1JMnlKeDV6YkhKeWdYNEtiemZCR0EyVlg5MnhwSlNtWWhCSVNHcHNfRDZxY1FiZXBjZWlXRGx4OTVLd2o5SXh0TUozYS1lN3I4N0NUWDEtWU1DNHBhMk5KRFJWMVNQRTBkcDZtMDZvZ2VmQUlfd2dIRTlsUldaYTFOc0U?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-11-23T17:00:26+00:00"
+    },
+    {
+      "title": "Delta tech outage slams flight operations at world's busiest airport - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3ZfUlBoMU5WZkY4UDFmcmNHQ0NoUVlSTHJSRl9qeVUtbFhpQVZ2NzBRU3RWN0RsZXZuc0Q5Ukh6NHNQVm5QM2pUOHB3VHhYTFJ2bXo5b1pFS1B4QTRFdGFMMVJYV2RIWVZxRTZjc2xpanVWRDNWMHNQRi1qZEYzalkwNFRkZ0Vyd28taHNfQjBaM24yUWs1VXNKNmN3WU0?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-23T12:29:00+00:00"
+    },
+    {
+      "title": "India emerges as world’s top bioplastics innovator - Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamdIVkcxYmpaRzRoekJpMzR2akxxTzZhRVRPUmhzbGJsZEJXdV82dnhuM2Fvd2lia2o4d1lrZm9kMFJrQTVpeUdUZ1hJY0Mxd2dORGdDOHZycUNrTExjVmQxcTZsaGM2b2NfX1o1NXZZR0FIY3QxOFEyMWVKWk1IWXNnR0VvaFJ1NXo4SnRDMTlDeWpQS0VJcno5NFlVMlRIMnduR2NlbmM0SDZoa2pBWXVVdmpKX2NrMklHUVZmNWFhclNYd1E?oc=5",
+      "source": "Plastics News",
+      "published_at": "2026-11-23T16:40:00+00:00"
+    },
+    {
+      "title": "Artificial superintelligence ‘arriving’, warns top Meta executive - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnRiM0ZpVzFaTkZaZ2lUc2dtYjY2U2tqZnFGQlNCb2JRWjlCdkxNQWU2WENIYnVsb0hXVjNtNS1XQ1JzdmtBaU1qRDE2aDd5T2c1Z1lTY2VsaXE4NHJUNjhwdGl6Tm1DRlNVa01DOFlPa294amRMSl9uQlFTczN1dVlhSmRBVWJETV84VkxFcG5EUDVxSC14bUpoREdBZGM50gGmAUFVX3lxTFBESHNmbkFBdXN2ZGc2b3FMT3JiVlNQWHNjRnZYUV83dV9NRVJaWXd0ZWVjbU82Qy1yYVNoXzVtT2VzbzQtQ05WTHI5X1MtZTEyRjdKN0M1UUtJdk5UNTYtdHhQbHlBdE9fZ29ZMnV4VzZhNnF1QTd2QnViYlhyOVNBQVM4V2FFV0otaGN5WkhqSTZMNWtvUUxBZG9ZUmEzQUYxWkpwbkE?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-23T09:13:28+00:00"
+    },
+    {
       "title": "COP31 negotiations break down as countries fail to agree on climate deal - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5",
       "source": "The Washington Post",
       "published_at": "2026-11-23T03:07:33+00:00"
     },
     {
-      "title": "Sun news: The man who guessed what makes the sun shine - EarthSky",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
-      "source": "EarthSky",
-      "published_at": "2026-11-23T04:01:50+00:00"
+      "title": "El Salvador’s leader Bukele reveals how 3 Salvadoran soldiers died fighting gangs in Haiti - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2hHMnhyWWZ2TWtQLUNnVllwTDlPUzBxRUQ2NnVWZ1A5WGVYTnNaNnRHd04ySjJDTE1yZXNWcFkzaVlPcUFZRUFXbkZLQ3V0bElpQWNGMGdBUGVmRl9iNnhOdVFLRXpYVm9EVUhkcnpuM2ZhcmR2Nl84ZWdQRDEzZTJhLUh4SGh6THhsckw3cklmeU9xMU1KNWl2bDIyQlVId2Z5Y1pIWWxvOGhXSEwzeVJjUkFvS0lPVzg4SXljQUhDTEtjd21lNnRsRjZ0Zw?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-23T15:05:37+00:00"
     },
     {
-      "title": "New to MotoGP? Meet Marc Marquez, the 2026 World Champion - motogp.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVNKa1FMUWV4Rk96RzBCWDI3V1MxNHRVZWhDSWdvSk1jdHpSZUNwTTRES0VBbHc4X1FRU0tBV0Zicm96OUNtN2dUR3R2M1F2aVczVkZWRTNPVmZGcG9VTXpGTnBDRFc5dERxV0M4Ml9McWlaZDhvMFpmXzJvMi1tdTRQc3l1QllBdlNSQzNvZHZQSmJKeHRuaThFaFJpTVRwOXpoR3JoVFM?oc=5",
-      "source": "motogp.com",
-      "published_at": "2026-11-22T14:26:59+00:00"
+      "title": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTJtbzBCbnFxemN1UlZyUkFEWUszanhVenRYWFNUWHdBT05XQVhPWFZiZUNPd3lzR2x3djhjMEMzUWc4eHU0aDE1cUhhTVA0RW56ZDd1bXhOb201RjRXV0dRNElKM192bTlueW13a3VmRUF6V2V0M2JJMHZYMVYwd2VBaTFTSTNPVldkUENfLTZaZnFBN2drQXZ0VWFseGtGbWRadThvNTF0TEZhVmdibi00cjdjM3ZXYW9Ia0J3UXlSZWc?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-23T09:56:49+00:00"
     },
     {
-      "title": "Earth just saw the most anomalously hot day ever on record - Scientific American",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxKWlZ2cDlhU2ZyRzhHWlN4OXNYeWZNc0R0QXNjTnZ0UFNiSzh1R2s5Si1TV1N1dS04X1hpNFg3MEZWSzdrQnowSkFaS25JeHFrTUltMlczT0VCUEVTcWdIV184VUhWMUx0YVRxeWtfdmJtQXpyd3hGSW9DYzJpZFBkSWdzalJvWmI2T2FZemNFenpwck9adGI5R2h4bllfQ1p1dQ?oc=5",
-      "source": "Scientific American",
-      "published_at": "2026-11-22T20:19:00+00:00"
-    },
-    {
-      "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-22T16:11:50+00:00"
-    },
-    {
-      "title": "BREAKING NEWS: Alcaraz beats Zverev to win the ATP Finals for the first time - Tennis Majors",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2Zyd0I4Y19aWktROTV4X0hfbDNpME1EalJ6QTZ1emQ3ZHRXNXItaGZNYUx4UEo2N3Y4ZGFwNWRXbktsaWFZaXQxWlpOdTRWdTlzd0RjTW1TSFRCZXJSUUEyd0t2Tk9wb2gyLTFWWEROY3FzekRMdGZGYzFITzlFWVg5VVZ2UjVWS1diY3R3YUlianBnTWNLQ1FCLTBkbmtWbFI2ZDRqMVRTeWItRGNEUnBaZ1NPSzRLVy12RGhyQzQ0NVc3WTVMQ0d4cmRhS3JTSXJzVjZDUmg?oc=5",
-      "source": "Tennis Majors",
-      "published_at": "2026-11-22T19:18:57+00:00"
-    },
-    {
-      "title": "Rian Johnson Leaves the Door Open to Star Wars Return: ‘It’s a World I Deeply Love’ - IndieWire",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTJkaFRFOGJsS1d6WXlvT19LNU1rdmR5cXN0STRPSV9kSWl6QTBMeFRqYzM0blltTklnMFVYMWlWQUpKQzdTR2h6d1VOakFqODdsazB1R040U2llU25JSW8wYy11OEFKSkJjeVVZdnM3TXFiQTd2VTRLZlppcUtRUE9ZN1hwVTBwaUQyd180R2xfS09sUzhocA?oc=5",
-      "source": "IndieWire",
-      "published_at": "2026-11-22T21:00:00+00:00"
-    },
-    {
-      "title": "Carmel Creek named top San Diego County school by U.S. News and World Report - San Diego Union-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3FGc2hlbVdieUFsZFlYTVpuaF9YTlhEUHl1ejJVRDdjRmhvQTNIVjlBOFlaellwcjViNnZQc24wZUpGVzEzS0NmZm9KUEFuR1g1Zm94MVpjNlhpQnBGYlhQODM5b2hibWI2YWhzNDU4UHZyT21CYXdvWlFYV0w4T2dyeDJ1MDlvWER3NVkycDJOeWRkNHJVVHk5czVQd1luZUYxakc4M29LQ0oza0h6UVV2NHNfaVA3OGVOUmhmMXh3QQ?oc=5",
-      "source": "San Diego Union-Tribune",
-      "published_at": "2026-11-22T16:57:32+00:00"
-    },
-    {
-      "title": "Video. Latest news bulletin | November 22nd, 2026 – Evening - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHRxa2pGQVo1VWw5THEzMW5LQ0tfU3lqYmVTY0RIbUhfR09fZVRfbXJidFlpWkttQWI5bEd2UHdLOTdrV2ZFSEk5UnZkcl8zMWJkSjE1aWo4WlMwSkZlUXJUNjl5U1NCV2NtVTdQWWVtN0pwSzY2dFVON3ExX0lxS2VNT1k0MWVMR1JRWlgxUEZxYUU?oc=5",
-      "source": "Euronews",
-      "published_at": "2026-11-22T17:00:26+00:00"
-    },
-    {
-      "title": "Gary Woodland Withdraws From Tiger Woods' Hero World Challenge - Golf Monthly",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXJOdnlpMXowOFU5anlzZHkycjNNU3VFSkVfakVjUVZvdUlCOVpjYTVCY1dSR01GeWNmc0RSRk44ajdVbnJ0TXFwT21TQ0o3Ymp6eDZ6YUpTUm4yR3B4aUNzRWlITTZFdjMtVTFiREUtYVJYNFRncFFqUm1CX1BVVVRlWkNPZC03RlB1Z25MejNNYjRUdzFsVi1B?oc=5",
-      "source": "Golf Monthly",
-      "published_at": "2026-11-22T15:20:21+00:00"
-    },
-    {
-      "title": "Welcome to Poker.org - Breaking Poker News - Poker.org",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1DZmhJYklZcFpTTmtTWnFNcXduVGdNdlhnQWhzaW1WQUVCbmpsQTNKOGk4aWphNlhRVVE?oc=5",
-      "source": "Poker.org",
-      "published_at": "2026-11-23T04:26:58+00:00"
-    },
-    {
-      "title": "UN climate talks break down over bitter disagreements on fossil fuels - PBS",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1FQXzdWbzh3MUxqa1EzVTlSV2Z0ektCVUotM2d3NFIwUTdWemFqcm5vWkFNY09yUUdsT25nTldHY0luQlVhNkRqZVotN3hiVFpqZjByM2ltX2w0aENPbkN5T0lPX2NpcU9oRllYQ0poYklxZ3RxWXVNQjFnQ0otRGlRUmpyOG5LN1BxSmtSU3lzbGRBYkFFSWExcGRoQXZGSGFGVmItUdIBrAFBVV95cUxPNU9JOHVpaktTTG8xaFhpNEgtR3hLQ0M5aFlKZ0Z2UkpYdGFIbjdtczJtTE1pdUFsZ2hsdmdwNGEwaGZJamp1ZzNZdlF0Z0NzYTBxRWI0bWJsVFV1cFEyWGlfbmx2dFRTS1Z6YzdJRG5BZ1cxaXpBaWN4U1AyY2ZPWTQyY1JTRjJONEJlQXpGZFh3MTBoOHJTLVJNMndrTXQwX0EwWklzaDF1VzhE?oc=5",
-      "source": "PBS",
-      "published_at": "2026-11-22T16:30:17+00:00"
-    },
-    {
-      "title": "Latest news bulletin | November 22nd, 2026 – Evening - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1pqNEtLVHFydU5kTHhqdUJmRjAzM25BREsxd3A4NXNENnhLT0MwMVVkdXRHZUpsaXI4eXRKRHJGVms5T2U4NnNqQ2xLOFVxbzVmaXZxU0JGbVM3bnNnQ3hRNHo5WWlTVkZpZjhNTERwbkpqMDh5emtwaDdRX01NNFhfazhyM2JFVnhVd1kwZUdDMTNyT2c?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-22T17:00:26+00:00"
-    },
-    {
-      "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zazlrTTNEV2tGd0RQYWNBcEdIendZVHNySG96NDVwUXA5aWQwLWw2NlFsN3RPUjhfRDQ4ZDNsQ1hjR0lvZ2V2ZENMSlIxbXdocWxKam9fTkNpak0?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-23T05:15:06+00:00"
-    },
-    {
-      "title": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2ctWDVuSkdRVXo4MkdXVWtCNXcwYXlFeGp2cUZCMmItdHJjenA4VDlRcnBJRHdrZjNuREh1cHd3Y1JESURBaTkwci05NHV4bmhtd2U3TWkwR2JKT2JfQ3I4TXFCRDFjSTZXaWs1STRmOE16SFpKYnlrQnpIbmJJdmwwSndDa25EU2RNMlI1WnYwR3R2a25HUUhvQm8wbndzNVlxMGdaMlFDNjBEWklKY3EwN2twZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-22T15:04:31+00:00"
-    },
-    {
-      "title": "Trump says Iran unleashed missile, drone surge after midterms - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNGZHR2QzdtY0JPMXh2Q2t2RzF5aFZkRTB2MEQySnE0WXNDTDZ3QlphR0M3dThYSHIyU2ltUkVhNTZsbFVGTGhjLXRNZEk0M01pUnR1OWVNUWRlUEpQeUNLQnJmaGZ2aUNEcDVpMEVsd19McFhmeVhuTkx5dEYxR2xxYWhMcHV0anFQNGthaDVieEhw0gGaAUFVX3lxTE84Qm9RcWFQZl9HN2hlWU8zRUU3dDZtREFoaWdJRDNwLXhDWmo2cVVmekdnYlZsMHczUFlIVDU4RXV2RWtfNzUxNTM1WUJQNEFPTkRNWnZmV1l6ZTIxVnpiWU52YUd0dHpQY1U2c2xGdFg0OWlpM09SWVBGTzRqY3ltUVF3SDdkd1V2Z1EzYi1xZ0JCUEtWTkRIQkE?oc=5",
-      "source": "Fox News",
-      "published_at": "2026-11-22T23:33:06+00:00"
-    },
-    {
-      "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1BjTGRmMGRRNmNZZnFiZEc1eV9WNU1oTzR1TXh6NDZ5aTFZMkhWN1ZVb1lwOFFybjE5V3dIbDAxbjRCQ2wzV3NBU1BGTE42U0xXMkFRMGItdjk4RHdLVUhUcl95MkdtVllUU2xCN3lZYk1oQk03MUxYcmxnZVNteWgwLWJ6NUItSGFvY1A3TzZHYTZqelRfcWh5eUQzUVllYUkteEhOREhiaHFETWVfVNIBtgFBVV95cUxOemFJRWtRTGk0YVVad3pyc0tYRExXN2QtdlZQdUN6dTJXM2J2UTZwNWZYRUczemtyaHpTRkQxb092YThXR3ZrOUprUHRzbE41VGtyQWl3SU1TT3JTcHctSlVvVk43WkZsM3JxRHZVWG5qZWNpN2hkMjFHVndLbnQySTFwWHVsSE5YbTBvdTlLRkNtSGo2Mm95ajl2a1c1Wm9BMjg1T0Nobms5cG1ydWM3TUxHRXYzZw?oc=5",
-      "source": "Fox News",
-      "published_at": "2026-11-22T22:43:24+00:00"
-    },
-    {
-      "title": "ALL CAPS: the man who traveled to every country in the world reveals why Israel stands out - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqd05UUW01eXEtNkhPOWJScW1DMmxCSXNYSW1tZFotcURaMW05YlBsSWZ5WUNCSGpaQUFHQUI3QjNSY0dzSmNVVzg0YktveUJIRXlTQ1FqeEJLYWczNXJkcHM4U0ZnWUpXTHFr?oc=5",
-      "source": "Ynetnews",
-      "published_at": "2026-11-22T12:55:26+00:00"
-    },
-    {
-      "title": "Video. Latest news bulletin | November 23rd, 2026 – Morning - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzN4X3Q3Ymd3NE5GdS1hbmRjSi1uSDdsbGhLNUZQeGJ3amZwSVhNMUZZR3h5UjVoa2F4bVViaGdjTkt0a0JnSTRlTnVOVldyTFpFdHVZbUNyTm4tRDI0eEJxUHlLUVhobE1uUE5oYXRNU1NKbm1SOU84dHppcGdPOFFGUm53VzJtTDVISGdZRXJWaEk?oc=5",
-      "source": "Euronews.com",
-      "published_at": "2026-11-23T06:00:32+00:00"
-    },
-    {
-      "title": "The top photos of the day by AP's photojournalists - NewsChannel20",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMWpNLXhya1hNcW1GaEQ0Q2FpN2lGb2p0V3VVbjdzemJkLVhqVTFSVXBTZzdBSVNwQTZMaDFWU0pHX1JMb2xTWUJUZ01rYXZlNEZsbjBTZy1Wc05HR3FmVDRlMC1Kb2tIR0xtQ3RLX0R2aXVzMzVXYUVONmlGdk5mYXBMNzFfaXN4MWpLWGQwaGE0V3pNbzRvLVFFUnRaTS16c1FkUFU4WE52dHBwcmdlZEh4NmN1VjF2ejZhTzMwSkl1c1Nfd1ltSC00aFpNZXBpSHpFZzk4cktuMG51UTloRg?oc=5",
-      "source": "NewsChannel20",
-      "published_at": "2026-11-23T07:29:48+00:00"
-    },
-    {
-      "title": "Cop31 climate talks break down as key deal rejected - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkNuWjNLcENITko4MVo0NmxPemtjc0ozMHVwb21uWE5VNEJ5U21qUS1NUDNKbkR0TkxRQ2hfaDlGbTlLWWh2Vk8yd2N4RkQ3QzlyNUd6OTV6YWlET01BY3lvTjFNRUNVbURyanhuRUFwd0NBLUxjOGRSZDhlUXBrbmhTemNYazFJSjI5NjJ0d2d5dkNxR1Jkelp5dF9QWW9kMm5MOTVhZnFuQ0ZKM29vSU1QN0djLUNRWEtVag?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-11-22T12:54:00+00:00"
-    },
-    {
-      "title": "The top photos of the day by AP's photojournalists - Dayton Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUlqaUlfZHI4VktNT000UjJ6VFp0Z2dVUkljNUM4S0tDTklrNzU2Nk81RXBNSjRuTUw0Rl8zdjRtV3NSNmNOVUVnbmxHaHlJbUcxcFcyemo3dlMyQWxiSXdrZlg3aDZ0TzFkdjNHbHJfN1VXMm1PdDVQUHB4QjZnS1MyLWNjY3pJMVJReWtyMEFMVlJBWmlNX21hcGk4cGRCb1d3MEtycjF0blpIeUl6ZFpXY3BXR2VyMlk3WDdNX2Y0TlNtRzBpWXJQd0hQLW5UbWVxMzZmNnFaYjJh?oc=5",
-      "source": "Dayton Daily News",
-      "published_at": "2026-11-23T07:29:48+00:00"
-    },
-    {
-      "title": "TTW Reveals Top 50 Best Countries in the World to Travel in 2027 - Local 3 News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOODd6aTdjU2ZZMklpYktuY1d1bXJjQWhhQUhJWmRzbnBzak9MM1MwOHpxQ0x2X2lPVUVLYWpjNE1WZElXb1BFbTlQRjhVdF91YTFYLWJrTzJvdVJBWllLSi0wT0hYaF9KNDZsaFp6dTJ5OXpmck8zOTV2YkwyUzEyWGR0OUwyTWtEVlp1WVh1eUlkQ1lIU3hFZ2VMNy12TzZWeHFZSGJBYW5wMzh4bDBCVVA4a1BCbHJEeHVKZ3RmTnhHcldjcUFwclB1SGRyOFJXQ3gwRm9GV2xQcHFzQUhDZ0tiVGVkYk1jSVJPNWhWNXZJdWN0b3FxdUlDeXhaLXlUZVE?oc=5",
-      "source": "Local 3 News",
-      "published_at": "2026-11-22T19:31:00+00:00"
-    },
-    {
-      "title": "World rail contract news round-up - Railway Gazette International",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWZzYXNveU9Sd2Z1NVIzUzJjLVpsNEhHcHpUY1UybEVGRV9aMEtuZnJhV1A0TVBXRGhabXcwY19qMnp6TEJMaVBGLTNkcTVVeEsxWllISDRwR0tBTktYOGFzcVY5eHNyTnhyZ0NkODE1T0VVcnZzd2FTZ3NUUTJFTmZ1THR6T2RESlFN?oc=5",
-      "source": "Railway Gazette International",
-      "published_at": "2026-11-23T06:03:29+00:00"
-    },
-    {
-      "title": "ATP rankings latest: Alexander Zverev is world No. 1 with 10,350 points - Tennis Tonic",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlg4dHpPUi1SeGE4bnRFVEJ1czl3UDZWM1ZBVktYWnVQOHdVTnVyWDZzbHlwRzdMOUpReFI0U0owUUpiZUxSdkdadndENXZyYXRxZWFTcFNnSm50blJadTM2WC1uTl9jRnBJcXpGMjZ1cUlsaHlqdjlWVjJUQ0tTZjkxT3JkOVBRNjRwNlJyN1dnSEU0TjAwZEZONUU0aVVrY05OeW5hanhDLTZUMHJZekVJaw?oc=5",
-      "source": "Tennis Tonic",
-      "published_at": "2026-11-23T09:05:52+00:00"
-    },
-    {
-      "title": "Arknights: Endfield Launches World o’Shrooms Update November 25 - KeenGamer",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFNuUl9TUWJJQnRpSzcxV280NGNGY2pxbFByM0VWY0N1Zl9Ta0lSRFh4a0h3NGN6aTY3Q0t3bGxlbk5HVnJmYlFqY2l2WHlPZ2FRdERieWhSdFd1ZzVnellOcmdyZUs1SlV4bWtvSHVYVzJkTS1BSUpmeVRaTHFGV05MNHZuVC15aXNZQTl1bEE5YmVpeTVtRE83Q0FaOGRFdHFXag?oc=5",
-      "source": "KeenGamer",
-      "published_at": "2026-11-23T09:18:39+00:00"
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3V5Z0xGSi1aT21SeDBnMmhOSm1VQ0wyYm9EWDhyQkVRMFJ1VTRqN284V19EZjA4bUl2cDI2bmNDNmtXZVZCR3JHSmEyejJESjBRcXBEMmpJX1Q0VHVtVV9YRlo3RFNkTDhyU09zOE5SM0xXWlg1bGtlNlBrdzdFN21LMGVWZUo0ZlFxcFlMbzVTakRNSmJDSDB1d1d3ZlNFQnhuSHNQRHN0WTF3X0l2WVZpaGc2NDJRaTJzd0cyZVhTWHdReUc0cmRjZ2xLa0RMSXVSdEtKZXdxZw?oc=5",
+      "source": "KSAT",
+      "published_at": "2026-11-23T07:48:24+00:00"
     }
   ]
 }
