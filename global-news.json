@@ -1,12 +1,90 @@
 {
-  "updated_at": "2026-11-27T03:42:05.129769+00:00",
+  "updated_at": "2026-11-27T13:23:48.531888+00:00",
   "source": "Google News RSS",
   "articles": [
+    {
+      "title": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
+      "source": "CBS News",
+      "published_at": "2026-11-27T10:07:00+00:00"
+    },
     {
       "title": "What will Trump’s latest tariffs mean for the world? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVp3NmZhaGdLMWtPSEt3T2FhY2FQbFRrTHI1UTU2THNoTldrVzlGcjFEc2o4M3RCWWNBcEMwWHlmN2JyMVJGM0FDT3FkMXg5RHY4YWlYRVB4VVdKZC1MTkFtdWNCS25xNWRHXzRGMWtPeU5VREE1cDhZVm91NzhONnl0ODFUNmJxcXRtb1FBUnRlWENkZnU3RWFWdHdyNjZjdS1DOER6SFY5UdIBrwFBVV95cUxQTFB1THZSTkdlTERla0NGSThxSFZMWGU0ajkwWWNueG5JY1VreVVWQmstT1huUGZMTl80ZVZVLWdsLVlzYkZHMm1jQkp6QlNZbXNmNFdsRmpUaTNOSzVqZTdtNjNYek5lQTU5RXpIUHh2aVFTWmlid0c0NmRiTjR5NEhsV1hkQlROc2V3VEUyZ1YwWlN0UFhEZWUzYzQ0YWh5d1dkUFRCX3FZTWxRTHJn?oc=5",
       "source": "Al Jazeera",
       "published_at": "2026-11-26T18:54:07+00:00"
+    },
+    {
+      "title": "GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T03:19:10+00:00"
+    },
+    {
+      "title": "Zelensky: World depends on our products - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRERHYmtiY1QwckNBanU3WUhEZ2lzVHFlS2k4Q2RfRDFleV9XTEY0WE1zX0JXa09FRVFyMjlKdHFOcUNVQk95TThBeVFxYnMtUzZjWHE0M1hoVnVrbVI0bEQ0MGZXSjVzbXhQcUxXcEtMUXM1QlZsY1ExZkRFaVRsRDJ2OHI0ZGowQ3ZUTw?oc=5",
+      "source": "Breakingthenews.net",
+      "published_at": "2026-11-27T10:45:00+00:00"
+    },
+    {
+      "title": "BREAKING NEWS: Japan zoo breeds endangered penguin by artificial insemination in world 1st - Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfNnBzVmdzWE1NbkFEeE1TaDB5ZG9DSzhvczdrck1zYTllX2ZpWTdmMUZ2dWFwQlpHUHlxVHFoRXc1ZlRHTDFWcmlKaTZWclF6T1VxX3k3V3ZtZw?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "published_at": "2026-11-27T02:07:00+00:00"
+    },
+    {
+      "title": "Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDNBcHcxUnVELUVFUG51R1RSTDgwNFJxbVpaNjlMcTFobUs3eHNJTFNIQ0ltQ2t0SnlCU1c3ZWlHMFBfLTdGd0FyU19kdFpjV0dadExjTzQ0YWdYc1RlcHU2a2ptUGJUQ1Y4YW1vODJsYjZtZVhCdUI1Tmg5VEU2S1MyLUVuOTAwVnZRLTFFSEtXMDJ5cDBpM0lNeTlVc09QOUlB0gGoAUFVX3lxTE54T1dsbzlwbGJqeTNoaWRhTC1PUUxHZF9WVXNwY2NISlRPTFhfcXVGOVp5Q3o0a0pUaEs0TkkyemU0bTZrRTlyaTRLcHJiUFVPdmhTalBQTFpEMndLRGY3UE1ra2VXVVVuRFoyczVHVWRNM0VNV0VYM0ItZjVITk1UbXpLeW93bDhfV01jcl9ZVDY2T0oyR3pid3FYaG1ycjAzUEhWdmR6SA?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T21:39:15+00:00"
+    },
+    {
+      "title": "Trump says the world's become a 'casino' after US soldier accused of betting on Maduro raid - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYy11SWFNUmxndHlzVUVPbHNiSlNSajNQLXNCWXBOQ2JZOUdicUQ3cUx6V0JHRFRscjkyXzI3WE8zX2RNNkI3RHJQX1lYaFhtWENLN3hWZWUtaUlMbW9wWlVGX25KN19yVVNPRF9OMTNOdlZialk3RG9RTGFDT09ISlB3SE9OZlA0OVo5c08xT2s5SGIzcVB3NzRvd1JoaExs0gGmAUFVX3lxTE0wM3JhTmx0cmVpaGdTQ01Ed0VMWGhjdHpBWVFJZmpGM2lMckxobE5EM2M3Q2dDTlJ2dG1kUC1rU1ZJTjgyMFJIcVhsSlB6MFZjOUZJVDVicXY2azhBOGREOEx4ckJqVDJ3OTdtMzdCVHdQQTkxaWlEZmRZX1lBMFF0cEJ1YmJvRGNiMGk1Ym9hTTlmZkVHakxMS1FwX3BwdVRBaU1qTHc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T19:52:02+00:00"
+    },
+    {
+      "title": "Iran executes protesters in public as regime expands postwar repression, human rights groups say - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzNKMXk1RDJuWjJPR0V4b1paMl9oeWJxeDRTWlJiR0xVOVVPTFBrM2pFSmdUdTZIajdxY3l4MW02V0ZTTWZSakdRTmxHYzVRSThTdHBpV3l0TTFFZXJlT3gtcUxVS2JtenY0YlNnOG5xaTd1X3B3bndzRTNlbFV1ZWdkR21mNzV3Ri1TRVBVUW40Mld6ZXQ3Vk1fNGpvcF9td2V3Y3pUd3NpM3lSU2Nac2hjSU5rZ3ZuOFHSAb8BQVVfeXFMUGl4ZVNJenJXWFF1OTJYR2tFRkdTcjhYbFlPcDRQU3dxUU1fTlhsM0lJQlRvMEVxMDVpMUxFWkpzYTlKSHBJdm5uYVhSSmVRbzhpemF6Z2VXZ2RZcVpXanNkOVh4UDFwX0xWYjkxMnFycEJQNTBrYXJtWHFYWldWUEpzRTFqZU1IRm9VNFNDNTE2V1gxWXVCN2NPbFdlaFBnc0NKU2RjMG8yTDlKZUFoRC1yOURURzJPdEFITnVxbzg?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T19:36:57+00:00"
+    },
+    {
+      "title": "What to know about US soccer star Folarin Balogun's 1-game red card suspension, why team can't appeal - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODhnZnRkRTdiLWtrV2RZRVUtb2NteHQxV2lMNU1EdzFXOWlqeXR4X0RKaU5OWTlBY2RzekdDNVVBeHdtUXV4UHhOb0ZHQlNhLUhPd2lDYU8zcmhxb1B4N05MY0RpaDFxYS1nSkVJNXF4RVQ1bFpVMnFVWEJ4R1FfQ0pSd2RVYlVwNnZxNG9VdnN0VWtIaXZYUdIBngFBVV95cUxOcVRwamkwUV8zWm9sUkM4dWtMVHhkOW9PN1l2Y3pBWmFSTmo3S0gweXprd1cwWDhndzJBaVBiQUlrZUIzMzZCNlVyRFFiVFAxNDd3cGI5eDVsZFRMSG5Vc1hEMmdQMjFDOERKejAtbkdqMDBjWXJMaHg5QmxKZ2JvelJONklwMElNdnBfNzB2bWJFU0VxSjZ4UmhFSE5xQQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T01:35:13+00:00"
+    },
+    {
+      "title": "'World's most luxurious plane': Trump unveils Qatari-donated 747 Air Force One - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3E2dEh1TWxoTDlOR1d5NnEyaHJXblpOZFhfRDdncFBBVGEtbTAtbXZld0VLdDJSYmZ3bnRPZVZtV215MEQ2dDhfZXBZV1lRSGRmcGZ0dHlPZnFWYnkwYVBWMmpFeklvZ2hmX1RjQnRHMDhSNjlqTy1PX0haTDEyMDZzRXZFeEpVY21FOGh5cXVmSmFkTkVvZjRSa9IBoAFBVV95cUxNckZKRUFXbE5EWktFV21FQ1VuWmJ0OFRUWmFHSDRaQnMxUl9uNDV1bkw5Ni1RajJ0RFdKWUdQTzhtWWhqSG10MEF1YTZ2UDZlWU1OZXNXV01IWW1Ea3YxeGNHdWlYZVpNUVFoVUh1ZS0yZV90WVF6T0tXbHZWcTFkMllxZERCQVgxN19tNGJQeWhRb09ld3U1X19tS2RKOGdK?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T21:17:20+00:00"
+    },
+    {
+      "title": "Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXdXYnRzQjhrelUzSGk2YV9CTFJjSm4tU1d5WVI1ZHI3ZHNIUkRVOV9DZU5PSGY0QThIanBjQWV0cDJLSGJqRGVNbmFCeW53a19OQkd5WFBCSmhiNElncFlfbk1QNTFjNUYwOEZJRHVWay1ZSmo3QmkycVZvQW5pYzN2dDZjMlV5cnhyWnhCdEQyREFEVkcyOGlpMHJBckI2ZFM4SVU2d0JaTGJNODhuaHFuSFA4cjjSAbwBQVVfeXFMUEExNGNzZERwWmJQUHFxZ204bVNPSEI2TXp4UEJhcVpkOENMdTVRejQ0SDlLYXVuWVhodnJucHlFUmtKb2liOFJ3Zll1aDlvNE5wSWVheW8zd1dKWXBLcWdtQXZ5M1NZa2lvQVVJczlSTUdZSUtSaGs2MHRJdHJGaXhNQWdMUFV2RnBSU3dFSU9iQWdtaE9MdGk1SXN0T2RkcXFyYXJKdXFmajBWX0xQRS1oZVhqMENFOW0zY00?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T20:58:23+00:00"
+    },
+    {
+      "title": "Daredevils reach top of Empire State Building with banner, before apparent proposal - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUp4WjZZWDc5cVpoUVp3WUtpdmJhLXFOV0FkQlpmeUlmd2lyUW5abkxSS2JKLUdMOU05WncxYTl5SDZtZml0ZmRPUzg0VGFDQzZrb1hFM2NROFltQWtYQjFlVGV0TWZnT0VJeXZsRkRFNFk2cVFvanNYMWlmVWVVZGp2VHJDdDNtUFdxWk52RmQ4Z9IBlwFBVV95cUxNUTc4alZJS3VoTUxYcWxnTTl2R09ueGtqbWxSMTk4dnNHMWxEYVFRWVBudDEzQVpjN2l4RnNQNGJaNnZISEQzbmJoSEdHcDZmT1dCaUxQZDBzVzZWd19fS3c3Tks3ZG1SRWVSWThFOVdCSGxUU09Kcktfbmh5ZmJqZWtrVU5lSklmdGlpcG5mN0l5SEhiRzNr?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T20:03:52+00:00"
+    },
+    {
+      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-11-26T22:41:55+00:00"
+    },
+    {
+      "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1lZbU02Y3NDWmIwS1NnVC02dFd6NnJ1Y1Y3cWE0VU5oSmlES3JiQkJrdHU4Umw3cWRHbVU4MVVKTzg4M3RPWVI0WFVRNm1OUkdUZklXZGM0dTRpOEJrR05OSE0yWXp1Q2JKXzVFcWk4bkpEdVQ1SjVON2R5TF9TTi1iZzQwUEhOYVpZYVpaS2pJRlY5?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T05:00:00+00:00"
     },
     {
       "title": "Spain's Election Could Topple One of Europe's Last Left-Wing Holdouts - Haaretz",
@@ -15,58 +93,22 @@
       "published_at": "2026-11-26T15:43:00+00:00"
     },
     {
-      "title": "Rock music world stunned by deaths of 2 legends on Thanksgiving Eve. Here’s the latest - PennLive.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODNYNHZfRWJLVjk0d3A3RlIxVy1kXzVJcjJ3NWd1Y2xKN3JJSG5kcWUyanJTRWxfdTV3dGNJSVVTc1oxUElOSDdtcklqNEhqS05udEQ5ZWx5eWdmLUtWYmFuT1pFdUJFakVOWllHazd3WkZ2R2xtUGYxMk5sVmxqdnYzRW02WEZhcHdjWlFhRXgwWmo4bUMteW5vdmhNa25RaDZibUtJZUU4emkxbVFJa1c0WVNLZDdmZVBFSlN3UGVhVHBUR2dSZUlZS01CN1FEdGfSAeYBQVVfeXFMTzNHR0FRRTF1elhPbkFuUlBMdjROeFNzUjlHOUFnNlZodndqaVpTakt1TGdyTGI4S1B4QWxMODRzSl9Nd3dBT0hORkt4aDVUSkhCNTU3YUJYOWRQSGt0Sko2NU44elVkS2kxQW02ZWlQYnpDbUV2ZGpUdFdOdzE0Y2g4cE9HWFFWODRocjQwTVB0eXRqcnBiQmI1Wnk5aDBiM1ZpOVdsR1c0ZVlKaHlNT0RnRmVsRlN3Y1RUOGJkaG1FWHRVTHhnT01zX041ZnpzQTJwbHc2bE9vaDIzYTl5RkdXcC1LZEE?oc=5",
-      "source": "PennLive.com",
-      "published_at": "2026-11-26T12:15:00+00:00"
+      "title": "9 top countries by international student population (2026) - Study International",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fU3Y1d05fQThkQm5lbmFZX1R0LThHSXNOZ0Y4VU5oZk40WklqRlo0LVl4bXAwYkNFWFVHTmZpOFN5NU1uWGJrdmVSbWlEX1hiWWFfNGR0QVVKeHlDazByV0x1OWJLdGxZaWpiU0xUQmkwN2JJSGZsNw?oc=5",
+      "source": "Study International",
+      "published_at": "2026-11-27T10:08:10+00:00"
+    },
+    {
+      "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-11-26T19:46:00+00:00"
     },
     {
       "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
       "source": "EnergyNow.com",
-      "published_at": "2026-11-26T10:33:08+00:00"
-    },
-    {
-      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lV1N2Q2hJZWtleVhlNEFZQWpyWjAtUlg4cGVhcVh4VVcweGhHdnFlMkNIdFFhMkE0Z2wxb0tYSFptZDhHZnhCN1F6bXVwNVZEREdRd1VUdlZ5YUE?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-26T19:55:58+00:00"
-    },
-    {
-      "title": "Latest news bulletin | November 26th, 2026 – Evening - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQek1xVDB3Nk1tS0FuZjhfWG52a05kejdhNGk1bTlUZjg5X0lhd3VWOFg3T2JmYV9YT3VUdUNLZTJoSllhZHdpOGdjTDZwTlhabTQ3TkZKRGlLY1p4MVFHZmJIazFJYkZpdkk2LW1jNi1kUWNINVRsMnlmc2tRU09yR25hR2h5azEwWVc0REdhV0ZNOWg5V2c?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-26T17:00:26+00:00"
-    },
-    {
-      "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-26T18:54:51+00:00"
-    },
-    {
-      "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-26T13:20:19+00:00"
-    },
-    {
-      "title": "The top photos of the day by AP's photojournalists - KTVO",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQW0zX21wZ1UxNi1vYXU3MDY0TGVjOUNKc1ZJamRmYy0tcXB0Z2VVbThGbW84TDB3QTg3Tk5pRlJCekp5LUNWa1FOVTBPR29zQVVuZlpMRzQ3d2pPalQ4M0hfSjRTRzlKb1ZZdjllNWk2SGRlbHE1WlFjaVlLaDBVLVF3QVZveFdRdEFlakhGR1N3c1VsbkwzZU5tS3lzd3J0bmhUZjBFa2dmZnFRdElCeHZKejFoQmlFdlhCV1BPMm1iRU9Nd1BaN0lhVFc0WS02dWRjSQ?oc=5",
-      "source": "KTVO",
-      "published_at": "2026-11-26T20:40:55+00:00"
-    },
-    {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMFJQc0hqd2U0NUVUeFJYNjFydHF5Q2pMTTBGZXZnRXZIdVBVRVJ6WXNSdFZsM1h1dUtMeEFxdXBCWjRrTld4T1RhYm1xRTg1M3ZRMjFIOVBJRDhUTVBFQktkYmlZZjRmcXlaLVRkVFh5dlk0WFBlakJlZFVmWF9lbVVrTzZ0MGFLZW5iZDNEMjlKakE2alZUN1RLQlU3M2w4X05Zci1sUkZlaHV5NVRiN2pGUXl0dWVxZ05jVktUajN1X0c2?oc=5",
-      "source": "KSAT",
-      "published_at": "2026-11-26T04:19:22+00:00"
-    },
-    {
-      "title": "WineInk: A loss for the wine world - AspenTimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JTm5ZZC1FUDVxTk1obFVVM1NCT2R6TXh5WE9LWHE0TURJS21nZ3lLbjItZjU4VTBFOEhINVVZeGVmVzVCZ3FfTktrd1hPZlBTSzJ4QWVHb0lFSVNrMjJzZEZRS2paTm5CRHpGMHB1NnBmaldi?oc=5",
-      "source": "AspenTimes.com",
-      "published_at": "2026-11-26T20:20:00+00:00"
+      "published_at": "2026-11-26T16:41:04+00:00"
     },
     {
       "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - ABC News - Breaking News, Latest News and Videos",
@@ -75,46 +117,22 @@
       "published_at": "2026-11-26T18:59:59+00:00"
     },
     {
-      "title": "Alcaraz's path back to World No. 1: How the Spaniard can close the gap in 2027 - ATP Tour",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHlBQnlybmFIeTNFYjNjLTRhX1hpVjdKcEg0MEVjbGRrMkdUM3dBcHBYUXROYUNGeTZEN0VIZnZpeVk3c2pNQi1oN19pNTRVMUsxeUQtWk54ZEFvSC12UUxXZG9Xa2ItYjVUOU9kTmVSSFZJekVWRURTb1lSWmt3eTBSSE5Pdw?oc=5",
-      "source": "ATP Tour",
-      "published_at": "2026-11-26T05:15:32+00:00"
+      "title": "What to know about Elon Musk's massive $16.8 billion chip factory - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORU5GVVpzVWVrQ1M1akFaazg5aTRoWGhXdlR1dFJDN3JJbWE2dXZ5eHpoUV9NMjZiOGhGYkN4a3g5SHB0cWx3aHZBZVA1RTBhanpNa1ZaY2RvX0F2NTR3SUlVVEpEczVxOGMtX3JFWHpCOEhiajQ5RExmN1JjZ0Z1TEZFWWM3MlN2ek9VaElyRWVZV1Bvd2fSAZsBQVVfeXFMTmdfc3Y0b3Jua3RSX1dqTmVoRU5rMGFYS2pyZVNKdHF0WnNQNkNHbkFpX01Kd0JDT0FrRUhyYUJMV1k1WEpReFFSMnZJbkEwREtpWW1vYzNyUWV0cGFtU2VGbmpUOUpCMlZaNUtPUzVnN2p4SzBFNmZ0aTIxQ1dXM2V1NGU3SWdyV0RSZ1R2UHdSUTJPT0Q5b1Mwdlk?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T00:07:25+00:00"
     },
     {
-      "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3RheHgwdFB4cXN6cDk0SEdPZzdwOUtwV212a29zdWdycDd4YkxETUI1ZTNpdFRkeElsRGNmRGZvcHh2N285LTRMSVFkbmVJRmtsaVpkR2ZLT3NzU0xObW9qYmlHYmwyOTYyLU42MUlpSkJkT1Bwb3dUSlR3OGY5U1BKQ2FrSmFmcHc?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-26T10:04:17+00:00"
-    },
-    {
-      "title": "Video. Latest news bulletin | November 26th, 2026 – Morning - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVYwWkRMVHlYR0JBUHM5UU5rV0dKcFRFeHZHbEhVZzFRTVJ6WUxqV1F6Ujc0OThXREd6d3lZWjJXV3g0UEx1RExTaUx1bHp2S2FLS3RaTXhORW9aSUtKbm5iNFp2eldKN0dldDdPWlItNUhjR2xSbGRXbVlfbVN2NDlxZ2w5dzY4LUtFajU4WW1wbzQ?oc=5",
-      "source": "Euronews.com",
-      "published_at": "2026-11-26T06:00:32+00:00"
-    },
-    {
-      "title": "Surventis & NIO Sign Letter of Intent - Coatings World",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWxnNXN6S05WaHI1NVJTVExRaGRJX2swYl93SjJaTTNudmMyZHJaV3REVk9QdFhCcnJmbG1MemU0SVlSSGdlRGxQdjVENlNxalZYWlB6aWE2Y0hvbG9KRFgwOENaRTdyZ295MjJmV2M5TDV0enk0dGQ1SFR5RUFWSVNfRi1hX2M?oc=5",
-      "source": "Coatings World",
-      "published_at": "2026-11-26T12:57:17+00:00"
-    },
-    {
-      "title": "Siemens launches world’s first heavy duty direct current contactor for up to 1500 V - Batteries News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEVMVkNfa3d3Rlh6OHkwZzd1UlJTcjNOdGpVZTMyQks1NlRXaDl3WU4wUmdERjQ4eGR5YjhyaW0xemVJRzZwbktVSkZVazZSa19MOUtfMm5lYkc3SXhHNVJQamR4c01VYlBuMUl1a0plTFZxdGNrTy1MV21OcHNDMG9ZUnpzNkVrbll4dHhjNDJHUEFlbDdWWDhnSld1d0hMbENydmlHRVJtZlZvYUE?oc=5",
-      "source": "Batteries News",
-      "published_at": "2026-11-27T03:19:20+00:00"
+      "title": "Ronnie O'Sullivan: Seven-time world snooker champion open to entering qualifiers for Crucible showpiece - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUi1iRWNiUV9xZjZIdDBNQkQ2cGJMczlYXzZMbmtmSlc1SFJIR2lXeUVHaUdiRk9aVGRLVk9hSExhM1BLd21FZXU4QkxPQWtPamFPZnFSdkVIN1F2dE9WSG1YY0VNOXBqeE5HaUU0Z2l6VVZ2X2FOVDhyOGd4dEZfc1FlNmd2U2V0ZG9SVU1Ub0ZiUHFSVHhZVDFZMnNzTDJIYzgwLVNoenR2X1ZaUFMzTWV1eW4zRWcyb01xQ252bF9uQ1l5bzd5aUNnZC1sZi1ZeG1uUzNCOUo1dUttdDZMYmZPbnlfenQwQVVfVm5SY2RkaGM?oc=5",
+      "source": "Sky Sports",
+      "published_at": "2026-11-27T10:04:08+00:00"
     },
     {
       "title": "SCHOTT Achieves EcoVadis Gold - Ink World Magazine",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFpQNWxSOEVrR29rdGdnZFlIR1RXOVNKT3EwMEF5MGRfdzZyVWZObjRCTFV6ZXJyay1pNFNBNkFFYnpwSjNJTkMyLTFQUmxUYmpSZllBS3FKMXcyQ3JLSTNFRTJQTEhMejY3VU9HUjdSVDBaOVg5cUlqR013TG91NkFvVQ?oc=5",
       "source": "Ink World Magazine",
       "published_at": "2026-11-27T02:37:00+00:00"
-    },
-    {
-      "title": "Singapore engaging local firms over US chip restrictions, says deputy PM | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEVuNUdIcks1UTAwcW1KaWp0VzV1MDN3Zk9iLTFWak9LOUxiVkZKbFpaUzcxNEE2QmxmTzlxMmhCWVlYaS1rQS1CejVuVzM1b0ZvNjJFakRUbWhfSlFRWmVWdW1Lc3NMenZlVVRwQzlkZXlwaUtpSFJhMWpHQWJJVk1oU3NCb2JxU2FQS01waXdzSVhwd0xGVHN1SFRSSl85NGpJOFRjUjhyakh0cFhISTNqVVBMQW1LN2d1RGVxd2FMMFJmUHl4T0lfbkhUNnfSAdQBQVVfeXFMUHNzZUlXV3FNaDBDdzFWc0JhOFJCVkNhdTRnV1R2Y20wb0l1aUcwS1BZZElpRmxjTmpVUW5KZVZCbFdWMTlHbTdPQU85OTVDc3d3MF93X1N4ZEVUSllsYUpaT3VxNDR2UXlfcjJ1ZUZrNnkwdmY5MGpoREE0SUxpWkczSVJZNjJHXzJydHBLelQxN2tZY3Y5OFdxUjliUnpEMFpQN0VEb0pfbEozR0I3dFdvdXUxNDZfeUNYUTN5c0xYSEl0eV9PYzVWYzQ5cmViSGpzNms?oc=5",
-      "source": "Hindustan Times",
-      "published_at": "2026-11-27T03:20:46+00:00"
     }
   ]
 }
