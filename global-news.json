@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-27T13:23:48.531888+00:00",
+  "updated_at": "2026-11-27T22:12:21.839554+00:00",
   "source": "Google News RSS",
   "articles": [
+    {
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published_at": "2026-11-27T15:48:19+00:00"
+    },
     {
       "title": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran - CBS News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
@@ -9,76 +15,94 @@
       "published_at": "2026-11-27T10:07:00+00:00"
     },
     {
-      "title": "What will Trump’s latest tariffs mean for the world? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVp3NmZhaGdLMWtPSEt3T2FhY2FQbFRrTHI1UTU2THNoTldrVzlGcjFEc2o4M3RCWWNBcEMwWHlmN2JyMVJGM0FDT3FkMXg5RHY4YWlYRVB4VVdKZC1MTkFtdWNCS25xNWRHXzRGMWtPeU5VREE1cDhZVm91NzhONnl0ODFUNmJxcXRtb1FBUnRlWENkZnU3RWFWdHdyNjZjdS1DOER6SFY5UdIBrwFBVV95cUxQTFB1THZSTkdlTERla0NGSThxSFZMWGU0ajkwWWNueG5JY1VreVVWQmstT1huUGZMTl80ZVZVLWdsLVlzYkZHMm1jQkp6QlNZbXNmNFdsRmpUaTNOSzVqZTdtNjNYek5lQTU5RXpIUHh2aVFTWmlid0c0NmRiTjR5NEhsV1hkQlROc2V3VEUyZ1YwWlN0UFhEZWUzYzQ0YWh5d1dkUFRCX3FZTWxRTHJn?oc=5",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-26T18:54:07+00:00"
+      "title": "About 1,000 people set shopping bag Guinness World Record at Mall of America - 5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3BwamYxU3JhVjRNbW9SNHdTNHljd2hxUjdJajNScUtpd0dMOHFhN1B2WkpXaGZBYXdhRVdDNlNkV1Z5VzUwZGpES2JGZnlTOFh0R0x0TGxDaDNQT3VjdVpVX1pGbDlXbDlLajd4QzZoSHJfNWZlQjNtYXl6enJFMmp2eE43NTdDeXBfVktqWFBib2JaY1VRcUQwdnI4ZlRhb2xIR01JcHJ2QQ?oc=5",
+      "source": "5 EYEWITNESS NEWS",
+      "published_at": "2026-11-27T20:04:59+00:00"
     },
     {
-      "title": "GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA?oc=5",
+      "title": "The world is experiencing a string of abnormally hot days—and records are being shattered - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qTU9lRmhvdEt0LWJiaEV3YzRCZUNkbDFXckFZT2tPaUVtSFVHOVlLdHVaWmNSSE5kRHo0SzFkWmM3cFhqWjQtekE1cEFwV2ZPY21yaGFWUmxFQ3d6bE9wMTdWc19YWm4tcjY1REtaN1kxMjRPX1RPeWl6bXBIdw?oc=5",
+      "source": "Phys.org",
+      "published_at": "2026-11-27T21:00:05+00:00"
+    },
+    {
+      "title": "The Chicago Bears are on top of the world - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZTJlTW5MNm5xanVqQWdfd0RMaDRJWXJ0LWdNdV93NlVDaldOYVkzdVRxV0lSR1dyQ0w0M1hvaU5xVlNwUUtDMUlrRTFhV0FhWHBCVlZtcFA3OFdrdnFCNHFOZzNfUWJiUWR0ZWdmNzQ3MHo2SU1BQUJGRVQzYkhheXdB?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-27T13:00:00+00:00"
+    },
+    {
+      "title": "Trump Says Victory Over Iran Is ‘at Hand’ in Calls to Troops | America News - Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWMtSlRFdWhKbEEtcUF4dW1fNjFGTEFpVW13V2FpUmUtbDNQdDZKbUxCMHN4alhyQndfbmw1SS1RRG1qeEd5WEs2dXZqVHFmY3lIbG5vcmJ6YUlZanpkWm4wbmRjY1pVcWI3VllsU3pNdEhsd1lZQXR1NDQySGlNOVVtUzltYjZud3lON2J6Z0tMdWhiNGlsN0oxS1JJZw?oc=5",
+      "source": "Yeni Safak English",
+      "published_at": "2026-11-27T09:27:54+00:00"
+    },
+    {
+      "title": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-27T03:19:10+00:00"
+      "published_at": "2026-11-27T04:52:06+00:00"
     },
     {
-      "title": "Zelensky: World depends on our products - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRERHYmtiY1QwckNBanU3WUhEZ2lzVHFlS2k4Q2RfRDFleV9XTEY0WE1zX0JXa09FRVFyMjlKdHFOcUNVQk95TThBeVFxYnMtUzZjWHE0M1hoVnVrbVI0bEQ0MGZXSjVzbXhQcUxXcEtMUXM1QlZsY1ExZkRFaVRsRDJ2OHI0ZGowQ3ZUTw?oc=5",
-      "source": "Breakingthenews.net",
-      "published_at": "2026-11-27T10:45:00+00:00"
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "source": "EnergyNow.com",
+      "published_at": "2026-11-27T13:51:57+00:00"
     },
     {
-      "title": "BREAKING NEWS: Japan zoo breeds endangered penguin by artificial insemination in world 1st - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfNnBzVmdzWE1NbkFEeE1TaDB5ZG9DSzhvczdrck1zYTllX2ZpWTdmMUZ2dWFwQlpHUHlxVHFoRXc1ZlRHTDFWcmlKaTZWclF6T1VxX3k3V3ZtZw?oc=5",
-      "source": "Japan Wire by Kyodo News",
-      "published_at": "2026-11-27T02:07:00+00:00"
+      "title": "Vote: Who was the top performer on November 27? - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeGs5RnBhWlFlM1BCLWhIUUhMRkJqM0sxSFlqZ19faWI2VjVLZk9aX2w1VWN2SVYwZDh6TjRYVEtLMVlVYmFVc09fMWVyNUJHTnY0N2s4X21XRU1PUS02b2s1ODNQZVRrRjhYNTlxa0hZbHU0X1dVMWlTQnZyZS1Ud2NUUW1PenhuMHotWktzWEtOLXBWblpXaUxzZUI5X2tiUXF4TzZTeUdXQXNaUWF1REY3VVlWdy1rTzhTTUxtTGozX3V5cHJJYWZQamh5M045Uk83UEU1SWpMbVdRUEtFQjJlbTVaTTR4N3RpVDRsTDBjWkxr?oc=5",
+      "source": "FIBA",
+      "published_at": "2026-11-27T15:25:46+00:00"
     },
     {
-      "title": "Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDNBcHcxUnVELUVFUG51R1RSTDgwNFJxbVpaNjlMcTFobUs3eHNJTFNIQ0ltQ2t0SnlCU1c3ZWlHMFBfLTdGd0FyU19kdFpjV0dadExjTzQ0YWdYc1RlcHU2a2ptUGJUQ1Y4YW1vODJsYjZtZVhCdUI1Tmg5VEU2S1MyLUVuOTAwVnZRLTFFSEtXMDJ5cDBpM0lNeTlVc09QOUlB0gGoAUFVX3lxTE54T1dsbzlwbGJqeTNoaWRhTC1PUUxHZF9WVXNwY2NISlRPTFhfcXVGOVp5Q3o0a0pUaEs0TkkyemU0bTZrRTlyaTRLcHJiUFVPdmhTalBQTFpEMndLRGY3UE1ra2VXVVVuRFoyczVHVWRNM0VNV0VYM0ItZjVITk1UbXpLeW93bDhfV01jcl9ZVDY2T0oyR3pid3FYaG1ycjAzUEhWdmR6SA?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T21:39:15+00:00"
+      "title": "Majestic Malinin breaks short programme world record - France 24",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQl92dHNrOVI0dm0tc2xtQzRrMk5Wd25RNHJfQlprTHdsSTRISzBvOU4ybHltTW5LOENmekhCMExQQ2liTGxHWTZqb3J1eVNPdktoUVg1Tzh4cVk0d3NyblEzbkZiSWFqV1E3N2J4QUppQVlNNzd0cUFZYmR6RjJzWEV5aFgzcVpqd0x2cnp0ajBEYktaRVQ3TU1UZmttOEpS?oc=5",
+      "source": "France 24",
+      "published_at": "2026-11-27T12:21:17+00:00"
     },
     {
-      "title": "Trump says the world's become a 'casino' after US soldier accused of betting on Maduro raid - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYy11SWFNUmxndHlzVUVPbHNiSlNSajNQLXNCWXBOQ2JZOUdicUQ3cUx6V0JHRFRscjkyXzI3WE8zX2RNNkI3RHJQX1lYaFhtWENLN3hWZWUtaUlMbW9wWlVGX25KN19yVVNPRF9OMTNOdlZialk3RG9RTGFDT09ISlB3SE9OZlA0OVo5c08xT2s5SGIzcVB3NzRvd1JoaExs0gGmAUFVX3lxTE0wM3JhTmx0cmVpaGdTQ01Ed0VMWGhjdHpBWVFJZmpGM2lMckxobE5EM2M3Q2dDTlJ2dG1kUC1rU1ZJTjgyMFJIcVhsSlB6MFZjOUZJVDVicXY2azhBOGREOEx4ckJqVDJ3OTdtMzdCVHdQQTkxaWlEZmRZX1lBMFF0cEJ1YmJvRGNiMGk1Ym9hTTlmZkVHakxMS1FwX3BwdVRBaU1qTHc?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T19:52:02+00:00"
+      "title": "Nebraska ranks No. 37 among world’s top undergraduate entrepreneurship programs - Tri-State Livestock News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0xybmk1QVBJSXFxTVh4RTRFcklUdUNuXzg1amtHSVBQY3poOEtaV1A2RGZGQnZLZ1ozbEd3TkN6UU1qS2h2OEZJYzhqRUNXeXpodzRxbUtXNDFiX1lDQzJYaVBrY0ZuUG9mTnhiS0VuMkJoZF9LMFB6T25WUHZNQV9nR3BScnI1Z3VqeV81MUplLS1rNFZNZ1Uxei1ETGtQdjdtbjVQWQ?oc=5",
+      "source": "Tri-State Livestock News",
+      "published_at": "2026-11-27T15:34:34+00:00"
     },
     {
-      "title": "Iran executes protesters in public as regime expands postwar repression, human rights groups say - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzNKMXk1RDJuWjJPR0V4b1paMl9oeWJxeDRTWlJiR0xVOVVPTFBrM2pFSmdUdTZIajdxY3l4MW02V0ZTTWZSakdRTmxHYzVRSThTdHBpV3l0TTFFZXJlT3gtcUxVS2JtenY0YlNnOG5xaTd1X3B3bndzRTNlbFV1ZWdkR21mNzV3Ri1TRVBVUW40Mld6ZXQ3Vk1fNGpvcF9td2V3Y3pUd3NpM3lSU2Nac2hjSU5rZ3ZuOFHSAb8BQVVfeXFMUGl4ZVNJenJXWFF1OTJYR2tFRkdTcjhYbFlPcDRQU3dxUU1fTlhsM0lJQlRvMEVxMDVpMUxFWkpzYTlKSHBJdm5uYVhSSmVRbzhpemF6Z2VXZ2RZcVpXanNkOVh4UDFwX0xWYjkxMnFycEJQNTBrYXJtWHFYWldWUEpzRTFqZU1IRm9VNFNDNTE2V1gxWXVCN2NPbFdlaFBnc0NKU2RjMG8yTDlKZUFoRC1yOURURzJPdEFITnVxbzg?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T19:36:57+00:00"
-    },
-    {
-      "title": "What to know about US soccer star Folarin Balogun's 1-game red card suspension, why team can't appeal - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODhnZnRkRTdiLWtrV2RZRVUtb2NteHQxV2lMNU1EdzFXOWlqeXR4X0RKaU5OWTlBY2RzekdDNVVBeHdtUXV4UHhOb0ZHQlNhLUhPd2lDYU8zcmhxb1B4N05MY0RpaDFxYS1nSkVJNXF4RVQ1bFpVMnFVWEJ4R1FfQ0pSd2RVYlVwNnZxNG9VdnN0VWtIaXZYUdIBngFBVV95cUxOcVRwamkwUV8zWm9sUkM4dWtMVHhkOW9PN1l2Y3pBWmFSTmo3S0gweXprd1cwWDhndzJBaVBiQUlrZUIzMzZCNlVyRFFiVFAxNDd3cGI5eDVsZFRMSG5Vc1hEMmdQMjFDOERKejAtbkdqMDBjWXJMaHg5QmxKZ2JvelJONklwMElNdnBfNzB2bWJFU0VxSjZ4UmhFSE5xQQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-27T01:35:13+00:00"
-    },
-    {
-      "title": "'World's most luxurious plane': Trump unveils Qatari-donated 747 Air Force One - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3E2dEh1TWxoTDlOR1d5NnEyaHJXblpOZFhfRDdncFBBVGEtbTAtbXZld0VLdDJSYmZ3bnRPZVZtV215MEQ2dDhfZXBZV1lRSGRmcGZ0dHlPZnFWYnkwYVBWMmpFeklvZ2hmX1RjQnRHMDhSNjlqTy1PX0haTDEyMDZzRXZFeEpVY21FOGh5cXVmSmFkTkVvZjRSa9IBoAFBVV95cUxNckZKRUFXbE5EWktFV21FQ1VuWmJ0OFRUWmFHSDRaQnMxUl9uNDV1bkw5Ni1RajJ0RFdKWUdQTzhtWWhqSG10MEF1YTZ2UDZlWU1OZXNXV01IWW1Ea3YxeGNHdWlYZVpNUVFoVUh1ZS0yZV90WVF6T0tXbHZWcTFkMllxZERCQVgxN19tNGJQeWhRb09ld3U1X19tS2RKOGdK?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T21:17:20+00:00"
-    },
-    {
-      "title": "Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXdXYnRzQjhrelUzSGk2YV9CTFJjSm4tU1d5WVI1ZHI3ZHNIUkRVOV9DZU5PSGY0QThIanBjQWV0cDJLSGJqRGVNbmFCeW53a19OQkd5WFBCSmhiNElncFlfbk1QNTFjNUYwOEZJRHVWay1ZSmo3QmkycVZvQW5pYzN2dDZjMlV5cnhyWnhCdEQyREFEVkcyOGlpMHJBckI2ZFM4SVU2d0JaTGJNODhuaHFuSFA4cjjSAbwBQVVfeXFMUEExNGNzZERwWmJQUHFxZ204bVNPSEI2TXp4UEJhcVpkOENMdTVRejQ0SDlLYXVuWVhodnJucHlFUmtKb2liOFJ3Zll1aDlvNE5wSWVheW8zd1dKWXBLcWdtQXZ5M1NZa2lvQVVJczlSTUdZSUtSaGs2MHRJdHJGaXhNQWdMUFV2RnBSU3dFSU9iQWdtaE9MdGk1SXN0T2RkcXFyYXJKdXFmajBWX0xQRS1oZVhqMENFOW0zY00?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T20:58:23+00:00"
-    },
-    {
-      "title": "Daredevils reach top of Empire State Building with banner, before apparent proposal - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUp4WjZZWDc5cVpoUVp3WUtpdmJhLXFOV0FkQlpmeUlmd2lyUW5abkxSS2JKLUdMOU05WncxYTl5SDZtZml0ZmRPUzg0VGFDQzZrb1hFM2NROFltQWtYQjFlVGV0TWZnT0VJeXZsRkRFNFk2cVFvanNYMWlmVWVVZGp2VHJDdDNtUFdxWk52RmQ4Z9IBlwFBVV95cUxNUTc4alZJS3VoTUxYcWxnTTl2R09ueGtqbWxSMTk4dnNHMWxEYVFRWVBudDEzQVpjN2l4RnNQNGJaNnZISEQzbmJoSEdHcDZmT1dCaUxQZDBzVzZWd19fS3c3Tks3ZG1SRWVSWThFOVdCSGxUU09Kcktfbmh5ZmJqZWtrVU5lSklmdGlpcG5mN0l5SEhiRzNr?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T20:03:52+00:00"
+      "title": "Kenyan Starvation Cult Leader Guilty of Manslaughter for 123 Deaths in Latest Conviction - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnZ5Z0NPZzVrOGFBams0YkJ3ZjVqVUNrQVZsRzFrZGpuenhpYkV2NnBBb1o3SWRnUUd4Sm50TXR3QWRnZVRlZ2pxaXFYZjAzcFdLdl9qRTBYXzFBVEEyNVRnbjFrcTcwREN1TzhNVFVFajhJZ1JHZnFEMkRlODJyU3pKNG1RQmdQbktDQjA1aUtWNTJHWDhVNkFfTGw0T3diU0gwM19Xa3FLNHhzWjdaVXdqaGI1RHIwanZpc1RRZ3JpZG15S0s1LUJPdDI5TkVwWERjOE9Pc296dw?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-11-27T14:39:06+00:00"
     },
     {
       "title": "Forbes Real Time Billionaires List - The World's Richest People - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
       "source": "Forbes",
-      "published_at": "2026-11-26T22:41:55+00:00"
+      "published_at": "2026-11-27T08:37:55+00:00"
+    },
+    {
+      "title": "Iran executes protesters in public as regime expands postwar repression, human rights groups say - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzNKMXk1RDJuWjJPR0V4b1paMl9oeWJxeDRTWlJiR0xVOVVPTFBrM2pFSmdUdTZIajdxY3l4MW02V0ZTTWZSakdRTmxHYzVRSThTdHBpV3l0TTFFZXJlT3gtcUxVS2JtenY0YlNnOG5xaTd1X3B3bndzRTNlbFV1ZWdkR21mNzV3Ri1TRVBVUW40Mld6ZXQ3Vk1fNGpvcF9td2V3Y3pUd3NpM3lSU2Nac2hjSU5rZ3ZuOFHSAb8BQVVfeXFMUGl4ZVNJenJXWFF1OTJYR2tFRkdTcjhYbFlPcDRQU3dxUU1fTlhsM0lJQlRvMEVxMDVpMUxFWkpzYTlKSHBJdm5uYVhSSmVRbzhpemF6Z2VXZ2RZcVpXanNkOVh4UDFwX0xWYjkxMnFycEJQNTBrYXJtWHFYWldWUEpzRTFqZU1IRm9VNFNDNTE2V1gxWXVCN2NPbFdlaFBnc0NKU2RjMG8yTDlKZUFoRC1yOURURzJPdEFITnVxbzg?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T04:50:35+00:00"
+    },
+    {
+      "title": "Bezzecchi fastest as Marc Marquez announces MotoGP retirement in Valencia - motogp.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFFDZ3k1anQyVFpvU1hnN3VBalVJYk00LXpMRlRaRkx6UWF1YW5ySm9HSFU4aDRwMTNuZ2tIQVdLYi1KQmt5NlQ4R1A0STJWUFpwajZmdVlyNWVsOEtWUzVER2hmb0ptbWZSQ3IyeXp4TTR6VzJYZmR6enNOUWE2TzRCUEkyTzVEcGZxNWRHeTNzbS16bl9CakRvc21ldVZJUVMxWjJ0NGh5TmtJRHFwODB6V3RRazNaVk80MU9KVm4?oc=5",
+      "source": "motogp.com",
+      "published_at": "2026-11-27T11:33:37+00:00"
+    },
+    {
+      "title": "Tel Aviv flight drops thousands of feet after pilot stabbed in alleged terror attack - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkdKU25NUFppS1h1OVBib2FDRTRrbmRGUk90MU9TM01zVzZUeEFrOTZ2RGFleGxJd2JQakhYTExYRGZYSUpTUXlVWkJlTExBVUJVSjlycVpGWThMaWNBYWFGajg5QlgyRVFRWjRKMmQ3RVJvTTJ1Y3lVeVByMjlTZzMtR0RSN1RiclpVTDR0d2hzajFPOVlEOEd6SjI2U3BSa3EwcWJlMnHSAa4BQVVfeXFMUF9sbEVqZ2c0MW9lMkRJaTBOa0UtdVFMR3pyNWJoNVE1SDJVWDlYM0xDbTFNMWFHdlNldXJVVHV5OUxWU1lRcXd1RFdpVmVkUjl4dFJ6WHQ2Ynl2SjRDSVhfNG5WSks0am5XMUZFNlJWUGJnbUFDNlRlYWQteG5xLWpEdWt5MWpNS0VTX3JHc3hlOFAtQkZaS2VtX2NnRjVnZlJjNDRWOXlOamR6a2RB?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T07:55:04+00:00"
+    },
+    {
+      "title": "Global temperatures hit record highs as El Niño strengthens: Report - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHVuUE9RZU1kdkZVNEkyZUlyWWgzVTlZQUtzU2JEeGN5Q2h6QlJQMGtNWW9kRDNEMWJ0NlZ3RWdMbEt1LUx4RURWY0ttNFM1dEp6dEhXZjVqTWZYWk5lX3FoTjNNZ0Z0cDVIWWJCdjFrRVRYN1VfaU9iQnJtdHI5VDE1YUlfNEtZaU9TMGxuM1V6Z2xiZ3VNN3o5eTE4bndBYTJhQ2h3bDNqZmhW0gGyAUFVX3lxTE1mTXFqUFpnb0Y0dENvdEhIMUJQczR1eC1vYWFWUmRFOWllQVpVQTlwR1lJbEdWZ3JkdXoyQWhvUTRCZ0FNaG04bHJDTVpLemRXemowdjl5M0k4REVOZDRyeG8zNkx5WElhSFlWN0xOcTVpMHFvODV1eVB6Y3RMelg1WnhxTF9Ndzl4WS1ZbVBZb0N2SlZ0eG5YZnhPd25iOThza05td19pXzdOeWhKanZhZmc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T23:24:02+00:00"
     },
     {
       "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more - The Guardian",
@@ -87,52 +111,106 @@
       "published_at": "2026-11-27T05:00:00+00:00"
     },
     {
-      "title": "Spain's Election Could Topple One of Europe's Last Left-Wing Holdouts - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdm9Ib2JOdDlGUHVmM3F5TzNRSDdlWmhUZUZjZmFMdDJCTFNCMWRGR21CanlFZjlkUnVSTEd2QjNqeHhOLVg3b0lIcHpFVFExaVd4QXNnVEZSM2YxSHRFcFFaekJySkxnN1N3S3dzZEtnellZMTZWZnk0ZnhGdmJMY2JIcFZUSFU2UnBQS19oR3FIUzNCbUFiU0owekZQcEtiVUhkTDczM1UxVG4tbml3czBORm16VWR5bDhVVzF5YVQ5NnFKcWJ4R2JyY01MUlVISEVDMzZyOVEwZWJvc3NZVWJSNGhGQS1MSmtfZlVjMDl6S0Vid3VUc25BY1hjSU1oeHEyMk5ueFBZMGM?oc=5",
-      "source": "Haaretz",
-      "published_at": "2026-11-26T15:43:00+00:00"
+      "title": "‘Botched That Game 8 Different Ways,’ ‘Too Many Mistakes’ — NFL World Reacts to Lions’ ‘Back-Breaking Loss’ to Bears on Thanksgiving - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjBfZHAzS1ZjSDM1dlFFZFZHYzVGOUN0b1hDU0pwVXBQOEpRLUpGWGdwSHEwNmJjWEFqZTNITVUzTDNVV0Zsb2hlNFczTFoydzBnOFZhN29kSHZHanZHVFBVMF9VS1dYeTVCRDBRc2FiV0xKb3VENzMzUGlmOFhuYmNreHpQVTloQnc?oc=5",
+      "source": "Yahoo Sports",
+      "published_at": "2026-11-27T04:18:00+00:00"
+    },
+    {
+      "title": "Zelensky: World depends on our products - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRERHYmtiY1QwckNBanU3WUhEZ2lzVHFlS2k4Q2RfRDFleV9XTEY0WE1zX0JXa09FRVFyMjlKdHFOcUNVQk95TThBeVFxYnMtUzZjWHE0M1hoVnVrbVI0bEQ0MGZXSjVzbXhQcUxXcEtMUXM1QlZsY1ExZkRFaVRsRDJ2OHI0ZGowQ3ZUTw?oc=5",
+      "source": "Breakingthenews.net",
+      "published_at": "2026-11-27T10:45:00+00:00"
+    },
+    {
+      "title": "New study says Earth’s frozen water system is at a breaking point - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGhYZDhZbC1VM0x2WUJpMXo5cWc3NTFuSlpVUTNRakpmQ0lCRmdTOWp0ZHRFTElWMW5PNUlTZE9iUkY1Z2RrM1lQTHBiSnUxVVRtSEpUUDFIUXFIUW9qdmlsbi1RSTIzWmpBS2FIakhKRDNPZ0MwOVBaa2U5OGNxNmgtblEzcFkzNGlwRjIwdnVqSFhYLTIzNml3?oc=5",
+      "source": "CBC",
+      "published_at": "2026-11-27T11:00:00+00:00"
+    },
+    {
+      "title": "BREAKING NEWS: Japan zoo breeds endangered penguin by artificial insemination in world 1st - Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfNnBzVmdzWE1NbkFEeE1TaDB5ZG9DSzhvczdrck1zYTllX2ZpWTdmMUZ2dWFwQlpHUHlxVHFoRXc1ZlRHTDFWcmlKaTZWclF6T1VxX3k3V3ZtZw?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "published_at": "2026-11-27T02:07:00+00:00"
     },
     {
       "title": "9 top countries by international student population (2026) - Study International",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fU3Y1d05fQThkQm5lbmFZX1R0LThHSXNOZ0Y4VU5oZk40WklqRlo0LVl4bXAwYkNFWFVHTmZpOFN5NU1uWGJrdmVSbWlEX1hiWWFfNGR0QVVKeHlDazByV0x1OWJLdGxZaWpiU0xUQmkwN2JJSGZsNw?oc=5",
       "source": "Study International",
-      "published_at": "2026-11-27T10:08:10+00:00"
+      "published_at": "2026-11-27T14:56:10+00:00"
     },
     {
-      "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-11-26T19:46:00+00:00"
+      "title": "School assembly news headlines today- November 28: Top national, sports and world news curated for you - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTEE5Y0xQVmwwRmhZakRWZm12bWhvOWJJVk94c3p4TUpWT19pY0xlVjVKYzViRU5fOU5mZmdiMVk0MjJtVlp3X0VJWkJXOWxCVkFtM0w5dnVzbU9PdW8wLUI1NkwyZ2NENFlyMnJQVnVRS3RxMjVieWZKZHRQR1pieklKM2NTZVZPLUpBUEIyT1laSkloaTNfNy14UVZOSndUY05VM05oaHFoMjE0VXN2UHJZRlUzNDhPejdZNFZPVG9YUW52N2hSWW5VS2dremN0V0RSNlE3aVpyOVNGUDNiQjhNMERFS3M?oc=5",
+      "source": "India Today",
+      "published_at": "2026-11-27T11:38:25+00:00"
     },
     {
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-11-26T16:41:04+00:00"
-    },
-    {
-      "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
+      "title": "Dolly Parton dead at 80: Celebrities, politicians react to country music superstar's death - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkdOV3JtSVNJVmJPTUxleFp4ZnZ4NTl5eklMdFZON3c5aWhwcUlaeUYzX0l2OXpKUGt4SWNrelNVY0pGVkFRb1Q0Z05uckNxaldWNFlYVUdDRk54WThZdkRCcmdYQnJ6Z1FOR0FmckdmeXl0WXhBbHQzTzJlbzU5UHN5ZW9mbVVvRnVzRXlTa2ttSG9NRm5UUF8yZU5UczdsdS11VlF0Wi3SAa4BQVVfeXFMTVI4eHFkSFRVLU4wQUJfNEpUdnY2alRtWFBnU2lEMWNJUHFXWC1VT0xMQmVBTmwxbUU4QmFLbDl4ektVbW5PVEtScDhsWXhsVk5YMWhRWlNtRGpOSXRBV2x5cnpJdjNnbzI4X3I4NWc2bVNVQkVyMlQ5cGZVZTcyYUM5M2M1WW50cUh6T05rZS1EaWY1dFphY1hSQ1BRZGpaRU50UG0xcFd6c2p0VDlB?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-26T18:59:59+00:00"
+      "published_at": "2026-11-27T04:42:06+00:00"
     },
     {
-      "title": "What to know about Elon Musk's massive $16.8 billion chip factory - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORU5GVVpzVWVrQ1M1akFaazg5aTRoWGhXdlR1dFJDN3JJbWE2dXZ5eHpoUV9NMjZiOGhGYkN4a3g5SHB0cWx3aHZBZVA1RTBhanpNa1ZaY2RvX0F2NTR3SUlVVEpEczVxOGMtX3JFWHpCOEhiajQ5RExmN1JjZ0Z1TEZFWWM3MlN2ek9VaElyRWVZV1Bvd2fSAZsBQVVfeXFMTmdfc3Y0b3Jua3RSX1dqTmVoRU5rMGFYS2pyZVNKdHF0WnNQNkNHbkFpX01Kd0JDT0FrRUhyYUJMV1k1WEpReFFSMnZJbkEwREtpWW1vYzNyUWV0cGFtU2VGbmpUOUpCMlZaNUtPUzVnN2p4SzBFNmZ0aTIxQ1dXM2V1NGU3SWdyV0RSZ1R2UHdSUTJPT0Q5b1Mwdlk?oc=5",
+      "title": "Artemis II astronauts on their out-of-this-world mission: 'Adventure of a lifetime' - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEdJOUxWNGx0YVg4eC1DVE9hUzBYZF9WWGZJdC1PUmU4Yy1zSjdkRWp4VnVDWUpXWXhSVjZFTVRhWEs4X1JXcnJPYmo4dzF3eEJ5Vi1kLURpRjB0cHRZYmUySkJWblZiRUwyWWR2OGY4T2tlSTlMUmdSakZFZ1BGdjBmeVVNM2ZMdWFIRVZNZ29DZFhUdzlVMUFwZUZQUUxhZWlBadIBqgFBVV95cUxNWXFLc200UWV3ZTJJaEJWWlV1NjhCSlRab2luclh3ZWNhSHJvNHNGcmNtSXo1UnZaNDU5V1FlZHNRVTR2TWJVX2k3UGJyYkxJTDRWaGpEVGhNSWZ5YjFWdkdHMTBWdndBUFFLWUlQeTNlckttQWIwWmgxM3cxdDMtTHZIYWtDVWxtVk55RnlDaklMUjVmQUwyMFAyWkkwTVljMkpuWERWbUE1UQ?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-27T00:07:25+00:00"
+      "published_at": "2026-11-26T22:14:53+00:00"
     },
     {
-      "title": "Ronnie O'Sullivan: Seven-time world snooker champion open to entering qualifiers for Crucible showpiece - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUi1iRWNiUV9xZjZIdDBNQkQ2cGJMczlYXzZMbmtmSlc1SFJIR2lXeUVHaUdiRk9aVGRLVk9hSExhM1BLd21FZXU4QkxPQWtPamFPZnFSdkVIN1F2dE9WSG1YY0VNOXBqeE5HaUU0Z2l6VVZ2X2FOVDhyOGd4dEZfc1FlNmd2U2V0ZG9SVU1Ub0ZiUHFSVHhZVDFZMnNzTDJIYzgwLVNoenR2X1ZaUFMzTWV1eW4zRWcyb01xQ252bF9uQ1l5bzd5aUNnZC1sZi1ZeG1uUzNCOUo1dUttdDZMYmZPbnlfenQwQVVfVm5SY2RkaGM?oc=5",
-      "source": "Sky Sports",
-      "published_at": "2026-11-27T10:04:08+00:00"
+      "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlF6elo5NUpPTTl1NjYwLVllSy00SVQtWjk3VnNtSFloT0k4OWQ4aDkyc1VhOEUzZEFDZ2RHR3pEMFByVmZpTTlQOU1FeER0SS1hTmJreDI5X05zSWU3bUlOUFFvX1NVWm10UkFuMXlyWklzZ1VQNjNtMHpRTzV4RE9aLTNrQdIBiwFBVV95cUxPTHBwazU2R09qZGFHN2I3RDFvcmRXNkVHWGFOWGpMUmV6YnZmcUZaOWdwU3lZdkVaSnZVUG5sUUo3eGZVT3V4d2ljcE1zM1JMTnk5WEpEdi0tamhOMzFuNmtCZ2dQWVo1SW1jSzR5UUw5MldKMXViRnY0RjltZ2RNanlzajFYQy04c0Q0?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-27T02:04:22+00:00"
     },
     {
-      "title": "SCHOTT Achieves EcoVadis Gold - Ink World Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFpQNWxSOEVrR29rdGdnZFlIR1RXOVNKT3EwMEF5MGRfdzZyVWZObjRCTFV6ZXJyay1pNFNBNkFFYnpwSjNJTkMyLTFQUmxUYmpSZllBS3FKMXcyQ3JLSTNFRTJQTEhMejY3VU9HUjdSVDBaOVg5cUlqR013TG91NkFvVQ?oc=5",
-      "source": "Ink World Magazine",
-      "published_at": "2026-11-27T02:37:00+00:00"
+      "title": "US sub sinks Iranian ship by torpedo in Indian Ocean, 1st such attack since WWII - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUU5Sd09CVVNfVzhXd3JzN1QyYWNZYWtkMXo4WUJmaXAwUTBpU2RDV1hFSUszWlNkRWxzVU5WM2RwQXhlSnlUc2xjRWczdzRlNExIOGQ2NnNCZG1WN1FYNWJDMkx1X2wwUWlFMmE3WjROT1ZQSC1BN3ZCTm45TzBjc2pycGVnQWllZWZXMXRqeW5pdGYzMXdYTW1n0gGfAUFVX3lxTFBCZ21ScFBZTk4wUVIzZmNyNWhkRUlTeFZ0Q0toZVR0M3VVUTZOdEh5a2d0NmFMS1RlNFdZV1lZQ3JfaUY5MGdRWTRiT01fVHNCYnhXMjdvT0ltSE5PNG9jZjNYLW41OG5qQkhrQVMwS0cxZVp4Mnc5bmpqVnBTSmQ1aDZrRFBINzZwLUtPWDNDcjBXSnk1bXNXcDRIMEhBOA?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-26T23:28:32+00:00"
+    },
+    {
+      "title": "Tennis-Davis Cup’s current format a winning formula, says World Tennis CEO - SRN News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1lMMHZTRXBUZWMzQU9scDJJcXhmZWdZZElSZ016LW5oU3pzX0tHN0s5TGtBUFdJRnJrVWNjbFltTEhZa05iUUJreUlvak0wbGFjRWVEZzFqejN1dlNRcU1FWFFWWlFZZE1ZN09KRW1JWXlDMVRKQkdWUlliR1JXdTZHOGU1R19zMVl0eXJzYWpZUDJuMXNnQw?oc=5",
+      "source": "SRN News",
+      "published_at": "2026-11-27T17:32:37+00:00"
+    },
+    {
+      "title": "English Reds into World Cup semis - Manchester United",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXNaZG1udldPaGFrcEItZ3pqVVd6cjlNaDJSd3drTUFTSl9jd2hYMTZ6c1dwdFNaRlE5QlJhWWt4TEQ1X2Y5bGktZTNzV1NkY1F5MDBGanBnRFpQQmF1Y1VCU2hiM2J5dTVtV2RqWmRmMnkydDFzSDZodlRYT1M2YU05RlowSy1pS0w4ZGthQjZrRWZzdDJudFI0SQ?oc=5",
+      "source": "Manchester United",
+      "published_at": "2026-11-27T03:32:33+00:00"
+    },
+    {
+      "title": "Senior al-Qaeda member killed in Pakistan drone strike - Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2hhSUxkX05kMTlfYThSemdyb19veDRhRzlHdkI0eGtURmdUblNBalVNeGlnNTlpZVhxMzM1NUFsQnpybnNyTXY0QkRfdG5KSV80Q0NBOUdZdEV5Smx3M0hxelBFamxSNWVVYU42OG5LdnBGSE8wSWhkMUlEYjJWd3NheVZyaDNMS19uRzY3LTY2S0l6RjhkUQ?oc=5",
+      "source": "Yeni Safak English",
+      "published_at": "2026-11-27T16:52:54+00:00"
+    },
+    {
+      "title": "Historic World Rugby rankings first: How the north can take all top three positions - Planet Rugby",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJNV2tacWZMM1JlYXFMR3hsSDFUbHFQUFpQT0pZV3lxa0cwSThkYUN2MWVmTVFxMEtJOGIwN05wM19uWFYzTk9BVWNWbXNmRElCRmRfcEkyLWlFU2pjRFFCSjBVakYzRUJMU1dTRk9IcDRUOGJjcjkxMGJwXzBZZVJ0anlFOXZoU3pmd01lVXdBcTJMbVFtVkJGWWxwQzRHUDdCWGMzRGN4Y1hSWGdpc0UxazRYZw?oc=5",
+      "source": "Planet Rugby",
+      "published_at": "2026-11-27T12:02:11+00:00"
+    },
+    {
+      "title": "Siemens launches world’s first heavy duty direct current contactor for up to 1500 V - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEVMVkNfa3d3Rlh6OHkwZzd1UlJTcjNOdGpVZTMyQks1NlRXaDl3WU4wUmdERjQ4eGR5YjhyaW0xemVJRzZwbktVSkZVazZSa19MOUtfMm5lYkc3SXhHNVJQamR4c01VYlBuMUl1a0plTFZxdGNrTy1MV21OcHNDMG9ZUnpzNkVrbll4dHhjNDJHUEFlbDdWWDhnSld1d0hMbENydmlHRVJtZlZvYUE?oc=5",
+      "source": "Batteries News",
+      "published_at": "2026-11-27T03:19:20+00:00"
+    },
+    {
+      "title": "Move over, Hong Kong: Cape Town makes the world’s top 20 shopping cities - Time Out Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjJ5M01aTkFJbi1fTnhjWXFFN2FydFZ0eHlZUlJaRGJXVWRmUEp0RkVkUmdpczVTMEhZUFA3a1JFRTJzMmNQWDR3eC1tcXk2UTJBUUc0YmxIX3gzMFFPbWp0Y2xUWFk1dXVmelRudWJ3SDN3R2VqUV9YZC1tdU5iSzhoZk1iSERtZEsxa0tNbkZhSlJVS2MzRklING83SGwxUWdTempBdHlzTDZkTnBoaGRjZ25IUQ?oc=5",
+      "source": "Time Out Worldwide",
+      "published_at": "2026-11-27T12:35:19+00:00"
+    },
+    {
+      "title": "Sanchez makes last bid to beat the right ahead of Spanish vote - The Weekly Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUlhZV9nTHFHTDZNWDUzcVBjQVJ0ZVlQbV9FWld3a3NQQkxoYmthWWJ6TkY2UVkxVUNhOVprOU5EMzdxSUNYcmRxamptaTJ0UUVfVExTOW4tNnJSaGJCY0t5TXJiZzRuNzhTSEVNeUtsUVBDOUVwNE04a1hmWWN3b2hfRUF3SnJ1d0t2aEYxZnFxVlNDb094SEZXNW14VmpQRXFQTUtxTGUwVWVHOWF0eHJoc1EwQml1N05vYWdXazNENDRVWFQ0SjBzZWkxdGZ3T2VoSFRILUprdTlkUjNYeTh3cHFjTFlCMUNvTHU4dUU?oc=5",
+      "source": "The Weekly Times",
+      "published_at": "2026-11-27T15:41:28+00:00"
     }
   ]
 }
