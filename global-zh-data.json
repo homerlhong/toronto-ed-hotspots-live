@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28T01:55:42.969361+00:00",
+  "updated_at": "2026-11-28T10:17:21.595793+00:00",
   "status": {
     "quakes": "OK",
     "events": "OK",
     "space_weather": "UNAVAILABLE: 1",
     "tornado": "OK",
-    "weather": "UNAVAILABLE: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "weather": "OK",
     "news_politics": "OK",
     "news_technology": "OK",
     "news_finance": "OK",
@@ -22,6 +22,12 @@
         "published_at": "2026-11-27T23:45:00+00:00"
       },
       {
+        "title": "聚焦台灣九合一選舉 外媒：2028前重要觀察指標 - 中天新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOE1NdUlCY3pnMWJhRG9HTElUTEIxQ0s4ZnFEeWFqUDExVHRJQzBNVnRaN1lUQmlhNmtoRzRLZHZkaDFMcDQ0WEo3SjFUOVpiZ2xB?oc=5",
+        "source": "中天新聞網",
+        "published_at": "2026-11-28T03:01:32+00:00"
+      },
+      {
         "title": "社評／氣候治理不能被政治綁架- 國際 - 旺得富理財網",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOQXU4dVNBQ1lWNU1NS0JHY1JHaVdkTEVnRmgzNVFPSlRPald6eHUwMnNwblByMWVRc3NEV0stVnVpZ2VYSFJzMjRxNzE4a3BnY1ZkYmJ5NW1VeDBCUFdVVGJ5QUNDOW9RQWc?oc=5",
         "source": "旺得富理財網",
@@ -34,42 +40,36 @@
         "published_at": "2026-11-27T14:47:50+00:00"
       },
       {
+        "title": "地方大選成賴清德期中考！澳媒解析九合一 直接牽動2028局勢 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CRTBMWUh5clhGbHhTa1ZoVW1qeG14RkstdktwVC1TbHdaY1NjbVFLM2hsOWROSHhtSVVmUXEybjk4VGljT3N5RGVDdktmRlFqa1RTRXJUYWIxNjlaVjJoZWxDOWJvd9IBa0FVX3lxTFBacTF6aFc5MWh3a2U4WGpJdGd6SFFxeldtelo4U21Ub1dTMmhpZVlCbTAzWG5jcFg0bXNKdjlha1BGZ1B0a0R6ckdXSXdoQ0JsQXZudEo0Y1FnUy1NZDFXWHQwdjNxNkJ6eEhZ?oc=5",
+        "source": "自由時報",
+        "published_at": "2026-11-28T03:46:36+00:00"
+      },
+      {
+        "title": "美國能重返晶片製造業霸主？ 台灣不能把科技命脈拱手相讓 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10OGVoMnIwMmRUdlNhUDQ0ZW9ZMFBqbGJPNUFVS3EtbHdEbUZHMks3eDhJeFQxdlNjelphYVlZV0E5TzdUeGJJZkN5NW9KZ182N3c?oc=5",
+        "source": "蕃新聞",
+        "published_at": "2026-11-28T05:19:48+00:00"
+      },
+      {
         "title": "當通訊成為戰略弱點　台灣必須建立全層次國家通訊韌性 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWGFTN1F0ZXpyeDBOeUQ1eWZCaENHMjJnTEVCV3FUZDFrNTR2T2p5ckN5TDZLMTZEYU04M2ZFcUdxRzNCWTNCLXF2MXhuRGfSAU5BVV95cUxONzhZMmRtS0Vjd0lPREJUMlpEN1hhTmVZQWZOM0VnLWNrUmFVdDRoT0dyMGZ6OGJfa1dnQi1Uc1Z3Mk44LWVYNE5vcEE2Y1E?oc=5",
         "source": "ETtoday新聞雲",
         "published_at": "2026-11-27T22:00:00+00:00"
       },
       {
-        "title": "高虹安秀政績莊競程中央加持| 2026九合一選舉 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TUWxYNFExNmRUcFRIbUozb1lNekc2dFJUV3lMalBEMkdlamdKQUlVSzRMVWNvSTRrdjMxVmJXWUFSdzhfRU93U2xRcG1naXRrTUVLTmY4cTU?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-27T15:50:00+00:00"
-      },
-      {
-        "title": "強調4年來政治初衷從未改變 蔣萬安喊投給「光榮城市」催沈默選民 | 上報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84NkYyYmhDWVEyZUFYLW4yd0l6RGdQczNiRU1ia0pubF9HRXdMbER3a3lmTVVrMFZ1UmFwR3B3dFR6WVJHZERQNHljbTUwaDZNRnhraWZWTlVPOGY4TlQ4TVczZ2Z4cnZjeThybzZjZmhBVkxSNmc?oc=5",
-        "source": "LINE TODAY",
-        "published_at": "2026-11-27T13:45:58+00:00"
-      },
-      {
-        "title": "影/選前之夜突破15萬人！蔣萬安：用選票向政治紛亂與惡鬥說不 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ici1QajNKMGpPNHVaTGwtMllteHFxMnpZUEhJM0x1YjR0Wmg2OHVyZldoejZFeHBmdnBKWER4YndqTkNQSC1kQ2RNUXBRRExKMm1V?oc=5",
-        "source": "中天新聞網",
-        "published_at": "2026-11-27T14:15:32+00:00"
-      },
-      {
-        "title": "特朗普淡化北京和莫斯科對德黑蘭的情報支持 - RFI",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUmJLNUNZRXJnZHZYWVlaMVNUWmFPZWdzLXZKOGQxZ0JRLUJBVUFMRzlZTHA0TnlhdzdYQnBZalRqa0dDY3I3Q3B2YlRjSEtSaHBwUUJOYXcwd3pPZDM0endVcWZGMk5nUF81aWVoOE9IQ0Q3SXZyclM4cUFyMWVETHlQUkVld3laQ25tZU9ucHU3aEVrbV92SjhINWFkX3g4XzQ1RzU4Ni1IZldxS3BiRWw2YTlpdE9TTzQ2dVM3VWM0Wlctc1hlc05qVVp2NlJiN3FlWThtSzF1MjdNVEx1aUdsSVFLNGlGbGdkNXZOLVB6c00xZUJua3dfbDhWN0twaHdIbGl3a2dYMk5HSEVMaWhlTU1MVDVNeG12TmhxUmx0SlVpb0JRNzVvdDFnMzFQUURMZndpbzl0REJoZDRjQkhLQnlQZG5fQ0ZnTE5BQQ?oc=5",
-        "source": "RFI",
-        "published_at": "2026-11-27T11:41:14+00:00"
+        "title": "西班牙耶羅島移民船難 釀14死、84人生還 - 公視新聞",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xd3VmWXZfVTRhNEJHUEFITDZLdUJ2UmltdE9kczg1ZWI1U01nQllQSUVFQ0FwNU5pR29UV2I3blFlTmJmeTRJaHM3WHRNaXc?oc=5",
+        "source": "公視新聞",
+        "published_at": "2026-11-28T04:09:47+00:00"
       }
     ],
     "technology": [
       {
-        "title": "AI Agent失控頻傳 非人類身分暴增成企業資安新破口 - 商傳媒",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbWxyWjREc0tSdGVRR0ZldlBfWTZXUUFHYVJIN0hqQkRrb0tST2lyMG5saUl4SmxZa1JyRmhDZkhOQ2M2YV9QazJfQjBIdE9tQmNXVkNFSnpqTWU3Z01pOFM1MXMzdl9XUV9SeWNFUXVNWGxoTE5Oa1hZMjk0MDFaSzRnY2M3Q0hXVDJLY3piNVVqVEFFWWRrbDdCcWZ0R2FPNVlJWHhuVGhOVmhhZjZabEJmU1RDc3dDLXlUZkc4NjE4VGo4Y2VlUS1PZzhUU3cwLXB3X1d0clFHT19QZVJVMXMtbDVxYzMwMjYxY3VFU2xXZWhtdldhM3dpNkRtSjlkd2hTTEJsM1NIN0RVMzd2Z3pMQlR1ZGtMMFdhZ2VqMklsT19vSFM1MTFGYkRlbW9KTnRrMW5WandiQUJ6eG1iX1dlVzdXQ3lEWW1QOWdzcEpMSjctdU4tVA?oc=5",
+        "title": "CrowdStrike擴大AI資安版圖 核心防護能力無須苦等併購案拍板 - 商傳媒",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOX3VuVFFpbG5RZVJmY2s5QmwtblkySFg4azJLa2RyQWY4T2dTN1FjLXdwYlJhVk1WV1lnaDZEYWFSUzVTMlBqWkU1WXdBSkZLbFFJb2lSbFV4TnZyLWNVOGk0ZUk0bnpUMmthcjl2anFLekd4WFA3d0VCV29vREtma2w2STVBMkpzNURQNDJIdllwanlyZ1dNc2RUbjNjUnhoY2lvV1EybXVwMEIxU2RlT0xoRXZQT0xyNkhUa3RnR0xWRWJDUk1McU81NlpWQlpoOXhNN2NQTnlxRjd3X1BfZFlGeTVxdTFXLVotbHVXam5MQkxHWGk4U1Zqb2JoM29UMVIweEl1Y05SWEhvaHV5R282S1d0ZFh2M0dMdWVsQWFfT2VxN0pic19wQ3JPZVNCMVZYY1RwOUNIX2NOaXo4b0FINXphdlpSdWxTWVdkRFdIbF9WYnZtZXVKY2NjRTlLS21qamhvZWZQcGlBVVBxT0x2N0o?oc=5",
         "source": "商傳媒",
-        "published_at": "2026-11-27T21:19:40+00:00"
+        "published_at": "2026-11-28T08:15:37+00:00"
       },
       {
         "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險 - iThome",
@@ -79,103 +79,208 @@
       },
       {
         "title": "華經看AI/資安需求增，對明年成長有信心 - 台視全球資訊網",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDBVY25NOXQ0VlhQVGtJZ2NwRFFmZHZfR0xrRzZ3cDYxYjNkS1EtUjRpMWxKVEhFZWFpWHo5MXFHdjViREZ4TVZXS2w2X1FIT0xVdm40b2dPQ2lCUW5fcUE3SnNYU1BXdmp0TjQ0Q2tHUGJCR0psX1dCckRkcG9QYXRiVFJ1eG1QSkx3NzRvQ0I1NkpKcFlfR1dYLXhqV09WODRfWloySVJGeGM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWZXcmdPY0pjTmJwRGQ2LWJsaE5MRGNzS21taG9xYTdfbS1WVHJQX3VPQl8zR0VDSXNfdlp4UTRldmViRW53eEJJM0hWOTVIaTJ2MWdFUkJkUG1qTVlaNmxESDBTVFB4M0dkRmUtbzk5dG5wZnpwdHd1ZmJoazI4aG5BcFpDbzdOVXVfLW1Ia1Z6UQ?oc=5",
         "source": "台視全球資訊網",
-        "published_at": "2026-11-27T10:08:13+00:00"
+        "published_at": "2026-11-27T11:08:27+00:00"
       },
       {
-        "title": "波蘭與Palantir簽約，3億美元採購AI戰場軟體 - BigGo 財經",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qS01kaTJxUk5UUlVDODh6WjZaWGpLbkYxSndVUkZjSllvemJ4X0VFVGd4UzZ3VVNKUjZvYThWNUxsWmZjWHJ1XzUxeGcwaVVZbkg2ZENRd2FoV3dyU3dIaHJ2MHhLSDJVb0RFcF9GR0UxY2dlU1pObkhn?oc=5",
-        "source": "BigGo 財經",
-        "published_at": "2026-11-27T15:05:00+00:00"
+        "title": "AI Agent失控頻傳 非人類身分暴增成企業資安新破口 - 商傳媒",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbWxyWjREc0tSdGVRR0ZldlBfWTZXUUFHYVJIN0hqQkRrb0tST2lyMG5saUl4SmxZa1JyRmhDZkhOQ2M2YV9QazJfQjBIdE9tQmNXVkNFSnpqTWU3Z01pOFM1MXMzdl9XUV9SeWNFUXVNWGxoTE5Oa1hZMjk0MDFaSzRnY2M3Q0hXVDJLY3piNVVqVEFFWWRrbDdCcWZ0R2FPNVlJWHhuVGhOVmhhZjZabEJmU1RDc3dDLXlUZkc4NjE4VGo4Y2VlUS1PZzhUU3cwLXB3X1d0clFHT19QZVJVMXMtbDVxYzMwMjYxY3VFU2xXZWhtdldhM3dpNkRtSjlkd2hTTEJsM1NIN0RVMzd2Z3pMQlR1ZGtMMFdhZ2VqMklsT19vSFM1MTFGYkRlbW9KTnRrMW5WandiQUJ6eG1iX1dlVzdXQ3lEWW1QOWdzcEpMSjctdU4tVA?oc=5",
+        "source": "商傳媒",
+        "published_at": "2026-11-27T21:19:40+00:00"
       },
       {
-        "title": "以機器級速度對抗AI攻擊！思科攜手OpenAI推出開源專案「Shirudo」 - Mashdigi",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qaFFxNlVwMDE2TG9TVXpVY1NSQnBseHVPdGVGUHZQOFZtNU93MkNCeEdiWkNjN05Dakhjc2tKdWVWMmZhdURsdnBYVHhDeHEyWkxfQ1l4V1VhbjFXZWxmc2QzQlNlZjBXMUlmUHNrTQ?oc=5",
-        "source": "Mashdigi",
-        "published_at": "2026-11-27T17:05:53+00:00"
+        "title": "砸錢買資安仍遭勒索軟體攻陷 專家點出防禦思維致命盲點 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMkRzSThESmUxSEpaNHFpUVNoQVJCekVITnZLbVN1dF84OFRKWFppVUZ0Um16UERtY0NielJ6QmFNbl9LVnhkbmdkblJITDlocEE?oc=5",
+        "source": "蕃新聞",
+        "published_at": "2026-11-27T23:01:23+00:00"
       },
       {
-        "title": "【資安週報】1123～1127，網銀盜轉手法曝光，第三方資訊服務供應商資安事件延燒至物流與電子發票服務 - iThome",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1cWp2SjR3UUtTSHYzWDFrZkI0Q1MwNXNQcExjMlA5RlRnZmRQdWlHbHZzaHBDVUYzNjU1Ujg0Nno3WGpvU0hBOVN2czdIZw?oc=5",
-        "source": "iThome",
-        "published_at": "2026-11-27T09:03:40+00:00"
-      },
-      {
-        "title": "AI 駭客逼銀行加速修補漏洞，系統更新反而成了當機風險 - TechNews 科技新報",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmo5WmRkRDVhMUVkQXdReDFfN3J1NFg5RkUzWS15V0FXamU5UVVRYklEeVJyNGJqb2t3NnlVZzJtSFROWmtHa2M2U0NJVUdWYzJOQ09nSkEyQzhxUVJWOFRWbmdEZ3otcldQOGcxZzUzVk9fZnFqc1Z0aC0weWlTbnZmb0dWRjk0dndaSWY4YnJzNkVoZFlzUnUtWEU0cFNOcjg2YmJCcF8xNl80SzdUZ21UWXQ?oc=5",
-        "source": "TechNews 科技新報",
-        "published_at": "2026-11-27T02:37:01+00:00"
+        "title": "AI 駭客逼銀行加速修補漏洞，系統更新反而成了當機風險 | 科技新報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wb01HRXc5NW9UZU4ydVF3eGhvdDNDVGxjbTI1OWUwM29VZF9ydFRNOHJ5blZEMmVnMmFaaEM4ZzhEX0NhakRuOVBCMFVQTGh5bVFBZmtR?oc=5",
+        "source": "LINE TODAY",
+        "published_at": "2026-11-27T10:57:14+00:00"
       },
       {
         "title": "CrowdStrike Holdings Inc(CRWD)股票11月27日盤中上漲3.79%：投資者必看的核心資訊 - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaUlMTjNQTWwzbDk4Mm9FbGVPSUtDNHMtNC13MTNycjg3UDB4VDk5Y21uQnpxVjVkcEZrbFVJVDFhd1RuaWM4YnlzMzVQdU56TkRGQThTQWhDdzFtdVgxZXoxaWxRRDVsdmcyUmh5WmhXVXlzcWQ3QjhjWmNPSjNkM2xrZzh0QmprX1lTTEVmVWJtUTRhT0E?oc=5",
         "source": "TradingKey",
         "published_at": "2026-11-27T19:18:57+00:00"
+      },
+      {
+        "title": "金融業導入AI挑戰合規 Saltware攜手AWS辦研討會拆解資安架構 - 商傳媒",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOSWNGVjZNTWpnMTgwTU1BYk9kaDU3TnFBcU5Iblk3WHEtSllKNzB2Y0RXRUVYZE9uZUxjVnhwTVczeENCTXNURkVsYXNZUVN5bm5sWURvR1paZWFiVkE5dng1aURMcndKVWlkM2k5NGE5MWNseW9Qbnl0cmtjLVJxcUdUdG9LbFZ0UlhRVGpUZlllRnpLdDlvUVJlLVdWZklQSWJNdFRoTmJNb1ZiNjBfUzMxbFlNNUhFREFvQUp2MmFlNmljQmdVaDBzSjQyMk0xMHFySzRaS0p5Z2pwTldhdlNkQVYtZkRlSEF3S3JqbTRhbVJJM0YzdjJHOHBPNGxMUkh3Vmh5cDByVG90LWdHZ2hrWHV4cjBLVUk1YlpSMWJjbm8ycHRnYjg5d18yRVZ4ck5oNmNSbmkyUVROdHBJVVlSaWJjOFMwYlA3LW9fbXRpVzhPSXgyNE5ZeG0yOEl2R3paODhDeDBoaV9RRUw1X2ZTUGk?oc=5",
+        "source": "商傳媒",
+        "published_at": "2026-11-28T04:25:05+00:00"
       }
     ],
     "finance": [
       {
+        "title": "台股跌完了嗎，多頭司令開示了？投票前驚險守住年線謝金河揭外資「不尋常動作」 | 李瑋萱 | 新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11b1dVVkFyOWNkdDliSnN0VUlDNldPcGZrNlpBM0oxbFk5ZUdjVVZQdW9PSDJtcWFWXzRTUlo5THBMVXdQS3VkU2NkMy1SZw?oc=5",
+        "source": "Storm.mg",
+        "published_at": "2026-11-28T08:44:00+00:00"
+      },
+      {
         "title": "高盛警告拋售尚未結束：未來一週全球股票或再遭千億美元賣盤 - 群益期貨",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSW5qT2xoV3J3MXZpUk1Hck5DNXNlTG5JNDBSTXRqYU5zanRrd2NxVl9uVGZqTzVVUVRmOU5GZHVlcGZERUN3cXdBVkpjaTRfa2Vmc2JwcFFNN1F6cGZSUjdVcThCeFh3djdlVTd5OWF2SEg3WDVrNHJWZ2RLWVZ6b2M2anJhTUhJbDdseVl4OGFiUTl0Mk52WEIxOEFzRmRkc3Bv?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjNHNUVNRUJPLXR1RXBoWWdkSFRQMmpCS0VqMWgyVmdEUnRPZUQ4Vk84VnI5c19RaHU4dWREMDQ3YkN3N2ZKbkNIQ0x2TU1FRVE1eXNTMGxuUXpaaTFPcmx0NTZpVFRWZ0JFU3A5TGdIeWxUSmJGS3NHa3lSdldzcnhZbXRKS1JGeTlZVWlOLXUyb3A3N2hlZUl0eHBDWGR1?oc=5",
         "source": "群益期貨",
         "published_at": "2026-11-27T13:17:05+00:00"
       },
       {
-        "title": "MoneyDJ新聞 2026-11-27 17:12:28 陳怡潔 發佈 - MoneyDJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUVmVDJYODBSZURNMUJaVjQ1dWJlLURMd2E3d0pBaURyNW4tOXJwdWVsLUc4MHh3RHVlbHo2bWVnVTh5TmQzMWRBVkRTQV9SdC1zR2pLcW4wMElRMkVvWk90VGt0eUlYRHQxOFN2Y21XVXlMbzFxNkdXaHlNdXg3b1BGd0IzclJ5a1VwSTdUR1kzZmM?oc=5",
-        "source": "MoneyDJ",
-        "published_at": "2026-11-27T09:12:41+00:00"
+        "title": "台灣正處「惡意做空」最前線！資深分析師批索羅斯複製1998年股匯雙殺：台灣守住了、世界才能穩 - FTNN新聞",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSlR0eFl1Ni10NXRKbWlLbkpkcTJfdzBvWGJmZGRzcWJEZTJMNGFwWlNBMzBXVXl5X005VFlqVk54TzhRdVJVelBONA?oc=5",
+        "source": "FTNN新聞",
+        "published_at": "2026-11-28T08:10:00+00:00"
       },
       {
-        "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序 - 鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVTdMNmV4WmpqLThOQTBBWklQSkgzRnR5ejRCSEt3VjQtYWxLSFBhQWlJX2xxdkZ5N1J4NEotai1WbjJUYWw5QjBXM21LZXc?oc=5",
-        "source": "鉅亨網",
-        "published_at": "2026-11-27T03:10:04+00:00"
+        "title": "澤平宏觀—站在新一輪康波周期的起點上 - 鉅亨號",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjN4SHRhbnFqQmNKZWJNcXlvVE4wQnVpbmh0RDJzcmQzNFlydHRBLWI3V1NaSlN4ZkxQZ0RWUGc0cG5MYnFLU1dTcC1LUUI0OGxlRGFJMzNTSjVWZnRfMjhveTBYeHRtcWhXVk9ST3o1YXVCUW8zQm9qc3JvR2lIV2syTnJ4OXlDWHRTMHZjQQ?oc=5",
+        "source": "鉅亨號",
+        "published_at": "2026-11-28T02:13:21+00:00"
       },
       {
-        "title": "富邦金、國泰金 四檔靚 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN0RVdHNRdk83SmZRcHVmUXJLSl9fS2NWQ0hZaHI1Y0VYeE1OejRzSTVlXzRNVkMyajFVdVd4cFJlY3FrdVNFcUlCb1BqeFVu0gFWQVVfeXFMUDloRXphVWJxdkdOYXBYdXJnTHNqa2ZsTGd5a1N1VFRNeFF0STI1UzEzY0g2dnViaWZxOW5NeVJXVk9qNGxnWU1WbDlhbl9aVnloTXkta3c?oc=5",
-        "source": "UDN",
-        "published_at": "2026-11-27T17:54:11+00:00"
+        "title": "《國際金融》Anthropic股票還值得買進嗎 華爾街分析師這樣建議 - 富聯網",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN09hWEx5MjVvVzV6NnU0MUliU3RWVzl3U185TnVvOWRsYVAzbjgtUURueVJTZDV0elN3VVhJTmdIRk9adU5vQ3VNUkVvNEs3NTgxRjN5R3VRdFVPNk9Sd1dGUmhtOGhONFh1VW9YUjE1ZllwSEtMd3p1NjRBdHcyVFBWNTlfbFY1?oc=5",
+        "source": "富聯網",
+        "published_at": "2026-11-28T07:41:00+00:00"
       },
       {
-        "title": "AI 熱潮急凍、資金大撤退：全球股市與央行政策正把投資人推向『安全資產』邊緣 - CMoney投資網誌",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOellEWlQ5ckpUcl9fQUlKQ01uZWpXNVhFRmxSOXVnZDNxdDgzMXp1WlMxcUJFVkdhRE4zcDM5NGFBb1hNZ256ZDhKc1FPT0doUko0b3JBalYzUktDbzFiOXJrYUNqRnQ3Z1JiQlZ1VXpzaGxsc00zeFM2allmWi12aVMwRE1KZ0RhaC01SmhKTS1JLUNpS3hsaUY5dzNXMWJfQ2hEVWNlb0FlY0pzZU9nT19JSGJFZTZBREcxbjdpdVhQREpQZTUxZjVmT2VtcUU?oc=5",
-        "source": "CMoney投資網誌",
-        "published_at": "2026-11-27T10:00:28+00:00"
+        "title": "選前壓力測試！台股戲劇性尾盤逆轉 謝金河：國安基金確實穩盤了 - TVBS新聞",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBONmc4X0V1TUlCUzA3MTM4dk8xQnM2aXcyNC1ucHZTbUkxZzJ5T1BaWEhjT2JtakNXclBDb3YxU2R1V013bFpicDlad0lDMUk?oc=5",
+        "source": "TVBS新聞",
+        "published_at": "2026-11-28T03:58:00+00:00"
       },
       {
-        "title": "國泰金控李長庚：股利不會讓投資人失望 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZmlqSy1IeDV6Z0h6NnplZDR5ekpYRkZlNHpLaU81eFcyWlNheXdLbjJmMzNRMFBUVjc1S0FZblR3SEJiSlNtLU1ObmllSmRPQ0RtbGhn0gFbQVVfeXFMTXFUZmF6ejU4UWEwbGwzajJmcWNpM2JsU1VENGlMc0UyWlFZZjlubVd6TV9yVHg2cmc4WklnYXdCNV9saXo0cVZ0R01WQUFpMUE4NWFUWTBncUIxMA?oc=5",
-        "source": "自由財經",
-        "published_at": "2026-11-27T21:30:00+00:00"
+        "title": "美國能重返晶片製造業霸主？ 台灣不能把科技命脈拱手相讓 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10OGVoMnIwMmRUdlNhUDQ0ZW9ZMFBqbGJPNUFVS3EtbHdEbUZHMks3eDhJeFQxdlNjelphYVlZV0E5TzdUeGJJZkN5NW9KZ182N3c?oc=5",
+        "source": "蕃新聞",
+        "published_at": "2026-11-28T05:19:48+00:00"
       },
       {
-        "title": "財經新聞週報｜本週台灣、世界財經新聞整理！重大新聞事件懶人包！ - StockFeel 股感",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRW9mY3VBYVNzMFRMYUU2aXdzRkF3QmJweEx6SEQ4d1VUbTVTRVhuM3JJZW5sT1A4bC1qcDdRRms1ci1qc181VDFxNnZGWEhUNkh0bVBXX0N3UUFHLWg4Y3dTWktBcVJFeUhBZ0pUTS1xNmNkdThVaHdZTHlBSVpGdGZrOGRXUnBIYmRYNWZ1bFFzYkwxcEYzanpXNkZHNTF6OGFnOEdJQmRxODYzT3IyS3dzRmJTTDN5bFNxX0o3ZHhiSEJ3VmlrSFhUUTZjeTh3OEhtcmRNQQ?oc=5",
-        "source": "StockFeel 股感",
-        "published_at": "2026-11-27T03:02:34+00:00"
-      },
-      {
-        "title": "MoneyDJ新聞 2026-11-27 18:47:51 丁于珊 發佈 - MoneyDJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnd6UThsV1lGX3JBbTR3OGIzdUpzY2t5XzdWOVNzVXVSQ243Yi1ka3N4Ni1CTDlpYTFKbUN4UjVrTXptTkRPQXpzd2NCa3Jfa18ybk5LRHZPbUczOUdMWWJnMnhZNV9pODAwNFdmZGFfMFB5S0Q0dzBGN3JwM05NQmc5NUY3RkZRVEtMRUZhNVVZWkE?oc=5",
-        "source": "MoneyDJ",
-        "published_at": "2026-11-27T10:48:04+00:00"
+        "title": "經濟日報社論／氣候危機正侵蝕經濟競爭力 - udn",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12aTRPRlZuQ3AtVThaVUdoeFItWnN3eWxhTXp4U1I5dmJFWkFnQXFNN1JTaElNRllUbjdYRGZDSElXRVc3aTdtY1JhVkdUaFBT0gFWQVVfeXFMUG5iNmJqUTR0SktQMS05a3BKUVZKa293TUlpYXMweEJuVXd3VmVLRlFobEppaDZUOVhuOHhmTFdtSEVnNXFVWWtROGVkR1phbmJNcmFQR2c?oc=5",
+        "source": "udn",
+        "published_at": "2026-11-27T19:06:51+00:00"
       }
     ],
     "stormnews": [],
     "space": []
   },
   "quakes": {
-    "count": 32,
+    "count": 44,
     "points": [
+      {
+        "lat": -18.5231,
+        "lon": -172.7339,
+        "mag": 4.6,
+        "kind": "quake",
+        "title": "132 km E of Neiafu, Tonga"
+      },
+      {
+        "lat": 28.763,
+        "lon": -99.036,
+        "mag": 3,
+        "kind": "quake",
+        "title": "15 km SSE of Pearsall, Texas"
+      },
+      {
+        "lat": 4.7979,
+        "lon": 94.1555,
+        "mag": 4.5,
+        "kind": "quake",
+        "title": "154 km WSW of Banda Aceh, Indonesia"
+      },
+      {
+        "lat": 31.9967,
+        "lon": -103.8251,
+        "mag": 2.7,
+        "kind": "quake",
+        "title": "34 km SE of Malaga, New Mexico"
+      },
+      {
+        "lat": 61.333,
+        "lon": -150.163,
+        "mag": 4,
+        "kind": "quake",
+        "title": "10 km WSW of Point MacKenzie, Alaska"
+      },
+      {
+        "lat": 20.3251666666667,
+        "lon": -155.980333333333,
+        "mag": 3.25,
+        "kind": "quake",
+        "title": "17 km WNW of Hāwī, Hawaii"
+      },
+      {
+        "lat": 55.573,
+        "lon": -155.284,
+        "mag": 2.8,
+        "kind": "quake",
+        "title": "167 km SSW of Akhiok, Alaska"
+      },
+      {
+        "lat": 20.095832824707,
+        "lon": -155.874160766602,
+        "mag": 2.49,
+        "kind": "quake",
+        "title": "14 km NNW of Puako, Hawaii"
+      },
+      {
+        "lat": 62.338,
+        "lon": -149.644,
+        "mag": 2.8,
+        "kind": "quake",
+        "title": "22 km NNE of Susitna North, Alaska"
+      },
+      {
+        "lat": 36.0408325195312,
+        "lon": -121.045669555664,
+        "mag": 3.24,
+        "kind": "quake",
+        "title": "10 km SSW of San Lucas, CA"
+      },
+      {
+        "lat": 47.0585,
+        "lon": 146.9156,
+        "mag": 4.2,
+        "kind": "quake",
+        "title": "216 km NNW of Kuril’sk, Russia"
+      },
+      {
+        "lat": 56.395,
+        "lon": -149.692,
+        "mag": 3.1,
+        "kind": "quake",
+        "title": "207 km SE of Chiniak, Alaska"
+      },
+      {
+        "lat": -18.945,
+        "lon": -70.2869,
+        "mag": 4.6,
+        "kind": "quake",
+        "title": "26 km NNW of Cuya, Chile"
+      },
+      {
+        "lat": -24.299,
+        "lon": -67.2363,
+        "mag": 5.2,
+        "kind": "quake",
+        "title": "93 km W of San Antonio de los Cobres, Argentina"
+      },
       {
         "lat": 38.7933349609375,
         "lon": -122.751831054688,
         "mag": 2.48,
         "kind": "quake",
         "title": "2 km NNE of The Geysers, CA"
+      },
+      {
+        "lat": 2.2665,
+        "lon": 125.9667,
+        "mag": 4.7,
+        "kind": "quake",
+        "title": "130 km NE of Bitung, Indonesia"
       },
       {
         "lat": 22.2546,
@@ -232,6 +337,20 @@
         "mag": 2.58,
         "kind": "quake",
         "title": "6 km NW of Pinnacles, CA"
+      },
+      {
+        "lat": 0.2415,
+        "lon": 122.7,
+        "mag": 4,
+        "kind": "quake",
+        "title": "51 km SW of Gorontalo, Indonesia"
+      },
+      {
+        "lat": 34.855,
+        "lon": -108.5239,
+        "mag": 3.3,
+        "kind": "quake",
+        "title": "19 km SSW of Pinehill, New Mexico"
       },
       {
         "lat": 61.959,
@@ -358,41 +477,6 @@
         "mag": 4.8,
         "kind": "quake",
         "title": "183 km SSE of Vilyuchinsk, Russia"
-      },
-      {
-        "lat": -20.0627,
-        "lon": -177.9493,
-        "mag": 4.1,
-        "kind": "quake",
-        "title": "Fiji region"
-      },
-      {
-        "lat": 17.8646666666667,
-        "lon": -66.9663333333333,
-        "mag": 3.31,
-        "kind": "quake",
-        "title": "13 km SSW of Guánica, Puerto Rico"
-      },
-      {
-        "lat": -44.568,
-        "lon": -79.7614,
-        "mag": 5,
-        "kind": "quake",
-        "title": "Off the coast of Aisen, Chile"
-      },
-      {
-        "lat": 2.0437,
-        "lon": 126.6462,
-        "mag": 4.6,
-        "kind": "quake",
-        "title": "155 km WNW of Tobelo, Indonesia"
-      },
-      {
-        "lat": -14.6253,
-        "lon": 167.8571,
-        "mag": 5,
-        "kind": "quake",
-        "title": "89 km SSE of Sola, Vanuatu"
       }
     ]
   },
@@ -452,12 +536,6 @@
         "lon": -111.578139,
         "kind": "event",
         "title": "Prescribed Fire Elk/Clark Piles RX, Coconino, Arizona"
-      },
-      {
-        "lat": -11.8,
-        "lon": -168.8,
-        "kind": "event",
-        "title": "Tropical Cyclone Xavier"
       },
       {
         "lat": 31.099822,
@@ -1298,6 +1376,12 @@
         "lon": -103.141587,
         "kind": "event",
         "title": "Wildfire Rabbit Ear East, Union, New Mexico"
+      },
+      {
+        "lat": 30.630467,
+        "lon": -82.241083,
+        "kind": "event",
+        "title": "Wildfire Mitchell, Ware, Georgia"
       }
     ]
   },
@@ -1306,6 +1390,45 @@
     "count": 0,
     "scope": "United States NWS active Tornado Warning"
   },
-  "weather": null,
+  "weather": {
+    "cities": [
+      {
+        "name": "臺北",
+        "temp": 16.6,
+        "cloud": 96,
+        "wind": 6.7
+      },
+      {
+        "name": "東京",
+        "temp": 16.9,
+        "cloud": 95,
+        "wind": 10.7
+      },
+      {
+        "name": "紐約",
+        "temp": 4.9,
+        "cloud": 1,
+        "wind": 18.4
+      },
+      {
+        "name": "多倫多",
+        "temp": 3.2,
+        "cloud": 83,
+        "wind": 10.4
+      },
+      {
+        "name": "倫敦",
+        "temp": 5.9,
+        "cloud": 100,
+        "wind": 16.6
+      },
+      {
+        "name": "雪梨",
+        "temp": 21.6,
+        "cloud": 100,
+        "wind": 13.0
+      }
+    ]
+  },
   "videos": []
 }
